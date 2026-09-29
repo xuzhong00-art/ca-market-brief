@@ -16,7 +16,7 @@ crumb = op.open("https://query1.finance.yahoo.com/v1/test/getcrumb", timeout=30)
 print("crumb:", repr(crumb))
 
 def screener(sort):
-    body = {"size":60,"offset":0,"sortField":"percentchange","sortType":sort,"quoteType":"EQUITY",
+    body = {"size":80,"offset":0,"sortField":"percentchange","sortType":sort,"quoteType":"EQUITY",
       "query":{"operator":"AND","operands":[
         {"operator":"eq","operands":["region","ca"]},
         {"operator":"gte","operands":["intradayprice",2]},
