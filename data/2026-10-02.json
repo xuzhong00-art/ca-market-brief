@@ -1,0 +1,619 @@
+{
+ "date": "2026-10-02",
+ "weekday": "周五",
+ "snapshot": "2026-10-02 16:00 ET 收盘（补跑：早盘排程未执行，本期按收盘数据生成）",
+ "market_state": "CLOSED",
+ "note": "⏰ 本期为补跑：早上 7:00 PT 的排程未能执行，数据取自 10 月 2 日收盘快照（Yahoo + TradingView 双源核验），量比按全天口径计算。",
+ "vr_note": "量比 = 全天成交量 ÷ 3个月日均量（收盘口径，系数 1.0）。⚠️≥3，🔥≥8。",
+ "gainers": [
+  [
+   1,
+   "TALA.TO",
+   "Talamore Mining",
+   "8.10",
+   "+12.19%",
+   "1.3B",
+   "金矿开发",
+   1.4
+  ],
+  [
+   2,
+   "ABXX.TO",
+   "Abaxx Technologies",
+   "17.36",
+   "+10.78%",
+   "673M",
+   "大宗商品交易所",
+   0.8
+  ],
+  [
+   3,
+   "GLAD.V",
+   "Gladiator Metals",
+   "2.40",
+   "+10.60%",
+   "255M",
+   "铜矿勘探(育空)",
+   3.3
+  ],
+  [
+   4,
+   "SGML.V",
+   "Sigma Lithium",
+   "12.86",
+   "+9.45%",
+   "1.4B",
+   "锂矿(巴西)",
+   3.1
+  ],
+  [
+   5,
+   "FTG.TO",
+   "Firan Technology Group",
+   "26.91",
+   "+7.77%",
+   "677M",
+   "航空电子/PCB",
+   2.4
+  ],
+  [
+   6,
+   "TKO.TO",
+   "Trekor Metals",
+   "12.76",
+   "+7.32%",
+   "4.7B",
+   "铜矿(BC)",
+   0.9
+  ],
+  [
+   7,
+   "FDR.V",
+   "Founders Metals",
+   "8.25",
+   "+7.14%",
+   "1.2B",
+   "金矿勘探(苏里南)",
+   5.0
+  ],
+  [
+   8,
+   "HG.CN",
+   "HydroGraph Clean Power",
+   "3.80",
+   "+7.04%",
+   "1.4B",
+   "石墨烯材料",
+   0.9
+  ],
+  [
+   9,
+   "HHH.V",
+   "Helius Minerals",
+   "4.85",
+   "+6.83%",
+   "262M",
+   "金属勘探",
+   0.8
+  ],
+  [
+   10,
+   "ERO.TO",
+   "Ero Copper",
+   "54.05",
+   "+6.50%",
+   "5.6B",
+   "铜矿(巴西)",
+   1.0
+  ],
+  [
+   11,
+   "SOIL.TO",
+   "Saturn Oil & Gas",
+   "7.27",
+   "+6.44%",
+   "1.3B",
+   "轻油生产",
+   1.2
+  ],
+  [
+   12,
+   "CAD.V",
+   "Colonial Coal",
+   "2.05",
+   "+6.22%",
+   "380M",
+   "冶金煤",
+   1.0
+  ],
+  [
+   13,
+   "BTQ.NE",
+   "BTQ Technologies",
+   "4.52",
+   "+6.10%",
+   "665M*",
+   "量子安全/区块链",
+   1.2
+  ],
+  [
+   14,
+   "CDR.TO",
+   "Condor Energies",
+   "4.40",
+   "+6.02%",
+   "380M",
+   "油气(中亚)",
+   1.3
+  ],
+  [
+   15,
+   "ASTL.TO",
+   "Algoma Steel",
+   "6.19",
+   "+5.81%",
+   "652M",
+   "钢铁",
+   1.7
+  ],
+  [
+   16,
+   "WTE.TO",
+   "Westshore Terminals",
+   "45.89",
+   "+5.45%",
+   "2.8B",
+   "煤炭/钾盐码头",
+   2.6
+  ],
+  [
+   17,
+   "TECK-B.TO",
+   "Teck Resources",
+   "97.76",
+   "+5.34%",
+   "48.0B",
+   "铜矿(大型)",
+   1.2
+  ],
+  [
+   18,
+   "AGTF.TO",
+   "AGT Food and Ingredients",
+   "19.45",
+   "+5.19%",
+   "1.3B",
+   "农产品加工",
+   1.5
+  ],
+  [
+   19,
+   "LUN.TO",
+   "Lundin Mining",
+   "35.01",
+   "+5.17%",
+   "29.8B",
+   "铜矿",
+   1.0
+  ],
+  [
+   20,
+   "KEEL.TO",
+   "Keel Infrastructure",
+   "5.15",
+   "+4.89%",
+   "3.2B",
+   "数据中心/算力",
+   0.7
+  ],
+  [
+   21,
+   "CS.TO",
+   "Capstone Copper",
+   "14.43",
+   "+4.72%",
+   "11.0B",
+   "铜矿",
+   0.8
+  ],
+  [
+   22,
+   "TIH.TO",
+   "Toromont Industries",
+   "236.69",
+   "+4.68%",
+   "19.3B",
+   "重型设备经销",
+   0.8
+  ],
+  [
+   23,
+   "GRID.TO",
+   "Tantalus Systems",
+   "4.71",
+   "+4.67%",
+   "268M",
+   "智能电网软件",
+   0.4
+  ],
+  [
+   24,
+   "TSLA.TO",
+   "Tesla CDR",
+   "32.03",
+   "+4.64%",
+   "1897.1B*",
+   "电动车(CDR)",
+   1.4
+  ],
+  [
+   25,
+   "LGD.TO",
+   "Liberty Gold",
+   "2.10",
+   "+4.48%",
+   "1.2B",
+   "金矿开发",
+   1.3
+  ],
+  [
+   26,
+   "ITR.V",
+   "Integra Resources",
+   "3.79",
+   "+4.41%",
+   "769M",
+   "黄金",
+   0.7
+  ],
+  [
+   27,
+   "GSKR.V",
+   "Goldsky Resources",
+   "3.13",
+   "+4.33%",
+   "580M",
+   "黄金",
+   0.4
+  ],
+  [
+   28,
+   "ARG.TO",
+   "Amerigo Resources",
+   "8.95",
+   "+4.31%",
+   "1.4B",
+   "铜尾矿回收",
+   0.8
+  ],
+  [
+   29,
+   "SMCI.NE",
+   "Super Micro CDR",
+   "14.05",
+   "+4.23%",
+   "35.4B*",
+   "AI服务器(CDR)",
+   0.3
+  ],
+  [
+   30,
+   "ARE.TO",
+   "Aecon Group",
+   "59.17",
+   "+4.14%",
+   "4.1B",
+   "建筑工程",
+   1.2
+  ]
+ ],
+ "losers": [
+  [
+   1,
+   "BZ.V",
+   "Benz Mining",
+   "4.45",
+   "-9.74%",
+   "1.7B",
+   "金矿勘探(西澳)",
+   1.8
+  ],
+  [
+   2,
+   "CRDL.TO",
+   "Cardiol Therapeutics",
+   "2.03",
+   "-8.97%",
+   "247M",
+   "心血管生物药",
+   2.8
+  ],
+  [
+   3,
+   "EPRX.TO",
+   "Eupraxia Pharmaceuticals",
+   "10.32",
+   "-7.77%",
+   "682M",
+   "生物制药(EoE)",
+   2.5
+  ],
+  [
+   4,
+   "MLP.V",
+   "Millennial Potash",
+   "2.25",
+   "-6.64%",
+   "266M",
+   "钾盐(加蓬)",
+   1.8
+  ],
+  [
+   5,
+   "AP-UN.TO",
+   "Allied Properties REIT",
+   "6.58",
+   "-5.60%",
+   "1.4B",
+   "办公 REIT",
+   2.3
+  ],
+  [
+   6,
+   "EXE.TO",
+   "Extendicare",
+   "28.29",
+   "-5.35%",
+   "2.7B",
+   "养老院",
+   1.5
+  ],
+  [
+   7,
+   "QNC.V",
+   "Quantum eMotion",
+   "2.33",
+   "-5.28%",
+   "511M",
+   "量子随机数/网络安全",
+   1.2
+  ],
+  [
+   8,
+   "NEO.TO",
+   "Neo Performance Materials",
+   "29.76",
+   "-4.68%",
+   "1.4B",
+   "稀土/磁材",
+   1.2
+  ],
+  [
+   9,
+   "HMMC.TO",
+   "Hemlo Mining",
+   "5.56",
+   "-4.63%",
+   "1.6B",
+   "黄金生产(安省)",
+   1.6
+  ],
+  [
+   10,
+   "EIF.TO",
+   "Exchange Income",
+   "115.78",
+   "-4.60%",
+   "6.5B",
+   "航空/工业",
+   1.7
+  ],
+  [
+   11,
+   "PHOS.CN",
+   "First Phosphate",
+   "2.11",
+   "-4.09%",
+   "399M",
+   "磷酸盐矿(魁北克)",
+   0.5
+  ],
+  [
+   12,
+   "XNDU.TO",
+   "Xanadu Quantum Technologies",
+   "6.11",
+   "-4.08%",
+   "1.9B",
+   "量子计算",
+   2.3
+  ],
+  [
+   13,
+   "WELL.TO",
+   "WELL Health Technologies",
+   "4.31",
+   "-3.79%",
+   "1.1B",
+   "数字医疗",
+   0.8
+  ],
+  [
+   14,
+   "LCFS.TO",
+   "Tidewater Renewables",
+   "22.83",
+   "-3.67%",
+   "834M",
+   "可再生燃料",
+   0.8
+  ],
+  [
+   15,
+   "AC.TO",
+   "Air Canada",
+   "25.35",
+   "-3.58%",
+   "6.4B",
+   "航空",
+   1.8
+  ],
+  [
+   16,
+   "PNG.V",
+   "Kraken Robotics",
+   "4.13",
+   "-3.50%",
+   "1.5B",
+   "海洋机器人/国防",
+   1.4
+  ],
+  [
+   17,
+   "DPRO.CN",
+   "Draganfly",
+   "7.53",
+   "-3.46%",
+   "295M",
+   "无人机/国防",
+   1.6
+  ],
+  [
+   18,
+   "NKE.NE",
+   "Nike CDR",
+   "6.07",
+   "-3.34%",
+   "67.8B*",
+   "运动服饰(CDR)",
+   1.2
+  ],
+  [
+   19,
+   "EFX.TO",
+   "Enerflex",
+   "35.02",
+   "-3.34%",
+   "4.3B",
+   "天然气压缩/发电设备",
+   0.9
+  ],
+  [
+   20,
+   "AUXX.V",
+   "Gold X2 Mining",
+   "6.57",
+   "-3.10%",
+   "665M",
+   "金矿开发",
+   0.4
+  ],
+  [
+   21,
+   "CURA.TO",
+   "Curaleaf Holdings",
+   "14.21",
+   "-3.07%",
+   "3.8B",
+   "美国大麻MSO",
+   1.4
+  ],
+  [
+   22,
+   "DPM.TO",
+   "DPM Metals",
+   "55.41",
+   "-3.06%",
+   "12.2B",
+   "黄金生产",
+   2.5
+  ],
+  [
+   23,
+   "NOWS.NE",
+   "ServiceNow CDR",
+   "17.01",
+   "-3.02%",
+   "907.9B*",
+   "企业软件(CDR)",
+   0.7
+  ],
+  [
+   24,
+   "GG.V",
+   "Golconda Gold",
+   "2.90",
+   "-3.01%",
+   "207M",
+   "黄金生产(南非)",
+   0.7
+  ],
+  [
+   25,
+   "GUD.TO",
+   "Knight Therapeutics",
+   "10.32",
+   "-3.01%",
+   "1.0B",
+   "特种制药",
+   0.7
+  ],
+  [
+   26,
+   "HR-UN.TO",
+   "H&R REIT",
+   "9.19",
+   "-2.96%",
+   "2.6B",
+   "综合 REIT",
+   1.3
+  ],
+  [
+   27,
+   "VZLA.TO",
+   "Vizsla Silver",
+   "5.17",
+   "-2.82%",
+   "1.8B",
+   "白银开发",
+   0.9
+  ],
+  [
+   28,
+   "SLI.V",
+   "Standard Lithium",
+   "2.48",
+   "-2.75%",
+   "612M",
+   "锂(直接提锂)",
+   0.8
+  ],
+  [
+   29,
+   "MACK.V",
+   "MacKay Gold and Silver",
+   "2.85",
+   "-2.73%",
+   "244M",
+   "金银勘探",
+   0.5
+  ],
+  [
+   30,
+   "CHR.TO",
+   "Chorus Aviation",
+   "29.04",
+   "-2.68%",
+   "655M",
+   "支线航空/租赁",
+   0.8
+  ]
+ ],
+ "table_notes": [
+  "*CDR 市值为美股母公司总市值，非加拿大挂牌市值。",
+  "Yahoo 筛选 80 行 → .TO>.V>.CN>.NE 去重 → regularMarketTime 当日校验（本期无停牌僵尸数据）→ TradingView 逐只交叉验证（含 type=dr 补查 CDR）。DGS（分级基金，非经营性公司）已剔除。"
+ ],
+ "sectors_html": "<ul><li><strong>铜/基本金属全线领涨</strong>：Teck +5.3%、Lundin +5.2%、Capstone +4.7%、Hudbay +4.1%、Ivanhoe +4.0%、Ero +6.5%、Trekor +7.3%——铜价强势 + 战略金属板块周五集体反弹（VanEck 稀土/战略金属 ETF +5.5%）。</li><li><strong>战略金属/锂超跌反弹</strong>：Sigma Lithium +9.4%（10/1 因巴西环保禁令停产暴跌 13% 后抄底）、Colonial Coal +6.2%。</li><li><strong>黄金勘探个股活跃</strong>：Gladiator +10.6%、Founders +7.1%、Helius +6.8%、Liberty Gold +4.5%，但黄金生产商（DPM -3.1%、Hemlo -4.6%、Vizsla -2.8%）回落——资金从金矿生产商向勘探股/铜股轮动。</li><li><strong>个股事件</strong>：Talamore +12.2%（10/2 股东会表决债务融资安排）、Abaxx +10.8%、Firan +7.8%、Westshore +5.5%、Algoma Steel +5.8%。</li><li><strong>跌幅榜</strong>：生物医药（Cardiol -9.0%、Eupraxia -7.8%、Knight -3.0%）、航空（Exchange Income -4.6%、Air Canada -3.6%、Chorus -2.7%）、REIT（Allied -5.6%、H&R -3.0%）、量子概念（Quantum eMotion -5.3%、Xanadu -4.1%）集体走弱；CDR 跌幅股 Nike -3.3%、ServiceNow -3.0%。</li></ul>",
+ "anomalies_html": "<ul><li><strong>FDR.V Founders Metals</strong> 量比 5.0⚠️（+7.1%）：未见当日公告，苏里南 Antino 金矿勘探股放量追涨，叠加黄金勘探板块轮动。</li><li><strong>GLAD.V Gladiator Metals</strong> 量比 3.3⚠️（+10.6%）：前一日 -5.5% 后反弹，育空铜矿勘探（Cowley/Cub East 钻探题材），无新公告。</li><li><strong>SGML.V Sigma Lithium</strong> 量比 3.1⚠️（+9.4%）：10/1 巴西法院环保禁令停产暴跌后技术性反弹，JPM/BMO 已下调评级，12 月 1.06 亿美元债务到期压力仍在。</li><li>无 🔥（≥8）级别异常。</li></ul>",
+ "digest": "铜/基本金属全线领涨（Teck、Lundin、Capstone），锂股 Sigma 超跌反弹；生物医药、航空、REIT 走弱。异常量比：FDR 5.0、GLAD 3.3、SGML 3.1。"
+}
