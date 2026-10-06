@@ -1,0 +1,618 @@
+{
+ "date": "2026-10-06",
+ "weekday": "周二",
+ "snapshot": "2026-10-06 10:11 ET 早盘（开盘约40分钟）",
+ "market_state": "REGULAR",
+ "vr_note": "量比 = 当日成交量 ÷ (3个月日均量 × 0.10)，0.10 为快照时已开盘约 0.68 小时占全日 6.5 小时的比例。CDR 行（由 TradingView 补入）用 30 日均量。⚠️≥3，🔥≥8。早盘量比对开盘集合竞价敏感，数值偏高属正常，请结合全天观察。",
+ "gainers": [
+  [
+   1,
+   "CEGS.TO",
+   "Constellation Energy (CDR)",
+   "20.77",
+   "+14.00%",
+   "135.2B",
+   "美股CDR·核电/电力",
+   13.3
+  ],
+  [
+   2,
+   "KLD.V",
+   "Kenorland Minerals",
+   "2.52",
+   "+13.00%",
+   "203M",
+   "黄金勘探/项目生成",
+   4.0
+  ],
+  [
+   3,
+   "ACO-X.TO",
+   "ATCO",
+   "83.70",
+   "+12.83%",
+   "9.4B",
+   "公用事业控股",
+   17.3
+  ],
+  [
+   4,
+   "MRV.TO",
+   "Marvell Technology (CDR)",
+   "48.20",
+   "+9.87%",
+   "339.2B",
+   "美股CDR·半导体",
+   12.9
+  ],
+  [
+   5,
+   "XNDU.TO",
+   "Xanadu Quantum",
+   "6.95",
+   "+7.75%",
+   "2.1B",
+   "量子计算",
+   11.7
+  ],
+  [
+   6,
+   "ISO.TO",
+   "IsoEnergy",
+   "14.55",
+   "+7.70%",
+   "949M",
+   "铀矿",
+   4.8
+  ],
+  [
+   7,
+   "ZVST.NE",
+   "Vistra (CDR)",
+   "8.65",
+   "+7.31%",
+   "2.9B",
+   "美股CDR·电力",
+   48.6
+  ],
+  [
+   8,
+   "ALDE.V",
+   "Aldebaran Resources",
+   "3.39",
+   "+6.27%",
+   "628M",
+   "铜金勘探(阿根廷)",
+   9.9
+  ],
+  [
+   9,
+   "NXE.TO",
+   "NexGen Energy",
+   "13.75",
+   "+6.26%",
+   "9.1B",
+   "铀矿",
+   3.6
+  ],
+  [
+   10,
+   "DML.TO",
+   "Denison Mines",
+   "3.98",
+   "+6.15%",
+   "3.6B",
+   "铀矿",
+   6.1
+  ],
+  [
+   11,
+   "BTQ.NE",
+   "BTQ Technologies",
+   "4.74",
+   "+6.04%",
+   "697M",
+   "后量子加密",
+   1.9
+  ],
+  [
+   12,
+   "GEV.TO",
+   "GE Vernova (CDR)",
+   "70.16",
+   "+5.82%",
+   "376.0B",
+   "美股CDR·电力设备",
+   8.0
+  ],
+  [
+   13,
+   "BB.TO",
+   "BlackBerry",
+   "13.68",
+   "+5.72%",
+   "8.0B",
+   "软件/QNX",
+   4.3
+  ],
+  [
+   14,
+   "EFR.TO",
+   "Energy Fuels",
+   "16.22",
+   "+5.39%",
+   "4.3B",
+   "铀/稀土",
+   2.8
+  ],
+  [
+   15,
+   "CRWD.TO",
+   "CrowdStrike (CDR)",
+   "88.53",
+   "+4.71%",
+   "398.2B",
+   "美股CDR·网络安全",
+   5.2
+  ],
+  [
+   16,
+   "CRWV.TO",
+   "CoreWeave (CDR)",
+   "17.22",
+   "+4.55%",
+   "68.7B",
+   "美股CDR·AI算力云",
+   4.0
+  ],
+  [
+   17,
+   "CCO.TO",
+   "Cameco",
+   "130.45",
+   "+4.52%",
+   "56.8B",
+   "铀矿龙头",
+   2.7
+  ],
+  [
+   18,
+   "PRL.TO",
+   "Propel Holdings",
+   "25.72",
+   "+3.79%",
+   "1.0B",
+   "金融科技/消费信贷",
+   2.4
+  ],
+  [
+   19,
+   "CURA.TO",
+   "Curaleaf",
+   "14.45",
+   "+3.66%",
+   "3.8B",
+   "大麻",
+   2.0
+  ],
+  [
+   20,
+   "FISV.TO",
+   "Fiserv (CDR)",
+   "4.64",
+   "+3.57%",
+   "35.0B",
+   "美股CDR·支付",
+   14.0
+  ],
+  [
+   21,
+   "TA.TO",
+   "TransAlta",
+   "18.41",
+   "+3.54%",
+   "5.8B",
+   "独立发电",
+   1.8
+  ],
+  [
+   22,
+   "ELVA.TO",
+   "Electrovaya",
+   "9.42",
+   "+3.39%",
+   "466M",
+   "锂电池",
+   1.3
+  ],
+  [
+   23,
+   "EPRX.TO",
+   "Eupraxia Pharmaceuticals",
+   "11.34",
+   "+3.18%",
+   "749M",
+   "生物科技",
+   3.3
+  ],
+  [
+   24,
+   "WJX.TO",
+   "Wajax",
+   "39.76",
+   "+3.11%",
+   "866M",
+   "工业设备分销",
+   6.5
+  ],
+  [
+   25,
+   "MACK.V",
+   "Mackay Gold & Silver",
+   "2.90",
+   "+2.84%",
+   "248M",
+   "金银勘探(内华达)",
+   11.6
+  ],
+  [
+   26,
+   "QBR-B.TO",
+   "Quebecor",
+   "63.30",
+   "+2.83%",
+   "14.1B",
+   "电信",
+   0.5
+  ],
+  [
+   27,
+   "NOWS.TO",
+   "ServiceNow (CDR)",
+   "17.76",
+   "+2.72%",
+   "200.7B",
+   "美股CDR·企业软件",
+   3.3
+  ],
+  [
+   28,
+   "ABT.TO",
+   "Abbott Labs (CDR)",
+   "17.49",
+   "+2.70%",
+   "247.0B",
+   "美股CDR·医疗器械",
+   7.5
+  ],
+  [
+   29,
+   "MDA.TO",
+   "MDA Space",
+   "43.18",
+   "+2.69%",
+   "7.0B",
+   "航天",
+   1.0
+  ],
+  [
+   30,
+   "SMCI.NE",
+   "Super Micro Computer (CDR)",
+   "14.17",
+   "+2.68%",
+   "35.7B",
+   "美股CDR·AI服务器",
+   0.9
+  ]
+ ],
+ "losers": [
+  [
+   1,
+   "WDC.TO",
+   "Western Digital (CDR)",
+   "25.30",
+   "-5.56%",
+   "227.1B",
+   "美股CDR·存储",
+   6.9
+  ],
+  [
+   2,
+   "CMGS.TO",
+   "Chipotle (CDR)",
+   "11.89",
+   "-5.03%",
+   "55.7B",
+   "美股CDR·餐饮",
+   19.0
+  ],
+  [
+   3,
+   "MAXX.CN",
+   "Max Power Mining",
+   "2.71",
+   "-4.91%",
+   "524M",
+   "天然氢勘探",
+   1.1
+  ],
+  [
+   4,
+   "HG.CN",
+   "HydroGraph Clean Power",
+   "3.39",
+   "-4.26%",
+   "1.2B",
+   "石墨烯材料",
+   6.2
+  ],
+  [
+   5,
+   "BZ.V",
+   "Benz Mining",
+   "4.35",
+   "-3.76%",
+   "1.7B",
+   "黄金勘探(澳洲)",
+   4.0
+  ],
+  [
+   6,
+   "DPM.TO",
+   "DPM Metals",
+   "54.12",
+   "-3.67%",
+   "11.9B",
+   "黄金生产",
+   2.4
+  ],
+  [
+   7,
+   "TLO.TO",
+   "Talon Metals",
+   "9.02",
+   "-3.63%",
+   "1.5B",
+   "镍铜勘探",
+   1.1
+  ],
+  [
+   8,
+   "PHOS.CN",
+   "First Phosphate",
+   "2.00",
+   "-2.90%",
+   "378M",
+   "磷矿/LFP",
+   2.2
+  ],
+  [
+   9,
+   "SCZ.TO",
+   "Santacruz Silver",
+   "12.40",
+   "-2.90%",
+   "1.2B",
+   "白银生产",
+   1.5
+  ],
+  [
+   10,
+   "CS.TO",
+   "Capstone Copper",
+   "14.25",
+   "-2.86%",
+   "10.9B",
+   "铜矿",
+   1.8
+  ],
+  [
+   11,
+   "FDY.TO",
+   "Faraday Copper",
+   "5.33",
+   "-2.83%",
+   "1.6B",
+   "铜勘探",
+   2.0
+  ],
+  [
+   12,
+   "ERO.TO",
+   "Ero Copper",
+   "53.30",
+   "-2.79%",
+   "5.6B",
+   "铜矿",
+   0.8
+  ],
+  [
+   13,
+   "EFX.TO",
+   "Enerflex",
+   "34.73",
+   "-2.75%",
+   "4.2B",
+   "油气设备服务",
+   0.7
+  ],
+  [
+   14,
+   "CVO.TO",
+   "Coveo Solutions",
+   "4.42",
+   "-2.64%",
+   "411M",
+   "AI企业搜索软件",
+   1.1
+  ],
+  [
+   15,
+   "IPCO.TO",
+   "International Petroleum",
+   "34.55",
+   "-2.62%",
+   "3.9B",
+   "油气生产",
+   3.1
+  ],
+  [
+   16,
+   "CEU.TO",
+   "CES Energy Solutions",
+   "18.00",
+   "-2.60%",
+   "3.8B",
+   "油田化学品",
+   1.3
+  ],
+  [
+   17,
+   "CADY.TO",
+   "Cadillac Mines",
+   "5.68",
+   "-2.41%",
+   "1.5B",
+   "黄金勘探",
+   1.2
+  ],
+  [
+   18,
+   "ABRA.TO",
+   "AbraSilver Resource",
+   "11.77",
+   "-2.32%",
+   "1.9B",
+   "白银勘探",
+   1.6
+  ],
+  [
+   19,
+   "TCW.TO",
+   "Trican Well Service",
+   "6.17",
+   "-2.22%",
+   "1.3B",
+   "油服",
+   0.6
+  ],
+  [
+   20,
+   "KLAC.TO",
+   "KLA Corp (CDR)",
+   "27.30",
+   "-2.22%",
+   "385.0B",
+   "美股CDR·半导体设备",
+   11.3
+  ],
+  [
+   21,
+   "GIB-A.TO",
+   "CGI",
+   "99.17",
+   "-2.19%",
+   "20.5B",
+   "IT服务",
+   1.0
+  ],
+  [
+   22,
+   "WDO.TO",
+   "Wesdome Gold Mines",
+   "34.20",
+   "-2.15%",
+   "4.9B",
+   "黄金生产",
+   1.2
+  ],
+  [
+   23,
+   "TALA.TO",
+   "Talamore Mining",
+   "7.89",
+   "-2.11%",
+   "1.3B",
+   "铜金勘探",
+   0.8
+  ],
+  [
+   24,
+   "EXE.TO",
+   "Extendicare",
+   "26.97",
+   "-2.11%",
+   "2.6B",
+   "养老护理",
+   0.9
+  ],
+  [
+   25,
+   "CERT.V",
+   "Cerrado Gold",
+   "2.35",
+   "-2.08%",
+   "326M",
+   "黄金生产",
+   0.7
+  ],
+  [
+   26,
+   "TKO.TO",
+   "Trekor Metals",
+   "12.41",
+   "-2.05%",
+   "4.5B",
+   "铜金矿业",
+   0.9
+  ],
+  [
+   27,
+   "HBM.TO",
+   "Hudbay Minerals",
+   "38.13",
+   "-2.05%",
+   "16.9B",
+   "铜矿",
+   1.2
+  ],
+  [
+   28,
+   "HMMC.TO",
+   "Hemlo Mining",
+   "5.49",
+   "-1.96%",
+   "1.6B",
+   "黄金生产",
+   0.9
+  ],
+  [
+   29,
+   "IVN.TO",
+   "Ivanhoe Mines",
+   "12.02",
+   "-1.88%",
+   "17.1B",
+   "铜矿(非洲)",
+   1.0
+  ],
+  [
+   30,
+   "ARG.TO",
+   "Amerigo Resources",
+   "8.70",
+   "-1.80%",
+   "1.4B",
+   "铜尾矿回收",
+   1.0
+  ]
+ ],
+ "table_notes": [
+  "*CDR 市值为美股母公司总市值，非加拿大挂牌市值。",
+  "Yahoo 筛选 80 行 → .TO>.V>.CN>.NE 去重 → regularMarketTime 当日校验（本期无停牌僵尸数据）→ TradingView 逐只交叉验证（含 type=dr 补查 CDR：CEGS/MRV/GEV/CRWD/CRWV/FISV/NOWS/ABT/WDC/CMGS/KLAC 由 TV 补入）。DGS（分级基金）与 U.UN（实物铀信托）为非经营性基金，已剔除。"
+ ],
+ "sectors_html": "<ul><li><strong>公用事业世纪并购</strong>：Emera 宣布以全股票方式合并 Canadian Utilities 并收购 ATCO（CU 的 A 股换 0.755 股 EMA，ATCO 每股换 0.865 股 EMA + 1 股 New ATCO），合并后企业价值约 720 亿加元。ATCO +12.8%（量比 17🔥），收购方 Emera -1.8%（量比 5.0⚠️，未进前 30）。</li><li><strong>铀矿板块集体走强</strong>：IsoEnergy +7.7%、NexGen +6.3%、Denison +6.2%、Energy Fuels +5.4%、Cameco +4.5%，实物铀信托 U.UN +2.4%——核电需求题材延续（美股 Constellation 同日大涨）。</li><li><strong>美股 CDR 映射 AI 电力/芯片主线</strong>：Constellation Energy +14.0%（Amazon 20 年核电购电协议刺激）、Marvell +9.9%（Investor Day 当日）、Vistra +7.3%、GE Vernova +5.8%、CoreWeave +4.6%、CrowdStrike +4.7%；存储股回落 Western Digital -5.6%，Chipotle -5.0%，KLA -2.2%。</li><li><strong>勘探与科技个股</strong>：Kenorland +13.0%（Franco-Nevada 以 $2.22/股私下购入 12.42% 股权成为大股东）、Xanadu +7.8%（量子计算热度延续，量比 11.7🔥）、Aldebaran +6.3%（昨日 Altar 超长铜金钻孔后续涨，量比 9.9🔥）、BlackBerry +5.7%、BTQ +6.0%、Mackay +2.8%（量比 11.6🔥）。</li><li><strong>跌幅榜</strong>：铜矿股普跌（Capstone -2.9%、Ero -2.8%、Faraday -2.8%、Hudbay -2.1%、Ivanhoe -1.9%、Amerigo -1.8%、Talon -3.6%），金银生产/勘探回调（DPM -3.7%、Benz -3.8%、Santacruz -2.9%、Cadillac -2.4%、AbraSilver -2.3%、Wesdome -2.2%、Hemlo -2.0%）；油服与油气（Enerflex -2.8%、IPCO -2.6%、CES -2.6%、Trican -2.2%）；HydroGraph -4.3%（量比 6.2⚠️）、Max Power -4.9% 等小盘题材股退潮。</li></ul>",
+ "anomalies_html": "<ul><li><strong>ZVST.NE Vistra (CDR)</strong> 量比 48.6🔥（+7.3%）：NEO 挂牌 CDR 日均量仅 1.3 万，早盘 6.3 万股即放大 50 倍，母公司 Vistra 随 AI 电力题材走强，小基数效应为主。</li><li><strong>ACO-X.TO ATCO</strong> 量比 17.3🔥（+12.8%）：Emera 全股票收购 ATCO/Canadian Utilities，每股 ATCO 换 0.865 股 Emera 外加 New ATCO 分拆股，套利盘涌入。</li><li><strong>CEGS.TO Constellation Energy (CDR)</strong> 量比 13.3🔥（+14.0%）：母公司与 Amazon 签订 20 年核电购电协议，美股盘前大涨。</li><li><strong>MRV.TO Marvell (CDR)</strong> 量比 12.9🔥（+9.9%）：10/6 Investor Day，AI 定制芯片预期升温。</li><li><strong>XNDU.TO Xanadu Quantum</strong> 量比 11.7🔥（+7.8%）：无新公告，延续上周 Bluefors 合作+RBC 覆盖后的量子题材追涨。</li><li><strong>MACK.V Mackay Gold & Silver</strong> 量比 11.6🔥（+2.8%）：早盘 5.6 万股 vs 日均 4.8 万股，未见当日公告，Comstock 2 万米钻探结果陆续披露中。</li><li><strong>ALDE.V Aldebaran Resources</strong> 量比 9.9🔥（+6.3%）：10/5 Altar 项目 1,728.9 米 0.45% CuEq 钻孔后第二日续涨放量。</li><li><strong>FISV.TO Fiserv (CDR)</strong> 量比 14.0🔥（+3.6%）、<strong>KLAC.TO KLA (CDR)</strong> 量比 11.3🔥（-2.2%）、<strong>CMGS.TO Chipotle (CDR)</strong> 量比 19.0🔥（-5.0%）、<strong>GEV.TO GE Vernova (CDR)</strong> 8.0🔥（+5.8%）、<strong>ABT.TO Abbott (CDR)</strong> 7.5⚠️、<strong>WDC.TO Western Digital (CDR)</strong> 6.9⚠️（-5.6%，上周五 -10% 后继续回落）、<strong>CRWD.TO</strong> 5.2⚠️、<strong>CRWV.TO</strong> 4.0⚠️、<strong>NOWS.TO</strong> 3.3⚠️：CDR 日均量小（数千至十几万股），早盘单笔成交即触发高量比，参考意义有限。</li><li><strong>WJX.TO Wajax</strong> 量比 6.5⚠️（+3.1%）：无当日公告，连续第二日放量上涨。</li><li><strong>DML.TO Denison Mines</strong> 量比 6.1⚠️（+6.2%）、<strong>ISO.TO IsoEnergy</strong> 4.8⚠️、<strong>BB.TO BlackBerry</strong> 4.3⚠️、<strong>KLD.V Kenorland</strong> 4.0⚠️、<strong>NXE.TO NexGen</strong> 3.6⚠️、<strong>EPRX.TO Eupraxia</strong> 3.3⚠️：板块/事件驱动放量。</li><li><strong>HG.CN HydroGraph</strong> 量比 6.2⚠️（-4.3%）：延续 10/2 以来回调，无新公告。</li><li><strong>BZ.V Benz Mining</strong> 量比 4.0⚠️（-3.8%）、<strong>IPCO.TO International Petroleum</strong> 3.1⚠️（-2.6%）。</li></ul>",
+ "digest": "Emera 720 亿企业价值合并 Canadian Utilities/ATCO，ATCO +12.8%（量比 17🔥）；铀矿板块集体走强（ISO +7.7%、NXE +6.3%、DML +6.2%、CCO +4.5%）；Kenorland +13.0%（Franco-Nevada 入股）；CDR 端 Constellation +14.0%（Amazon 核电协议）、Marvell +9.9%。铜矿、金银股与油服回调，Western Digital CDR -5.6%。"
+}
