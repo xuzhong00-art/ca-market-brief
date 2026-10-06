@@ -1,0 +1,1350 @@
+{
+"gainers": [
+{
+"sym": "TALA.TO",
+"name": "Talamore Mining Corp.",
+"price": 8.1,
+"chg": 12.19,
+"cap": 1297349376,
+"vol": 298878,
+"avg": 220036,
+"vr": 1.4,
+"tv": {
+"chg": 12.19,
+"sector": "Non-Energy Minerals",
+"ind": "Other Metals/Minerals",
+"type": "stock",
+"cap": 1155097950,
+"vol": 299556,
+"avg90": 191710.46666666667
+}
+},
+{
+"sym": "ABXX.TO",
+"name": "Abaxx Technologies Inc.",
+"price": 17.36,
+"chg": 10.78,
+"cap": 673379968,
+"vol": 95246,
+"avg": 126149,
+"vr": 0.8,
+"tv": {
+"chg": 10.78,
+"sector": "Technology Services",
+"ind": "Packaged Software",
+"type": "stock",
+"cap": 607826764,
+"vol": 95748,
+"avg90": 140413.8888888889
+}
+},
+{
+"sym": "GLAD.V",
+"name": "Gladiator Metals Corp.",
+"price": 2.4,
+"chg": 10.6,
+"cap": 254584336,
+"vol": 379975,
+"avg": 114158,
+"vr": 3.3,
+"tv": {
+"chg": 10.6,
+"sector": "Non-Energy Minerals",
+"ind": "Precious Metals",
+"type": "stock",
+"cap": 230186659,
+"vol": 379975,
+"avg90": 149840.01111111112
+}
+},
+{
+"sym": "SGML.V",
+"name": "Sigma Lithium Corporation",
+"price": 12.86,
+"chg": 9.45,
+"cap": 1447628416,
+"vol": 121482,
+"avg": 38947,
+"vr": 3.1,
+"tv": {
+"chg": 9.45,
+"sector": "Non-Energy Minerals",
+"ind": "Other Metals/Minerals",
+"type": "stock",
+"cap": 1322677685,
+"vol": 121482,
+"avg90": 43325.25555555556
+}
+},
+{
+"sym": "FTG.TO",
+"name": "Firan Technology Group Corporation",
+"price": 26.91,
+"chg": 7.77,
+"cap": 677415936,
+"vol": 173709,
+"avg": 72750,
+"vr": 2.4,
+"tv": {
+"chg": 7.77,
+"sector": "Electronic Technology",
+"ind": "Electronic Components",
+"type": "stock",
+"cap": 628579565,
+"vol": 174027,
+"avg90": 73461.15555555555
+}
+},
+{
+"sym": "TKO.TO",
+"name": "Trekor Metals Limited",
+"price": 12.76,
+"chg": 7.32,
+"cap": 4670457856,
+"vol": 1087949,
+"avg": 1214655,
+"vr": 0.9,
+"tv": {
+"chg": 7.32,
+"sector": "Non-Energy Minerals",
+"ind": "Other Metals/Minerals",
+"type": "stock",
+"cap": 4352017346,
+"vol": 1088112,
+"avg90": 1209022.2
+}
+},
+{
+"sym": "FDR.V",
+"name": "Founders Metals Inc.",
+"price": 8.25,
+"chg": 7.14,
+"cap": 1187201152,
+"vol": 904966,
+"avg": 179971,
+"vr": 5.0,
+"tv": {
+"chg": 7.14,
+"sector": "Non-Energy Minerals",
+"ind": "Precious Metals",
+"type": "stock",
+"cap": 894642729,
+"vol": 904966,
+"avg90": 174532.64444444445
+}
+},
+{
+"sym": "HG.CN",
+"name": "HydroGraph Clean Power Inc.",
+"price": 3.8,
+"chg": 7.04,
+"cap": 1377174400,
+"vol": 572941,
+"avg": 612288,
+"vr": 0.9,
+"tv": {
+"chg": 7.04,
+"sector": "Producer Manufacturing",
+"ind": "Electrical Products",
+"type": "stock",
+"cap": 1289022447,
+"vol": 572941,
+"avg90": 577758.1666666666
+}
+},
+{
+"sym": "HHH.V",
+"name": "Helius Minerals Limited",
+"price": 4.85,
+"chg": 6.83,
+"cap": 261704048,
+"vol": 41207,
+"avg": 48579,
+"vr": 0.8,
+"tv": {
+"chg": 6.83,
+"sector": "Non-Energy Minerals",
+"ind": "Precious Metals",
+"type": "stock",
+"cap": 244976593,
+"vol": 41207,
+"avg90": 44228.26666666666
+}
+},
+{
+"sym": "ERO.TO",
+"name": "Ero Copper Corp.",
+"price": 54.05,
+"chg": 6.5,
+"cap": 5637557248,
+"vol": 417681,
+"avg": 411909,
+"vr": 1.0,
+"tv": {
+"chg": 6.5,
+"sector": "Non-Energy Minerals",
+"ind": "Other Metals/Minerals",
+"type": "stock",
+"cap": 5293358736,
+"vol": 429109,
+"avg90": 447881.4111111111
+}
+},
+{
+"sym": "SOIL.TO",
+"name": "Saturn Oil & Gas Inc.",
+"price": 7.27,
+"chg": 6.44,
+"cap": 1294183552,
+"vol": 677724,
+"avg": 567780,
+"vr": 1.2,
+"tv": {
+"chg": 6.44,
+"sector": "Energy Minerals",
+"ind": "Integrated Oil",
+"type": "stock",
+"cap": 1215856085,
+"vol": 678841,
+"avg90": 570172.8
+}
+},
+{
+"sym": "CAD.V",
+"name": "Colonial Coal International Corp.",
+"price": 2.05,
+"chg": 6.22,
+"cap": 379625248,
+"vol": 84389,
+"avg": 83806,
+"vr": 1.0,
+"tv": {
+"chg": 8.29,
+"sector": "Energy Minerals",
+"ind": "Coal",
+"type": "stock",
+"cap": 357403266,
+"vol": 16700,
+"avg90": 7043.4
+}
+},
+{
+"sym": "BTQ.NE",
+"name": "BTQ Technologies Corp.",
+"price": 4.52,
+"chg": 6.1,
+"cap": 664804608,
+"vol": 157726,
+"avg": 135085,
+"vr": 1.2,
+"tv": null
+},
+{
+"sym": "CDR.TO",
+"name": "Condor Energies Inc.",
+"price": 4.4,
+"chg": 6.02,
+"cap": 379964000,
+"vol": 173385,
+"avg": 129744,
+"vr": 1.3,
+"tv": {
+"chg": 6.02,
+"sector": "Energy Minerals",
+"ind": "Integrated Oil",
+"type": "stock",
+"cap": 358375140,
+"vol": 174424,
+"avg90": 128033.15555555555
+}
+},
+{
+"sym": "ASTL.TO",
+"name": "Algoma Steel Group Inc.",
+"price": 6.19,
+"chg": 5.81,
+"cap": 652355520,
+"vol": 943045,
+"avg": 567036,
+"vr": 1.7,
+"tv": {
+"chg": 5.81,
+"sector": "Producer Manufacturing",
+"ind": "Metal Fabrication",
+"type": "stock",
+"cap": 618119581,
+"vol": 943354,
+"avg90": 543995.588888889
+}
+},
+{
+"sym": "WTE.TO",
+"name": "Westshore Terminals Investment Corporation",
+"price": 45.89,
+"chg": 5.45,
+"cap": 2834614528,
+"vol": 226244,
+"avg": 87707,
+"vr": 2.6,
+"tv": {
+"chg": 5.45,
+"sector": "Transportation",
+"ind": "Other Transportation",
+"type": "stock",
+"cap": 2688220155,
+"vol": 226244,
+"avg90": 97550.65555555555
+}
+},
+{
+"sym": "TECK-B.TO",
+"name": "Teck Resources Limited",
+"price": 97.76,
+"chg": 5.34,
+"cap": 47961055232,
+"vol": 1317782,
+"avg": 1137211,
+"vr": 1.2,
+"tv": {
+"chg": 5.34,
+"sector": "Non-Energy Minerals",
+"ind": "Other Metals/Minerals",
+"type": "stock",
+"cap": 45528061454,
+"vol": 1318378,
+"avg90": 1159942.0333333334
+}
+},
+{
+"sym": "AGTF.TO",
+"name": "AGT Food and Ingredients Inc.",
+"price": 19.45,
+"chg": 5.19,
+"cap": 1314780672,
+"vol": 107860,
+"avg": 71604,
+"vr": 1.5,
+"tv": {
+"chg": 5.19,
+"sector": "Consumer Non-Durables",
+"ind": "Food: Major Diversified",
+"type": "stock",
+"cap": 1249886573,
+"vol": 107926,
+"avg90": 66132.23333333334
+}
+},
+{
+"sym": "LUN.TO",
+"name": "Lundin Mining Corporation",
+"price": 35.01,
+"chg": 5.17,
+"cap": 29806096384,
+"vol": 2302316,
+"avg": 2197738,
+"vr": 1.0,
+"tv": {
+"chg": 5.17,
+"sector": "Non-Energy Minerals",
+"ind": "Other Metals/Minerals",
+"type": "stock",
+"cap": 28483269387,
+"vol": 2309263,
+"avg90": 2387898.7444444443
+}
+},
+{
+"sym": "KEEL.TO",
+"name": "Keel Infrastructure Corp.",
+"price": 5.15,
+"chg": 4.89,
+"cap": 3180502016,
+"vol": 2986253,
+"avg": 4102206,
+"vr": 0.7,
+"tv": {
+"chg": 4.89,
+"sector": "Technology Services",
+"ind": "Data Processing Services",
+"type": "stock",
+"cap": 3022839753.841776,
+"vol": 2986729,
+"avg90": 4988787.344444444
+}
+},
+{
+"sym": "CS.TO",
+"name": "Capstone Copper Corp.",
+"price": 14.43,
+"chg": 4.72,
+"cap": 11023789056,
+"vol": 2536631,
+"avg": 3090000,
+"vr": 0.8,
+"tv": {
+"chg": 4.72,
+"sector": "Non-Energy Minerals",
+"ind": "Other Metals/Minerals",
+"type": "stock",
+"cap": 10555267006,
+"vol": 2541894,
+"avg90": 3321819.6555555556
+}
+},
+{
+"sym": "TIH.TO",
+"name": "Toromont Industries Ltd.",
+"price": 236.69,
+"chg": 4.68,
+"cap": 19298162688,
+"vol": 258440,
+"avg": 307550,
+"vr": 0.8,
+"tv": {
+"chg": 4.68,
+"sector": "Distribution Services",
+"ind": "Wholesale Distributors",
+"type": "stock",
+"cap": 18441342123,
+"vol": 258411,
+"avg90": 304859.9111111111
+}
+},
+{
+"sym": "GRID.TO",
+"name": "Tantalus Systems Holding Inc.",
+"price": 4.71,
+"chg": 4.67,
+"cap": 268315328,
+"vol": 64037,
+"avg": 176080,
+"vr": 0.4,
+"tv": {
+"chg": 4.67,
+"sector": "Industrial Services",
+"ind": "Engineering & Construction",
+"type": "stock",
+"cap": 256352011,
+"vol": 64037,
+"avg90": 156871.98888888888
+}
+},
+{
+"sym": "TSLA.TO",
+"name": "Tesla, Inc.",
+"price": 32.03,
+"chg": 4.64,
+"cap": 1897088679936,
+"vol": 1077620,
+"avg": 748533,
+"vr": 1.4,
+"tv": {
+"chg": 4.64,
+"sector": "Consumer Durables",
+"ind": "Motor Vehicles",
+"type": "dr",
+"cap": 1990003194947.3533,
+"vol": 1077620,
+"avg90": 757577.7222222222
+}
+},
+{
+"sym": "LGD.TO",
+"name": "Liberty Gold Corp.",
+"price": 2.1,
+"chg": 4.48,
+"cap": 1152177408,
+"vol": 2077074,
+"avg": 1555933,
+"vr": 1.3,
+"tv": {
+"chg": 4.48,
+"sector": "Non-Energy Minerals",
+"ind": "Precious Metals",
+"type": "stock",
+"cap": 1101403197,
+"vol": 2077806,
+"avg90": 1467218.4555555556
+}
+},
+{
+"sym": "ITR.V",
+"name": "Integra Resources Corp.",
+"price": 3.79,
+"chg": 4.41,
+"cap": 768888960,
+"vol": 216535,
+"avg": 301284,
+"vr": 0.7,
+"tv": {
+"chg": 4.41,
+"sector": "Non-Energy Minerals",
+"ind": "Precious Metals",
+"type": "stock",
+"cap": 736429239,
+"vol": 221776,
+"avg90": 325458.08888888895
+}
+},
+{
+"sym": "GSKR.V",
+"name": "Goldsky Resources Corp.",
+"price": 3.13,
+"chg": 4.33,
+"cap": 580458816,
+"vol": 137508,
+"avg": 355036,
+"vr": 0.4,
+"tv": {
+"chg": 4.33,
+"sector": "Non-Energy Minerals",
+"ind": "Precious Metals",
+"type": "stock",
+"cap": 801297729,
+"vol": 137508,
+"avg90": 314806.13333333336
+}
+},
+{
+"sym": "ARG.TO",
+"name": "Amerigo Resources Ltd.",
+"price": 8.95,
+"chg": 4.31,
+"cap": 1444903680,
+"vol": 677109,
+"avg": 796673,
+"vr": 0.8,
+"tv": {
+"chg": 4.31,
+"sector": "Non-Energy Minerals",
+"ind": "Other Metals/Minerals",
+"type": "stock",
+"cap": 1385170395,
+"vol": 678171,
+"avg90": 750243.5222222222
+}
+},
+{
+"sym": "SMCI.NE",
+"name": "Super Micro Computer, Inc.",
+"price": 14.05,
+"chg": 4.23,
+"cap": 35350294528,
+"vol": 73341,
+"avg": 213822,
+"vr": 0.3,
+"tv": {
+"chg": 4.23,
+"sector": "Electronic Technology",
+"ind": "Computer Processing Hardware",
+"type": "dr",
+"cap": 39186095722.823,
+"vol": 807982,
+"avg90": 637109.8333333334
+}
+},
+{
+"sym": "ARE.TO",
+"name": "Aecon Group Inc.",
+"price": 59.17,
+"chg": 4.14,
+"cap": 4054892032,
+"vol": 542281,
+"avg": 444965,
+"vr": 1.2,
+"tv": {
+"chg": 4.14,
+"sector": "Industrial Services",
+"ind": "Engineering & Construction",
+"type": "stock",
+"cap": 3896531445,
+"vol": 544724,
+"avg90": 443765.8777777778
+}
+},
+{
+"sym": "HUT.TO",
+"name": "Hut 8 Corp.",
+"price": 127.94,
+"chg": 4.13,
+"cap": 15769817088,
+"vol": 513402,
+"avg": 453322,
+"vr": 1.1,
+"tv": {
+"chg": 4.13,
+"sector": "Technology Services",
+"ind": "Data Processing Services",
+"type": "stock",
+"cap": 15146112320.71713,
+"vol": 514771,
+"avg90": 467095.6444444458
+}
+},
+{
+"sym": "GTE.TO",
+"name": "Gran Tierra Energy Inc.",
+"price": 14.9,
+"chg": 4.12,
+"cap": 527168352,
+"vol": 68984,
+"avg": 97257,
+"vr": 0.7,
+"tv": {
+"chg": 4.12,
+"sector": "Energy Minerals",
+"ind": "Oil & Gas Production",
+"type": "stock",
+"cap": 503924439.3853159,
+"vol": 69323,
+"avg90": 77835.83333333336
+}
+},
+{
+"sym": "HBM.TO",
+"name": "Hudbay Minerals Inc.",
+"price": 38.78,
+"chg": 4.08,
+"cap": 17223933952,
+"vol": 1329256,
+"avg": 2203050,
+"vr": 0.6,
+"tv": {
+"chg": 4.08,
+"sector": "Non-Energy Minerals",
+"ind": "Other Metals/Minerals",
+"type": "stock",
+"cap": 16549147421.000002,
+"vol": 1332958,
+"avg90": 2270465.1333333333
+}
+},
+{
+"sym": "IVN.TO",
+"name": "Ivanhoe Mines Ltd.",
+"price": 12.24,
+"chg": 3.99,
+"cap": 17458806784,
+"vol": 2782967,
+"avg": 3999952,
+"vr": 0.7,
+"tv": {
+"chg": 3.99,
+"sector": "Non-Energy Minerals",
+"ind": "Other Metals/Minerals",
+"type": "stock",
+"cap": 16788412851.000002,
+"vol": 2815314,
+"avg90": 3981518.9111111113
+}
+},
+{
+"sym": "CERT.V",
+"name": "Cerrado Gold Inc.",
+"price": 2.35,
+"chg": 3.98,
+"cap": 326163616,
+"vol": 657003,
+"avg": 316847,
+"vr": 2.1,
+"tv": {
+"chg": 3.98,
+"sector": "Non-Energy Minerals",
+"ind": "Precious Metals",
+"type": "stock",
+"cap": 302742234,
+"vol": 657003,
+"avg90": 304176.6777777778
+}
+},
+{
+"sym": "GFL.TO",
+"name": "GFL Environmental Inc.",
+"price": 59.83,
+"chg": 3.98,
+"cap": 21592070144,
+"vol": 986893,
+"avg": 880196,
+"vr": 1.1,
+"tv": {
+"chg": 3.98,
+"sector": "Industrial Services",
+"ind": "Environmental Services",
+"type": "stock",
+"cap": 25088396012,
+"vol": 990664,
+"avg90": 838487.5222222222
+}
+}
+],
+"losers": [
+{
+"sym": "BZ.V",
+"name": "Benz Mining Corp.",
+"price": 4.45,
+"chg": -9.74,
+"cap": 1690480896,
+"vol": 209361,
+"avg": 115244,
+"vr": 1.8,
+"tv": {
+"chg": -9.74,
+"sector": "Non-Energy Minerals",
+"ind": "Precious Metals",
+"type": "stock",
+"cap": 1871726160,
+"vol": 209361,
+"avg90": 102349.75555555556
+}
+},
+{
+"sym": "CRDL.TO",
+"name": "Cardiol Therapeutics Inc.",
+"price": 2.03,
+"chg": -8.97,
+"cap": 246671280,
+"vol": 599199,
+"avg": 214644,
+"vr": 2.8,
+"tv": {
+"chg": -8.97,
+"sector": "Health Technology",
+"ind": "Biotechnology",
+"type": "stock",
+"cap": 269072797,
+"vol": 600573,
+"avg90": 169465.64444444445
+}
+},
+{
+"sym": "EPRX.TO",
+"name": "Eupraxia Pharmaceuticals Inc.",
+"price": 10.32,
+"chg": -7.77,
+"cap": 681877184,
+"vol": 171005,
+"avg": 69134,
+"vr": 2.5,
+"tv": {
+"chg": -7.77,
+"sector": "Health Technology",
+"ind": "Biotechnology",
+"type": "stock",
+"cap": 737495178,
+"vol": 171005,
+"avg90": 73916.33333333333
+}
+},
+{
+"sym": "MLP.V",
+"name": "Millennial Potash Corp.",
+"price": 2.25,
+"chg": -6.64,
+"cap": 265979712,
+"vol": 454742,
+"avg": 252025,
+"vr": 1.8,
+"tv": {
+"chg": -7.82,
+"sector": "Non-Energy Minerals",
+"ind": "Precious Metals",
+"type": "stock",
+"cap": 287853910,
+"vol": 47000,
+"avg90": 10447.81111111111
+}
+},
+{
+"sym": "AP-UN.TO",
+"name": "Allied Properties Real Estate Investment Trust",
+"price": 6.58,
+"chg": -5.6,
+"cap": 1365838720,
+"vol": 1583069,
+"avg": 688274,
+"vr": 2.3,
+"tv": {
+"chg": -5.6,
+"sector": "Finance",
+"ind": "Real Estate Investment Trusts",
+"type": "stock",
+"cap": 974162934,
+"vol": 1584925,
+"avg90": 666161.2111111111
+}
+},
+{
+"sym": "EXE.TO",
+"name": "Extendicare Inc.",
+"price": 28.29,
+"chg": -5.35,
+"cap": 2688862720,
+"vol": 777795,
+"avg": 517212,
+"vr": 1.5,
+"tv": {
+"chg": -5.35,
+"sector": "Health Services",
+"ind": "Hospital/Nursing Management",
+"type": "stock",
+"cap": 2840936897,
+"vol": 779515,
+"avg90": 531783.3777777777
+}
+},
+{
+"sym": "QNC.V",
+"name": "Quantum eMotion Corp.",
+"price": 2.33,
+"chg": -5.28,
+"cap": 511247808,
+"vol": 381445,
+"avg": 317857,
+"vr": 1.2,
+"tv": {
+"chg": -5.28,
+"sector": "Electronic Technology",
+"ind": "Semiconductors",
+"type": "stock",
+"cap": 539649408,
+"vol": 415993,
+"avg90": 438676.9
+}
+},
+{
+"sym": "NEO.TO",
+"name": "Neo Performance Materials Inc.",
+"price": 29.76,
+"chg": -4.68,
+"cap": 1374839680,
+"vol": 391628,
+"avg": 333928,
+"vr": 1.2,
+"tv": {
+"chg": -4.68,
+"sector": "Process Industries",
+"ind": "Chemicals: Specialty",
+"type": "stock",
+"cap": 1442288129,
+"vol": 393182,
+"avg90": 326438.3777777778
+}
+},
+{
+"sym": "HMMC.TO",
+"name": "Hemlo Mining Corp.",
+"price": 5.56,
+"chg": -4.63,
+"cap": 1647817088,
+"vol": 1289611,
+"avg": 804196,
+"vr": 1.6,
+"tv": {
+"chg": -4.63,
+"sector": "Non-Energy Minerals",
+"ind": "Precious Metals",
+"type": "stock",
+"cap": 1727836871,
+"vol": 1293415,
+"avg90": 682736.0777777779
+}
+},
+{
+"sym": "EIF.TO",
+"name": "Exchange Income Corporation",
+"price": 115.78,
+"chg": -4.6,
+"cap": 6528261632,
+"vol": 233636,
+"avg": 136465,
+"vr": 1.7,
+"tv": {
+"chg": -4.6,
+"sector": "Transportation",
+"ind": "Airlines",
+"type": "stock",
+"cap": 6842890838,
+"vol": 233944,
+"avg90": 155508.34444444443
+}
+},
+{
+"sym": "PHOS.CN",
+"name": "First Phosphate Corp.",
+"price": 2.11,
+"chg": -4.09,
+"cap": 399094944,
+"vol": 305157,
+"avg": 627148,
+"vr": 0.5,
+"tv": {
+"chg": -4.09,
+"sector": "Non-Energy Minerals",
+"ind": "Other Metals/Minerals",
+"type": "stock",
+"cap": 416117978,
+"vol": 305157,
+"avg90": 598094.7444444444
+}
+},
+{
+"sym": "XNDU.TO",
+"name": "Xanadu Quantum Technologies Limited",
+"price": 6.11,
+"chg": -4.08,
+"cap": 1859843200,
+"vol": 782120,
+"avg": 343749,
+"vr": 2.3,
+"tv": {
+"chg": -4.08,
+"sector": "Electronic Technology",
+"ind": "Computer Processing Hardware",
+"type": "stock",
+"cap": 1940355712.8628345,
+"vol": 784338,
+"avg90": 345934.2111111111
+}
+},
+{
+"sym": "WELL.TO",
+"name": "WELL Health Technologies Corp.",
+"price": 4.31,
+"chg": -3.79,
+"cap": 1103131648,
+"vol": 968708,
+"avg": 1202485,
+"vr": 0.8,
+"tv": {
+"chg": -3.79,
+"sector": "Health Services",
+"ind": "Medical/Nursing Services",
+"type": "stock",
+"cap": 1146642661,
+"vol": 969013,
+"avg90": 1259435.5
+}
+},
+{
+"sym": "LCFS.TO",
+"name": "Tidewater Renewables Ltd.",
+"price": 22.83,
+"chg": -3.67,
+"cap": 834116864,
+"vol": 24841,
+"avg": 29726,
+"vr": 0.8,
+"tv": {
+"chg": -3.67,
+"sector": "Process Industries",
+"ind": "Chemicals: Specialty",
+"type": "stock",
+"cap": 865903211,
+"vol": 24841,
+"avg90": 28270.71111111111
+}
+},
+{
+"sym": "AC.TO",
+"name": "Air Canada",
+"price": 25.35,
+"chg": -3.58,
+"cap": 6407094272,
+"vol": 4636974,
+"avg": 2601247,
+"vr": 1.8,
+"tv": {
+"chg": -3.58,
+"sector": "Transportation",
+"ind": "Airlines",
+"type": "stock",
+"cap": 7369817838,
+"vol": 4637523,
+"avg90": 2699354.0444444446
+}
+},
+{
+"sym": "PNG.V",
+"name": "Kraken Robotics Inc.",
+"price": 4.13,
+"chg": -3.5,
+"cap": 1533932160,
+"vol": 1597252,
+"avg": 1152441,
+"vr": 1.4,
+"tv": {
+"chg": -3.5,
+"sector": "Electronic Technology",
+"ind": "Aerospace & Defense",
+"type": "stock",
+"cap": 1589644037,
+"vol": 1626578,
+"avg90": 1245718.8111111112
+}
+},
+{
+"sym": "DPRO.CN",
+"name": "Draganfly Inc.",
+"price": 7.53,
+"chg": -3.46,
+"cap": 294744960,
+"vol": 54729,
+"avg": 33186,
+"vr": 1.6,
+"tv": {
+"chg": -3.46,
+"sector": "Consumer Durables",
+"ind": "Motor Vehicles",
+"type": "stock",
+"cap": 289758504,
+"vol": 54729,
+"avg90": 40751.5777777778
+}
+},
+{
+"sym": "NKE.NE",
+"name": "NIKE, Inc.",
+"price": 6.07,
+"chg": -3.34,
+"cap": 67768266752,
+"vol": 114790,
+"avg": 96625,
+"vr": 1.2,
+"tv": {
+"chg": -3.96,
+"sector": "Consumer Non-Durables",
+"ind": "Apparel/Footwear",
+"type": "dr",
+"cap": 74196047322.14001,
+"vol": 1156603,
+"avg90": 219973.02222222224
+}
+},
+{
+"sym": "EFX.TO",
+"name": "Enerflex Ltd.",
+"price": 35.02,
+"chg": -3.34,
+"cap": 4276043008,
+"vol": 768148,
+"avg": 813169,
+"vr": 0.9,
+"tv": {
+"chg": -3.34,
+"sector": "Producer Manufacturing",
+"ind": "Industrial Machinery",
+"type": "stock",
+"cap": 4423787373,
+"vol": 781578,
+"avg90": 754302.8111111111
+}
+},
+{
+"sym": "AUXX.V",
+"name": "Gold X2 Mining Inc.",
+"price": 6.57,
+"chg": -3.1,
+"cap": 664784192,
+"vol": 71269,
+"avg": 175248,
+"vr": 0.4,
+"tv": {
+"chg": -3.1,
+"sector": "Non-Energy Minerals",
+"ind": "Precious Metals",
+"type": "stock",
+"cap": 686033011,
+"vol": 71269,
+"avg90": 159249.7333333333
+}
+},
+{
+"sym": "CURA.TO",
+"name": "Curaleaf Holdings, Inc.",
+"price": 14.21,
+"chg": -3.07,
+"cap": 3763761920,
+"vol": 433044,
+"avg": 301658,
+"vr": 1.4,
+"tv": {
+"chg": -3.07,
+"sector": "Process Industries",
+"ind": "Agricultural Commodities/Milling",
+"type": "stock",
+"cap": 3882082838,
+"vol": 433530,
+"avg90": 275380.28148148145
+}
+},
+{
+"sym": "DPM.TO",
+"name": "DPM Metals Inc.",
+"price": 55.41,
+"chg": -3.06,
+"cap": 12155216896,
+"vol": 2034227,
+"avg": 811158,
+"vr": 2.5,
+"tv": {
+"chg": -3.06,
+"sector": "Non-Energy Minerals",
+"ind": "Precious Metals",
+"type": "stock",
+"cap": 12539112134,
+"vol": 2038864,
+"avg90": 832868.6555555556
+}
+},
+{
+"sym": "NOWS.NE",
+"name": "ServiceNow, Inc.",
+"price": 17.01,
+"chg": -3.02,
+"cap": 907863851008,
+"vol": 17200,
+"avg": 23854,
+"vr": 0.7,
+"tv": {
+"chg": -2.57,
+"sector": "Technology Services",
+"ind": "Packaged Software",
+"type": "dr",
+"cap": 202680470005.69153,
+"vol": 85459,
+"avg90": 239615
+}
+},
+{
+"sym": "GG.V",
+"name": "Golconda Gold Ltd.",
+"price": 2.9,
+"chg": -3.01,
+"cap": 207063952,
+"vol": 24835,
+"avg": 36684,
+"vr": 0.7,
+"tv": {
+"chg": -3.01,
+"sector": "Non-Energy Minerals",
+"ind": "Precious Metals",
+"type": "stock",
+"cap": 213490066,
+"vol": 24835,
+"avg90": 39113.144444444995
+}
+},
+{
+"sym": "GUD.TO",
+"name": "Knight Therapeutics Inc.",
+"price": 10.32,
+"chg": -3.01,
+"cap": 1013750272,
+"vol": 63555,
+"avg": 93785,
+"vr": 0.7,
+"tv": {
+"chg": -3.01,
+"sector": "Health Technology",
+"ind": "Pharmaceuticals: Major",
+"type": "stock",
+"cap": 1045184479,
+"vol": 63813,
+"avg90": 94381.46666666666
+}
+},
+{
+"sym": "HR-UN.TO",
+"name": "H&R Real Estate Investment Trust",
+"price": 9.19,
+"chg": -2.96,
+"cap": 2573922048,
+"vol": 1054727,
+"avg": 800239,
+"vr": 1.3,
+"tv": {
+"chg": -2.96,
+"sector": "Finance",
+"ind": "Real Estate Investment Trusts",
+"type": "stock",
+"cap": 2506111820,
+"vol": 1054727,
+"avg90": 820021.2777777778
+}
+},
+{
+"sym": "VZLA.TO",
+"name": "Vizsla Silver Corp.",
+"price": 5.17,
+"chg": -2.82,
+"cap": 1835644032,
+"vol": 933959,
+"avg": 1029268,
+"vr": 0.9,
+"tv": {
+"chg": -2.82,
+"sector": "Non-Energy Minerals",
+"ind": "Precious Metals",
+"type": "stock",
+"cap": 1888902688,
+"vol": 935049,
+"avg90": 1086218.8333333333
+}
+},
+{
+"sym": "SLI.V",
+"name": "Standard Lithium Ltd.",
+"price": 2.48,
+"chg": -2.75,
+"cap": 612024704,
+"vol": 169782,
+"avg": 216666,
+"vr": 0.8,
+"tv": {
+"chg": -2.75,
+"sector": "Non-Energy Minerals",
+"ind": "Other Metals/Minerals",
+"type": "stock",
+"cap": 629299569,
+"vol": 169782,
+"avg90": 201669.83333333334
+}
+},
+{
+"sym": "MACK.V",
+"name": "Mackay Gold & Silver Corp.",
+"price": 2.85,
+"chg": -2.73,
+"cap": 244196432,
+"vol": 24485,
+"avg": 49188,
+"vr": 0.5,
+"tv": {
+"chg": -2.73,
+"sector": "Non-Energy Minerals",
+"ind": "Precious Metals",
+"type": "stock",
+"cap": 257158719.00000003,
+"vol": 24485,
+"avg90": 64327.23333333333
+}
+},
+{
+"sym": "CHR.TO",
+"name": "Chorus Aviation Inc.",
+"price": 29.04,
+"chg": -2.68,
+"cap": 655444544,
+"vol": 40909,
+"avg": 54388,
+"vr": 0.8,
+"tv": {
+"chg": -2.68,
+"sector": "Transportation",
+"ind": "Airlines",
+"type": "stock",
+"cap": 673500860,
+"vol": 41331,
+"avg90": 45941.90000000001
+}
+},
+{
+"sym": "HELP.NE",
+"name": "Cybin D/B/A Helus Pharma",
+"price": 16.61,
+"chg": -2.58,
+"cap": 1213687168,
+"vol": 24820,
+"avg": 23738,
+"vr": 1.0,
+"tv": null
+},
+{
+"sym": "SVI.TO",
+"name": "StorageVault Canada Inc.",
+"price": 4.07,
+"chg": -2.4,
+"cap": 1488197248,
+"vol": 662778,
+"avg": 268233,
+"vr": 2.5,
+"tv": {
+"chg": -2.4,
+"sector": "Transportation",
+"ind": "Other Transportation",
+"type": "stock",
+"cap": 1525763171,
+"vol": 670208,
+"avg90": 282896.86666666664
+}
+},
+{
+"sym": "PPTA.TO",
+"name": "Perpetua Resources Corp.",
+"price": 29.05,
+"chg": -2.32,
+"cap": 3634032896,
+"vol": 115180,
+"avg": 114277,
+"vr": 1.0,
+"tv": {
+"chg": -2.32,
+"sector": "Non-Energy Minerals",
+"ind": "Precious Metals",
+"type": "stock",
+"cap": 3725462692.0887876,
+"vol": 115122,
+"avg90": 118704.83333333331
+}
+},
+{
+"sym": "DGS.TO",
+"name": "Dividend Growth Split Corporation",
+"price": 7.26,
+"chg": -2.29,
+"cap": 431938464,
+"vol": 693541,
+"avg": 190306,
+"vr": 3.6,
+"tv": null
+},
+{
+"sym": "PET.TO",
+"name": "Pet Valu Holdings Ltd.",
+"price": 17.5,
+"chg": -2.23,
+"cap": 1176286592,
+"vol": 70001,
+"avg": 148736,
+"vr": 0.5,
+"tv": {
+"chg": -2.23,
+"sector": "Retail Trade",
+"ind": "Specialty Stores",
+"type": "stock",
+"cap": 1203173127,
+"vol": 70001,
+"avg90": 196185.16666666666
+}
+},
+{
+"sym": "CFP.TO",
+"name": "Canfor Corporation",
+"price": 14.95,
+"chg": -2.22,
+"cap": 1754248832,
+"vol": 197609,
+"avg": 223536,
+"vr": 0.9,
+"tv": {
+"chg": -2.22,
+"sector": "Non-Energy Minerals",
+"ind": "Forest Products",
+"type": "stock",
+"cap": 1794144871,
+"vol": 199709,
+"avg90": 231160.6
+}
+}
+]
+}
