@@ -1,0 +1,619 @@
+{
+ "date": "2026-10-07",
+ "weekday": "周三",
+ "snapshot": "2026-10-07 16:00 ET 收盘（补跑快照）",
+ "market_state": "CLOSED",
+ "note": "本期为补跑：早盘 7:00 PT 定时任务未执行，于当日 18:55 PT 以收盘数据补发。量比按全日口径计算（不含早盘时长折算）。",
+ "vr_note": "量比 = 当日成交量 ÷ 3个月日均量（收盘后补跑，开盘时长占比取 1.0）。CDR 行（由 TradingView 补入）用 30 日均量。⚠️≥3，🔥≥8。",
+ "gainers": [
+  [
+   1,
+   "ALC.TO",
+   "Algoma Central",
+   "26.33",
+   "+10.17%",
+   "1.1B",
+   "海运/五大湖航运",
+   10.0
+  ],
+  [
+   2,
+   "HG.CN",
+   "HydroGraph Clean Power",
+   "3.45",
+   "+7.14%",
+   "1.3B",
+   "石墨烯材料",
+   1.5
+  ],
+  [
+   3,
+   "RM.TO",
+   "Roxmore Resources",
+   "5.35",
+   "+7.00%",
+   "387M",
+   "黄金开发(内华达)",
+   2.7
+  ],
+  [
+   4,
+   "KITS.TO",
+   "Kits Eyecare",
+   "17.50",
+   "+4.79%",
+   "595M",
+   "眼镜电商零售",
+   2.6
+  ],
+  [
+   5,
+   "VLE.TO",
+   "Valeura Energy",
+   "16.02",
+   "+4.71%",
+   "1.7B",
+   "油气生产(泰国)",
+   2.0
+  ],
+  [
+   6,
+   "PNG.V",
+   "Kraken Robotics",
+   "4.99",
+   "+4.18%",
+   "1.9B",
+   "海洋机器人/国防",
+   2.0
+  ],
+  [
+   7,
+   "EXE.TO",
+   "Extendicare",
+   "27.79",
+   "+4.16%",
+   "2.6B",
+   "长期护理服务",
+   1.0
+  ],
+  [
+   8,
+   "MU.TO",
+   "Micron (CDR)",
+   "47.60",
+   "+4.09%",
+   "1678.5B",
+   "美股CDR·存储芯片",
+   1.5
+  ],
+  [
+   9,
+   "TWM.TO",
+   "Tidewater Midstream and Infrastructure",
+   "25.26",
+   "+3.95%",
+   "554M",
+   "中游管道/基础设施",
+   1.6
+  ],
+  [
+   10,
+   "PET.TO",
+   "Pet Valu Holdings",
+   "18.50",
+   "+3.93%",
+   "1.2B",
+   "宠物用品零售",
+   2.7
+  ],
+  [
+   11,
+   "HHH.V",
+   "Helius Minerals",
+   "4.72",
+   "+3.74%",
+   "255M",
+   "贵金属勘探",
+   2.0
+  ],
+  [
+   12,
+   "ZVST.NE",
+   "Vistra (CDR)",
+   "9.11",
+   "+3.52%",
+   "3.1B",
+   "美股CDR·电力",
+   3.8
+  ],
+  [
+   13,
+   "SMCI.TO",
+   "Super Micro (CDR)",
+   "14.46",
+   "+3.43%",
+   "40.6B",
+   "美股CDR·AI服务器",
+   1.0
+  ],
+  [
+   14,
+   "CVVY.TO",
+   "Cavvy Energy",
+   "2.35",
+   "+3.07%",
+   "727M",
+   "油气生产",
+   0.5
+  ],
+  [
+   15,
+   "FDR.V",
+   "Founders Metals",
+   "8.45",
+   "+3.05%",
+   "1.2B",
+   "黄金勘探(苏里南)",
+   2.5
+  ],
+  [
+   16,
+   "UCU.V",
+   "Ucore Rare Metals",
+   "2.64",
+   "+2.72%",
+   "401M",
+   "稀土分离",
+   0.5
+  ],
+  [
+   17,
+   "BHC.TO",
+   "Bausch Health Companies",
+   "8.79",
+   "+2.69%",
+   "3.3B",
+   "制药",
+   0.6
+  ],
+  [
+   18,
+   "PDI.TO",
+   "PDI Gold",
+   "4.65",
+   "+2.65%",
+   "4.6B",
+   "黄金矿业",
+   2.4
+  ],
+  [
+   19,
+   "LLY.TO",
+   "Eli Lilly (CDR)",
+   "42.37",
+   "+2.57%",
+   "1548.8B",
+   "美股CDR·制药",
+   1.4
+  ],
+  [
+   20,
+   "RDDT.TO",
+   "Reddit (CDR)",
+   "14.58",
+   "+2.53%",
+   "40.7B",
+   "美股CDR·互联网社区",
+   1.1
+  ],
+  [
+   21,
+   "APTX.TO",
+   "Apotex Health",
+   "32.47",
+   "+2.53%",
+   "7.4B",
+   "仿制药",
+   0.7
+  ],
+  [
+   22,
+   "SGML.V",
+   "Sigma Lithium",
+   "14.13",
+   "+2.47%",
+   "1.6B",
+   "锂矿",
+   1.4
+  ],
+  [
+   23,
+   "NOVO.TO",
+   "Novo Nordisk (CDR)",
+   "16.65",
+   "+2.40%",
+   "232.6B",
+   "美股CDR·制药",
+   1.4
+  ],
+  [
+   24,
+   "INTU.TO",
+   "Intuit (CDR)",
+   "18.00",
+   "+2.39%",
+   "110.1B",
+   "美股CDR·财税软件",
+   1.3
+  ],
+  [
+   25,
+   "SFC.TO",
+   "Sagicor Financial Company",
+   "8.20",
+   "+2.37%",
+   "1.1B",
+   "保险/金融",
+   0.5
+  ],
+  [
+   26,
+   "ISRG.TO",
+   "Intuitive Surgical (CDR)",
+   "21.49",
+   "+2.33%",
+   "203.3B",
+   "美股CDR·手术机器人",
+   1.2
+  ],
+  [
+   27,
+   "RAY.TO",
+   "Stingray Group",
+   "15.85",
+   "+2.26%",
+   "1.1B",
+   "音乐媒体/广播",
+   0.7
+  ],
+  [
+   28,
+   "SVI.TO",
+   "StorageVault Canada",
+   "4.16",
+   "+2.21%",
+   "1.5B",
+   "自助仓储",
+   1.1
+  ],
+  [
+   29,
+   "OTEX.TO",
+   "Open Text",
+   "33.00",
+   "+2.17%",
+   "8.0B",
+   "企业软件",
+   0.7
+  ],
+  [
+   30,
+   "DSG.TO",
+   "The Descartes Systems Group",
+   "114.07",
+   "+2.04%",
+   "9.8B",
+   "物流软件",
+   0.5
+  ]
+ ],
+ "losers": [
+  [
+   1,
+   "XNDU.TO",
+   "Xanadu Quantum Technologies",
+   "6.41",
+   "-11.10%",
+   "2.0B",
+   "量子计算",
+   2.7
+  ],
+  [
+   2,
+   "HSTR.TO",
+   "Heliostar Metals",
+   "2.32",
+   "-9.38%",
+   "716M",
+   "黄金生产(墨西哥)",
+   1.0
+  ],
+  [
+   3,
+   "WJX.TO",
+   "Wajax",
+   "35.98",
+   "-9.14%",
+   "784M",
+   "工业设备分销",
+   1.7
+  ],
+  [
+   4,
+   "FVI.TO",
+   "Fortuna Mining",
+   "14.44",
+   "-9.07%",
+   "4.3B",
+   "金银生产",
+   2.5
+  ],
+  [
+   5,
+   "MAXX.CN",
+   "Max Power Mining",
+   "2.52",
+   "-8.36%",
+   "488M",
+   "天然氢/锂勘探",
+   1.3
+  ],
+  [
+   6,
+   "BB.TO",
+   "BlackBerry",
+   "12.51",
+   "-8.35%",
+   "7.3B",
+   "安全软件/QNX",
+   1.3
+  ],
+  [
+   7,
+   "EFR.TO",
+   "Energy Fuels",
+   "14.65",
+   "-8.27%",
+   "3.9B",
+   "铀/稀土",
+   1.5
+  ],
+  [
+   8,
+   "IAU.TO",
+   "i-80 Gold",
+   "2.12",
+   "-7.83%",
+   "1.8B",
+   "黄金开发(内华达)",
+   1.3
+  ],
+  [
+   9,
+   "GLAD.V",
+   "Gladiator Metals",
+   "2.11",
+   "-7.46%",
+   "224M",
+   "铜矿勘探(育空)",
+   6.1
+  ],
+  [
+   10,
+   "MAI.TO",
+   "Mining Americas",
+   "5.00",
+   "-7.24%",
+   "550M",
+   "贵金属勘探",
+   1.1
+  ],
+  [
+   11,
+   "AIBZ-U.CN",
+   "Bitzero Holdings",
+   "3.35",
+   "-7.20%",
+   "214M",
+   "数据中心/比特币算力",
+   0.6
+  ],
+  [
+   12,
+   "HSLV.TO",
+   "Highlander Silver",
+   "6.86",
+   "-7.05%",
+   "1.4B",
+   "白银勘探",
+   1.4
+  ],
+  [
+   13,
+   "MSTR.TO",
+   "Strategy/MicroStrategy (CDR)",
+   "10.42",
+   "-6.88%",
+   "89.9B",
+   "美股CDR·比特币资产",
+   0.6
+  ],
+  [
+   14,
+   "SGD.TO",
+   "Snowline Gold",
+   "15.10",
+   "-6.79%",
+   "2.8B",
+   "黄金勘探(育空)",
+   0.5
+  ],
+  [
+   15,
+   "CADY.TO",
+   "Cadillac Mines",
+   "5.35",
+   "-6.63%",
+   "1.4B",
+   "黄金勘探",
+   1.0
+  ],
+  [
+   16,
+   "USA.TO",
+   "Americas Gold and Silver",
+   "5.94",
+   "-6.60%",
+   "2.0B",
+   "白银生产",
+   1.3
+  ],
+  [
+   17,
+   "ISO.TO",
+   "IsoEnergy",
+   "13.82",
+   "-6.56%",
+   "902M",
+   "铀矿",
+   1.2
+  ],
+  [
+   18,
+   "ITH.TO",
+   "International Tower Hill Mines",
+   "3.18",
+   "-6.47%",
+   "832M",
+   "黄金开发(阿拉斯加)",
+   1.3
+  ],
+  [
+   19,
+   "GAU.TO",
+   "Galiano Gold",
+   "2.77",
+   "-6.10%",
+   "725M",
+   "黄金生产(加纳)",
+   0.5
+  ],
+  [
+   20,
+   "GGD.TO",
+   "GoGold Resources",
+   "3.78",
+   "-5.97%",
+   "1.6B",
+   "白银开发(墨西哥)",
+   1.2
+  ],
+  [
+   21,
+   "SCZ.TO",
+   "Santacruz Silver Mining",
+   "11.98",
+   "-5.97%",
+   "1.1B",
+   "白银生产",
+   1.6
+  ],
+  [
+   22,
+   "ARE.TO",
+   "Aecon Group",
+   "54.11",
+   "-5.81%",
+   "3.7B",
+   "工程建筑",
+   1.2
+  ],
+  [
+   23,
+   "ITR.V",
+   "Integra Resources",
+   "3.57",
+   "-5.80%",
+   "724M",
+   "黄金生产(美国)",
+   0.7
+  ],
+  [
+   24,
+   "ATX.TO",
+   "ATEX Resources",
+   "2.11",
+   "-5.80%",
+   "794M",
+   "铜矿勘探(智利)",
+   1.0
+  ],
+  [
+   25,
+   "CATR.TO",
+   "Caterpillar (CDR)",
+   "57.61",
+   "-5.80%",
+   "564.2B",
+   "美股CDR·工程机械",
+   1.3
+  ],
+  [
+   26,
+   "TIH.TO",
+   "Toromont Industries",
+   "217.00",
+   "-5.71%",
+   "17.7B",
+   "工程机械分销(CAT)",
+   1.2
+  ],
+  [
+   27,
+   "SLI.V",
+   "Standard Lithium",
+   "2.36",
+   "-5.60%",
+   "582M",
+   "锂矿",
+   0.6
+  ],
+  [
+   28,
+   "MDI.TO",
+   "Major Drilling Group International",
+   "16.14",
+   "-5.50%",
+   "1.3B",
+   "矿业钻探服务",
+   0.6
+  ],
+  [
+   29,
+   "MUX.TO",
+   "McEwen",
+   "24.22",
+   "-5.50%",
+   "1.5B",
+   "金银矿业",
+   1.1
+  ],
+  [
+   30,
+   "DPRO.CN",
+   "Draganfly",
+   "6.70",
+   "-5.50%",
+   "262M",
+   "无人机",
+   1.3
+  ]
+ ],
+ "table_notes": [
+  "*CDR 市值为美股母公司总市值，非加拿大挂牌市值。",
+  "Yahoo 筛选 80 行 → .TO>.V>.CN>.NE 去重 → regularMarketTime 当日校验（剔除 HSTR.V 10/6 旧数据，改用 TSX 主挂牌 HSTR.TO 当日 -9.4%）→ TradingView 逐只交叉验证（含 type=dr 补查 CDR：MU/SMCI/LLY/RDDT/NOVO/INTU/ISRG/STZ/MSTR/CATR 由 TV 补入；Yahoo 的 MU.NE/SMCI.NE/NVON.NE 合并到 TSX 行）。优先股（SLF-PJ/CU-PE/BPO-PN）已剔除。"
+ ],
+ "sectors_html": "<ul><li><strong>大盘</strong>：S&amp;P/TSX 综合指数收跌 1.70% 至 35,041.86，创一个月新低，为 6 月 5 日以来最大单日跌幅；金融（-2.3%）、材料、工业领跌，跌股 637 vs 涨股 330。驱动：美债长端收益率升至二十年高位、美联储再加息信号、金银大跌（盘中金 -1%+、银 -5%）。</li><li><strong>涨幅榜以个股事件为主</strong>：Algoma Central +10.2%（季度股息上调 48% 至 $0.31 并派 $1.00 特别股息，量比 10🔥）；HydroGraph +7.1%、Roxmore +7.0%（内华达 Converse 金矿钻探题材延续）；Kits Eyecare +4.8%、Valeura +4.7%、Kraken Robotics +4.2%、Extendicare +4.2%、Pet Valu +3.9%。防御性/内需零售与软件（OpenText、Descartes、Coveo）小幅走强。</li><li><strong>美股 CDR 分化</strong>：Micron +4.1%、Super Micro +3.4%（存储/AI 服务器反弹）、Eli Lilly +2.6%、Novo Nordisk +2.4%、Reddit +2.5%、Intuit +2.4%；Caterpillar -5.8%（长端利率飙升+FTC/USDA 农机市场调查）、Strategy -6.9%（比特币回落）。</li><li><strong>跌幅榜：贵金属全线重挫</strong>——Fortuna -9.1%（Q3 黄金当量产量 69,665 盎司环比下降，科特迪瓦运营受扰）、Heliostar -9.4%、i-80 Gold -7.8%、Highlander Silver -7.1%、Snowline -6.8%、Cadillac -6.6%、Americas G&amp;S -6.6%、GoGold -6.0%、Santacruz -6.0%、Galiano -6.1%、Integra -5.8%、McEwen -5.5%；30 只跌幅股中 19 只为金银矿业/勘探。</li><li><strong>铀矿回吐昨日涨幅</strong>：Energy Fuels -8.3%（创 52 周新低）、IsoEnergy -6.6%、Denison -5.4%。<strong>科技题材退潮</strong>：Xanadu -11.1%（量子股集体回调，美股 XNDU -6.7%）、BlackBerry -8.4%（Secure Communications 全年指引下调至 $260-270M 的消化延续）、HIVE -5.1%。<strong>工业/CAT 经销商</strong>随 Caterpillar 重挫：Toromont -5.7%、Wajax -9.1%、Aecon -5.8%。</li></ul>",
+ "anomalies_html": "<ul><li><strong>ALC.TO Algoma Central</strong> 量比 10.0🔥（+10.2%）：全日 5.75 万股 vs 日均 5.8 千股。董事会把季度股息从 $0.21 上调至 $0.31（+48%）并宣布 $1.00/股特别股息（10/15 登记、10/21 派发），低流动性个股放量跳涨。</li><li><strong>GLAD.V Gladiator Metals</strong> 量比 6.1⚠️（-7.5%）：73.8 万股 vs 日均 12.1 万股。10/2 刚因 Cowley/Cub East 高品位铜金钻孔大涨 10.6%，今日随铜/贵金属板块回吐，放量下跌属获利了结。</li><li><strong>ZVST.NE Vistra (CDR)</strong> 量比 3.8⚠️（+3.5%）：NEO 挂牌 CDR 日均量仅 1.5 万股，连续第二日放量（昨 48.6🔥），AI 电力题材延续，小基数效应。</li><li>其余 57 只量比均 &lt; 3，大跌日以板块性抛售为主，未见单一个股异常放量。</li></ul>",
+ "digest": "TSX 收跌 1.70% 创一月新低（长端利率飙升+金银大跌）。涨幅榜事件驱动：Algoma Central +10.2%（股息上调 48% + $1 特别股息，量比 10🔥）、HydroGraph +7.1%、Roxmore +7.0%、Micron CDR +4.1%。跌幅榜贵金属全线重挫（Fortuna -9.1% Q3 产量下滑、Heliostar -9.4%，19/30 为金银股），铀矿回吐（Energy Fuels -8.3%），Xanadu -11.1%、BlackBerry -8.4%，CAT 经销商 Wajax -9.1%/Toromont -5.7%。"
+}
