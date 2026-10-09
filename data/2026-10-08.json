@@ -1,0 +1,619 @@
+{
+ "date": "2026-10-08",
+ "weekday": "周四",
+ "snapshot": "2026-10-08 16:00 ET 收盘（补跑快照）",
+ "market_state": "CLOSED",
+ "note": "本期为补跑：早盘 7:00 PT 定时任务未执行，于当日 18:55 PT 以收盘数据补发。量比按全日口径计算（不含早盘时长折算）。",
+ "vr_note": "量比 = 当日成交量 ÷ 3个月日均量（收盘后补跑，开盘时长占比取 1.0）。CDR 行用 TradingView 90 日均量。⚠️≥3，🔥≥8。",
+ "gainers": [
+  [
+   1,
+   "FTG.TO",
+   "Firan Technology",
+   "32.00",
+   "+25.93%",
+   "806M",
+   "航空电子",
+   5.5
+  ],
+  [
+   2,
+   "PRN.TO",
+   "Profound Medical",
+   "9.84",
+   "+20.59%",
+   "359M",
+   "医疗器械(iMRI)",
+   4.5
+  ],
+  [
+   3,
+   "RCH.TO",
+   "Richelieu Hardware",
+   "38.63",
+   "+11.39%",
+   "2.1B",
+   "五金分销",
+   2.3
+  ],
+  [
+   4,
+   "GAU.TO",
+   "Galiano Gold",
+   "3.00",
+   "+8.30%",
+   "785M",
+   "金矿生产(加纳)",
+   0.9
+  ],
+  [
+   5,
+   "ALC.TO",
+   "Algoma Central",
+   "28.32",
+   "+7.56%",
+   "1.1B",
+   "海运/五大湖航运",
+   2.8
+  ],
+  [
+   6,
+   "GO-U.TO",
+   "GO Residential REIT",
+   "7.78",
+   "+7.31%",
+   "289M",
+   "住宅REIT(美元)",
+   1.1
+  ],
+  [
+   7,
+   "CMGS.TO",
+   "Chipotle CDR",
+   "12.56",
+   "+5.81%",
+   "55.5B",
+   "餐饮(CDR)",
+   12.6
+  ],
+  [
+   8,
+   "AKT.TO",
+   "AKITA Drilling",
+   "3.86",
+   "+4.89%",
+   "222M",
+   "钻井服务",
+   0.6
+  ],
+  [
+   9,
+   "IPCO.TO",
+   "International Petroleum",
+   "36.57",
+   "+4.88%",
+   "4.1B",
+   "油气生产",
+   0.9
+  ],
+  [
+   10,
+   "FVI.TO",
+   "Fortuna Mining",
+   "15.10",
+   "+4.57%",
+   "4.5B",
+   "金银矿",
+   1.6
+  ],
+  [
+   11,
+   "CAD.V",
+   "Colonial Coal",
+   "2.33",
+   "+4.48%",
+   "431M",
+   "冶金煤",
+   3.0
+  ],
+  [
+   12,
+   "ITH.TO",
+   "International Tower Hill",
+   "3.32",
+   "+4.40%",
+   "869M",
+   "黄金开发(阿拉斯加)",
+   1.4
+  ],
+  [
+   13,
+   "DPM.TO",
+   "DPM Metals",
+   "54.28",
+   "+4.38%",
+   "11.9B",
+   "黄金生产",
+   1.8
+  ],
+  [
+   14,
+   "OBE.TO",
+   "Obsidian Energy",
+   "15.82",
+   "+4.35%",
+   "1.1B",
+   "油气生产",
+   0.9
+  ],
+  [
+   15,
+   "STZ.TO",
+   "Constellation Brands CDR",
+   "9.72",
+   "+4.29%",
+   "28.8B",
+   "酒类CDR",
+   3.6
+  ],
+  [
+   16,
+   "RBA.TO",
+   "RB Global",
+   "119.60",
+   "+4.28%",
+   "22.3B",
+   "工业拍卖/服务",
+   2.1
+  ],
+  [
+   17,
+   "SDE.TO",
+   "Spartan Delta",
+   "13.87",
+   "+3.90%",
+   "2.8B",
+   "油气",
+   0.7
+  ],
+  [
+   18,
+   "PEP.TO",
+   "PepsiCo CDR",
+   "18.98",
+   "+3.89%",
+   "240.9B",
+   "饮料食品CDR",
+   4.6
+  ],
+  [
+   19,
+   "IAU.TO",
+   "i-80 Gold",
+   "2.20",
+   "+3.77%",
+   "1.9B",
+   "黄金(内华达)",
+   1.1
+  ],
+  [
+   20,
+   "SU.TO",
+   "Suncor Energy",
+   "100.89",
+   "+3.73%",
+   "118.0B",
+   "油砂",
+   1.0
+  ],
+  [
+   21,
+   "HR-UN.TO",
+   "H&R REIT",
+   "9.60",
+   "+3.67%",
+   "2.5B",
+   "多元REIT",
+   1.5
+  ],
+  [
+   22,
+   "ADBE.TO",
+   "Adobe CDR",
+   "9.18",
+   "+3.61%",
+   "129.2B",
+   "创意软件CDR",
+   0.8
+  ],
+  [
+   23,
+   "BTE.TO",
+   "Baytex Energy",
+   "6.77",
+   "+3.52%",
+   "4.7B",
+   "油气",
+   1.1
+  ],
+  [
+   24,
+   "CEU.TO",
+   "CES Energy Solutions",
+   "18.67",
+   "+3.43%",
+   "3.9B",
+   "油田化学品",
+   0.7
+  ],
+  [
+   25,
+   "MFG.V",
+   "Mayfair Gold",
+   "3.64",
+   "+3.41%",
+   "244M",
+   "黄金开发(安大略)",
+   0.5
+  ],
+  [
+   26,
+   "OXY.TO",
+   "Occidental CDR",
+   "25.05",
+   "+3.38%",
+   "83.0B",
+   "油气CDR",
+   3.6
+  ],
+  [
+   27,
+   "RBY.TO",
+   "Rubellite Energy",
+   "4.29",
+   "+3.37%",
+   "403M",
+   "油气",
+   0.5
+  ],
+  [
+   28,
+   "MKO.V",
+   "Mako Mining",
+   "12.92",
+   "+3.36%",
+   "1.1B",
+   "黄金(尼加拉瓜)",
+   0.5
+  ],
+  [
+   29,
+   "KEY.TO",
+   "Keyera",
+   "54.05",
+   "+3.31%",
+   "15.9B",
+   "能源中游",
+   1.3
+  ],
+  [
+   30,
+   "HD.TO",
+   "Home Depot CDR",
+   "18.23",
+   "+3.23%",
+   "406.7B",
+   "家居零售CDR",
+   3.7
+  ]
+ ],
+ "losers": [
+  [
+   1,
+   "GLAS-A-U.NE",
+   "Glass House Brands",
+   "4.41",
+   "-11.80%",
+   "387M",
+   "大麻(加州,美元)",
+   2.1
+  ],
+  [
+   2,
+   "HUT.TO",
+   "Hut 8",
+   "113.06",
+   "-11.27%",
+   "13.9B",
+   "比特币矿/AI算力",
+   2.1
+  ],
+  [
+   3,
+   "BTQ.NE",
+   "BTQ Technologies",
+   "3.95",
+   "-10.23%",
+   "581M",
+   "后量子加密",
+   0.6
+  ],
+  [
+   4,
+   "ELVA.TO",
+   "Electrovaya",
+   "8.22",
+   "-9.57%",
+   "407M",
+   "锂电池",
+   1.0
+  ],
+  [
+   5,
+   "TI.TO",
+   "Titan Mining",
+   "3.01",
+   "-8.79%",
+   "298M",
+   "锌/石墨",
+   1.5
+  ],
+  [
+   6,
+   "XNDU.TO",
+   "Xanadu Quantum",
+   "5.86",
+   "-8.58%",
+   "1.8B",
+   "量子计算",
+   2.6
+  ],
+  [
+   7,
+   "NEO.TO",
+   "Neo Performance Materials",
+   "27.91",
+   "-8.46%",
+   "1.3B",
+   "稀土磁材",
+   0.9
+  ],
+  [
+   8,
+   "HG.CN",
+   "HydroGraph Clean Power",
+   "3.16",
+   "-8.41%",
+   "1.1B",
+   "石墨烯材料",
+   1.2
+  ],
+  [
+   9,
+   "KITS.TO",
+   "Kits Eyecare",
+   "16.10",
+   "-8.00%",
+   "548M",
+   "眼镜电商",
+   1.6
+  ],
+  [
+   10,
+   "DML.TO",
+   "Denison Mines",
+   "3.37",
+   "-7.92%",
+   "3.1B",
+   "铀矿",
+   2.3
+  ],
+  [
+   11,
+   "CRWV.TO",
+   "CoreWeave CDR",
+   "15.38",
+   "-7.74%",
+   "69.6B",
+   "AI云算力CDR",
+   3.1
+  ],
+  [
+   12,
+   "HIVE.TO",
+   "HIVE Digital",
+   "3.65",
+   "-7.12%",
+   "1.0B",
+   "比特币矿/AI算力",
+   1.5
+  ],
+  [
+   13,
+   "MSCL.TO",
+   "Satellos Bioscience",
+   "10.42",
+   "-6.38%",
+   "221M",
+   "生物医药",
+   1.2
+  ],
+  [
+   14,
+   "ZVST.NE",
+   "Vistra CDR",
+   "8.55",
+   "-6.15%",
+   "2.9B",
+   "电力(CDR)",
+   3.1
+  ],
+  [
+   15,
+   "MDA.TO",
+   "MDA Space",
+   "38.81",
+   "-6.12%",
+   "6.3B",
+   "航天",
+   1.1
+  ],
+  [
+   16,
+   "APTX.TO",
+   "Apotex Health",
+   "30.54",
+   "-5.94%",
+   "7.0B",
+   "仿制药",
+   0.9
+  ],
+  [
+   17,
+   "KEEL.TO",
+   "Keel Infrastructure",
+   "4.46",
+   "-5.91%",
+   "2.8B",
+   "数据中心/算力",
+   0.8
+  ],
+  [
+   18,
+   "ORAC.TO",
+   "Oracle CDR",
+   "6.68",
+   "-5.65%",
+   "619.2B",
+   "软件/AI云CDR",
+   1.1
+  ],
+  [
+   19,
+   "MLP.V",
+   "Millennial Potash",
+   "2.02",
+   "-5.61%",
+   "239M",
+   "钾肥(加蓬)",
+   1.5
+  ],
+  [
+   20,
+   "INTC.TO",
+   "Intel CDR",
+   "59.90",
+   "-5.42%",
+   "853.0B",
+   "半导体CDR",
+   1.0
+  ],
+  [
+   21,
+   "PNG.V",
+   "Kraken Robotics",
+   "4.72",
+   "-5.41%",
+   "1.8B",
+   "海洋机器人/国防",
+   1.9
+  ],
+  [
+   22,
+   "SNDK.TO",
+   "SanDisk CDR",
+   "39.05",
+   "-4.92%",
+   "353.5B",
+   "存储芯片CDR",
+   1.3
+  ],
+  [
+   23,
+   "SMCI.TO",
+   "Super Micro CDR",
+   "13.75",
+   "-4.91%",
+   "42.1B",
+   "AI服务器CDR",
+   1.4
+  ],
+  [
+   24,
+   "CEGS.TO",
+   "Constellation Energy CDR",
+   "19.40",
+   "-4.86%",
+   "151.4B",
+   "核电(CDR)",
+   2.1
+  ],
+  [
+   25,
+   "ISO.TO",
+   "IsoEnergy",
+   "13.16",
+   "-4.78%",
+   "859M",
+   "铀矿",
+   1.0
+  ],
+  [
+   26,
+   "MU.TO",
+   "Micron CDR",
+   "45.35",
+   "-4.73%",
+   "1752.9B",
+   "存储芯片CDR",
+   1.0
+  ],
+  [
+   27,
+   "ABXX.TO",
+   "Abaxx Technologies",
+   "18.13",
+   "-4.68%",
+   "703M",
+   "大宗商品交易所",
+   0.7
+  ],
+  [
+   28,
+   "UCU.V",
+   "Ucore Rare Metals",
+   "2.52",
+   "-4.55%",
+   "383M",
+   "稀土分离",
+   1.2
+  ],
+  [
+   29,
+   "CLS.TO",
+   "Celestica",
+   "506.58",
+   "-4.42%",
+   "63.9B",
+   "AI服务器/EMS",
+   0.9
+  ],
+  [
+   30,
+   "HITI.V",
+   "High Tide",
+   "3.68",
+   "-4.42%",
+   "328M",
+   "大麻零售",
+   1.7
+  ]
+ ],
+ "table_notes": [
+  "*CDR 市值为美股母公司总市值，非加拿大挂牌市值。",
+  "Yahoo 筛选 80 行 → .TO>.V>.CN>.NE 去重 → regularMarketTime 当日校验（剔除 HSTR.V 10/6 旧数据）→ TradingView 逐只交叉验证，涨跌幅全部一致。CDR 以 TSX 挂牌为准（CMGS/HD/ORAC/INTC/SMCI/MU/AVGO 由 .NE 合并到 .TO 行）；type=dr 补查补入 STZ/PEP/ADBE/OXY/CRWV/SNDK/CEGS/SPCX，另补入 TV 独有的 Glass House Brands（GLAS.A.U，Yahoo 无当日数据）。BTQ.NE 仅 Yahoo 有行情，TV 经 NEO:BTQ 单查确认 -10.2% 一致。"
+ ],
+ "sectors_html": "<ul><li><strong>大盘</strong>：S&amp;P/TSX 综合指数收涨 0.30%（+103.5 点）至 35,145.38，收复昨日 -1.70% 暴跌的一小部分。能源板块领涨（+1.8%，油价 +4% 至 $90+/桶，中东冲突与霍尔木兹航运袭击推升供应担忧），材料 +0.8%（金价企稳 $4,157）；金融板块 -0.5% 受累于美债 10 年期 5.28% 多年高位，市场已定价央行年内再加息一次。</li><li><strong>涨幅榜：财报与并购事件驱动</strong>——Firan Technology +25.9%（Q3 营收 $64.1M +34%、调整后 EPS $0.41 远超预期 $0.18，积压订单创纪录，量比 5.5⚠️）；Profound Medical +20.6%（Q3 初步营收 $9.8-10.0M，比共识高 45-47%，量比 4.5⚠️）；Richelieu Hardware +11.4%（Q3 销售 +12.6% 超预期）；Galiano Gold +8.3%（加纳 Asanko 矿权租约延至 2041/2043）；Algoma Central +7.6%（股息上调 48% + $1 特别股息第二日延续）；Chipotle CDR +5.8%（FT 报道星巴克研究收购，量比 12.6🔥）。</li><li><strong>能源股集体走强</strong>：30 只涨幅股中 11 只为油气——International Petroleum +4.9%、Obsidian +4.4%、Spartan Delta +3.9%、Suncor +3.7%、Baytex +3.5%、CES Energy +3.4%、Keyera +3.3%、Canadian Natural +3.0%（榜外）、Occidental CDR +3.4%。<strong>黄金股反弹</strong>：Fortuna +4.6%（昨 -9.1% 后修复）、DPM +4.4%、Tower Hill +4.4%、i-80 +3.8%、Mayfair +3.4%、Mako +3.4%。<strong>消费防御 CDR</strong>：Constellation Brands +4.3%、PepsiCo +3.9%（Q3 财报超预期）、Home Depot +3.2%、Adobe +3.6%。</li><li><strong>跌幅榜：AI 基建/加密算力与半导体 CDR 普跌</strong>——Hut 8 -11.3%（无明确催化，比特币 -1.4% 至 $81.9K，仅公告 11/3 发 Q3 财报）、HIVE -7.1%、Keel -5.9%；CoreWeave CDR -7.7%、Oracle CDR -5.7%（举债 AI 建设类“neocloud”遭抛售，Nebius -6%）、Intel -5.4%、SanDisk -4.9%、Super Micro -4.9%、Constellation Energy -4.9%、Micron -4.7%、Broadcom -4.3%、Celestica -4.4%、Vistra -6.2%。</li><li><strong>题材股继续退潮</strong>：Glass House Brands -11.8%（加州大麻，美元计价）、BTQ -10.2%（后量子加密，连续第三日下跌）、Electrovaya -9.6%、Xanadu -8.6%（量子股回调延续）、Neo Performance -8.5%（稀土）、HydroGraph -8.4%（昨 +7.1% 回吐）、Kits Eyecare -8.0%（昨 +4.8% 回吐）、Titan Mining -8.8%（与美国陆军签阿拉巴马石墨厂初步协议反成利好出尽）。<strong>铀矿续跌</strong>：Denison -7.9%（长期铀价破 $96 纪录但铀股持续走弱）、IsoEnergy -4.8%。大麻股 High Tide -4.4%。</li></ul>",
+ "anomalies_html": "<ul><li><strong>CMGS.TO Chipotle CDR</strong> 量比 12.6🔥（+5.8%）：全日 9.7 万份 vs 日均 7.7 千份。《金融时报》报道星巴克数月来与顾问研究收购 Chipotle（CEO Niccol 前东家），美股 CMG +7%；低基数 CDR 放量追涨。</li><li><strong>FTG.TO Firan Technology</strong> 量比 5.5⚠️（+25.9%）：40.6 万股 vs 日均 7.4 万股。Q3 创纪录财报（营收 +34%、EPS $0.41 vs 预期 $0.18、积压订单新高、商用航空与国防需求双升），创 52 周新高。</li><li><strong>PRN.TO Profound Medical</strong> 量比 4.5⚠️（+20.6%）：Q3 初步营收 $9.8-10.0M，同比 +85-89%、环比约 +3 倍，高出共识 45-47%，毛利率 >70%。</li><li><strong>PEP.TO PepsiCo CDR</strong> 量比 4.6⚠️（+3.9%）：Q3 盈利与营收双超预期，国际业务加速。</li><li><strong>HD.TO Home Depot CDR</strong> 量比 3.7⚠️（+3.2%）、<strong>STZ.TO Constellation Brands CDR</strong> 量比 3.6⚠️（+4.3%）、<strong>OXY.TO Occidental CDR</strong> 量比 3.6⚠️（+3.4%，油价 +4%）：防御/能源 CDR 小基数放量。</li><li><strong>CRWV.TO CoreWeave CDR</strong> 量比 3.1⚠️（-7.7%）：举债 AI 建设的 neocloud 板块遭抛售（Nebius -6%、Oracle -5%）。</li><li><strong>ZVST.NE Vistra CDR</strong> 量比 3.1⚠️（-6.2%）：连续第三日放量，AI 电力题材随 Constellation Energy -4.9% 回落。</li><li><strong>CAD.V Colonial Coal</strong> 量比 3.0⚠️（+4.5%）：冶金煤项目出售进程题材延续，无新公告。</li><li>其余 51 只量比均 &lt; 3；Hut 8 -11.3% 量比仅 2.1，属无催化的加密/算力板块性回落。</li></ul>",
+ "digest": "TSX 收涨 0.30% 至 35,145（油价 +4% 推升能源股，金融受高收益率压制）。涨幅榜财报驱动：Firan +25.9%（Q3 EPS 翻倍超预期，量比 5.5⚠️）、Profound Medical +20.6%（初步营收超共识 45%）、Richelieu +11.4%、Galiano +8.3%（矿权延期）；Chipotle CDR +5.8% 量比 12.6🔥（星巴克探讨收购）；能源股 11 只上榜。跌幅榜 AI 算力/半导体 CDR 普跌：Hut 8 -11.3%、CoreWeave -7.7%、Oracle -5.7%、Intel -5.4%；题材股退潮 Glass House -11.8%、BTQ -10.2%、Electrovaya -9.6%、Xanadu -8.6%、Denison -7.9%。"
+}
