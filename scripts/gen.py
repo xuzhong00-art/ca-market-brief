@@ -117,7 +117,7 @@ def rebuild_index(all_data):
     (ROOT / "index.html").write_text(page, encoding="utf-8")
 
 def main():
-    files = sorted(DATA.glob("*.json"), reverse=True)
+    files = sorted((f for f in DATA.glob("*.json") if not f.name.startswith("_")), reverse=True)
     if not files:
         sys.exit("no data files")
     target = sys.argv[1] if len(sys.argv) > 1 else files[0].stem
