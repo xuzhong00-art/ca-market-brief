@@ -1,0 +1,621 @@
+{
+ "date": "2026-10-15",
+ "weekday": "周四",
+ "snapshot": "2026-10-15 16:00 ET 收盘（补跑快照，18:55 PT 执行）",
+ "market_state": "CLOSED",
+ "note": "本期为收盘后补跑：早盘定时任务未执行，于 18:55 PT 以当日收盘数据补发。量比按全天成交量（系数 1.0）计算。",
+ "vr_note": "量比 = 当日全天成交量 ÷ 3个月日均量（收盘后补跑，系数 1.0）。CDR 行用 TradingView 90 日均量。⚠️≥3，🔥≥8。",
+ "gainers": [
+  [
+   1,
+   "BMM.V",
+   "Black Mammoth Metals",
+   "4.35",
+   "+11.54%",
+   "235M",
+   "金银勘探(内华达)",
+   5.3
+  ],
+  [
+   2,
+   "ITH.TO",
+   "Intl Tower Hill",
+   "3.11",
+   "+9.89%",
+   "814M",
+   "黄金开发(阿拉斯加)",
+   2.4
+  ],
+  [
+   3,
+   "HMMC.TO",
+   "Hemlo Mining",
+   "5.36",
+   "+9.61%",
+   "1.6B",
+   "黄金生产(安省)",
+   2.4
+  ],
+  [
+   4,
+   "NFGC.TO",
+   "New Found Gold",
+   "2.22",
+   "+9.36%",
+   "853M",
+   "黄金勘探(纽芬兰)",
+   0.9
+  ],
+  [
+   5,
+   "IE.TO",
+   "Ivanhoe Electric",
+   "12.26",
+   "+9.07%",
+   "2.0B",
+   "铜矿开发",
+   1.0
+  ],
+  [
+   6,
+   "DML.TO",
+   "Denison Mines",
+   "3.35",
+   "+8.77%",
+   "3.0B",
+   "铀矿开发",
+   2.4
+  ],
+  [
+   7,
+   "DRX.TO",
+   "ADF Group",
+   "16.25",
+   "+8.62%",
+   "464M",
+   "钢结构工程",
+   1.3
+  ],
+  [
+   8,
+   "EQX.TO",
+   "Equinox Gold",
+   "15.72",
+   "+7.30%",
+   "18.4B",
+   "黄金生产",
+   1.0
+  ],
+  [
+   9,
+   "BBD-B.TO",
+   "Bombardier",
+   "310.59",
+   "+7.10%",
+   "57.8B",
+   "公务机制造",
+   1.2
+  ],
+  [
+   10,
+   "LAC.TO",
+   "Lithium Americas",
+   "3.18",
+   "+7.07%",
+   "1.2B",
+   "锂矿开发",
+   1.6
+  ],
+  [
+   11,
+   "RDDT.TO",
+   "Reddit（CDR）",
+   "15.17",
+   "+6.98%",
+   "40.7B",
+   "社交媒体·CDR",
+   0.8
+  ],
+  [
+   12,
+   "MAXX.CN",
+   "MaxPower Mining",
+   "2.78",
+   "+6.92%",
+   "538M",
+   "天然氢/矿业",
+   0.6
+  ],
+  [
+   13,
+   "BHC.TO",
+   "Bausch Health",
+   "8.98",
+   "+6.90%",
+   "3.4B",
+   "制药",
+   0.9
+  ],
+  [
+   14,
+   "K.TO",
+   "Kinross Gold",
+   "33.82",
+   "+6.89%",
+   "40.1B",
+   "黄金生产",
+   1.3
+  ],
+  [
+   15,
+   "SGD.TO",
+   "Snowline Gold",
+   "14.84",
+   "+6.76%",
+   "2.8B",
+   "黄金勘探(育空)",
+   0.5
+  ],
+  [
+   16,
+   "ARIS.TO",
+   "Aris Mining",
+   "24.60",
+   "+6.63%",
+   "5.1B",
+   "黄金生产(哥伦比亚)",
+   1.3
+  ],
+  [
+   17,
+   "GAU.TO",
+   "Galiano Gold",
+   "3.07",
+   "+6.60%",
+   "803M",
+   "黄金生产(加纳)",
+   0.9
+  ],
+  [
+   18,
+   "ORE.TO",
+   "Orezone Gold",
+   "3.07",
+   "+6.60%",
+   "2.1B",
+   "黄金生产(西非)",
+   0.8
+  ],
+  [
+   19,
+   "ELE.TO",
+   "Elemental Royalty",
+   "23.85",
+   "+6.57%",
+   "1.8B",
+   "贵金属权利金",
+   0.9
+  ],
+  [
+   20,
+   "APPS.TO",
+   "AppLovin（CDR）",
+   "8.73",
+   "+6.46%",
+   "125.0B",
+   "广告科技·CDR",
+   1.7
+  ],
+  [
+   21,
+   "PPTA.TO",
+   "Perpetua Resources",
+   "26.29",
+   "+6.39%",
+   "3.3B",
+   "金锑开发(爱达荷)",
+   1.0
+  ],
+  [
+   22,
+   "VGZ.TO",
+   "Vista Gold",
+   "3.85",
+   "+6.35%",
+   "562M",
+   "黄金开发(澳洲)",
+   3.2
+  ],
+  [
+   23,
+   "FIH-U.TO",
+   "Fairfax India",
+   "18.10",
+   "+6.35%",
+   "2.4B",
+   "印度投资控股",
+   2.3
+  ],
+  [
+   24,
+   "NUAG.TO",
+   "New Pacific Metals",
+   "8.82",
+   "+6.27%",
+   "1.6B",
+   "银矿开发(玻利维亚)",
+   0.9
+  ],
+  [
+   25,
+   "INTU.TO",
+   "Intuit（CDR）",
+   "19.98",
+   "+6.22%",
+   "118.2B",
+   "软件·CDR",
+   4.5
+  ],
+  [
+   26,
+   "LMN.V",
+   "Lumine Group",
+   "24.11",
+   "+6.16%",
+   "6.2B",
+   "通信软件并购",
+   1.6
+  ],
+  [
+   27,
+   "DOO.TO",
+   "BRP",
+   "79.28",
+   "+6.13%",
+   "5.6B",
+   "动力运动产品",
+   1.1
+  ],
+  [
+   28,
+   "WDO.TO",
+   "Wesdome Gold",
+   "31.65",
+   "+6.10%",
+   "4.5B",
+   "黄金生产",
+   1.2
+  ],
+  [
+   29,
+   "SKE.TO",
+   "Skeena Resources",
+   "45.33",
+   "+6.08%",
+   "5.7B",
+   "金银开发(BC)",
+   1.5
+  ],
+  [
+   30,
+   "NOWS.TO",
+   "ServiceNow（CDR）",
+   "18.86",
+   "+6.07%",
+   "206.2B",
+   "软件·CDR",
+   1.0
+  ]
+ ],
+ "losers": [
+  [
+   1,
+   "FSZ.TO",
+   "Fiera Capital",
+   "3.35",
+   "-12.99%",
+   "355M",
+   "资产管理",
+   4.3
+  ],
+  [
+   2,
+   "CIA.TO",
+   "Champion Iron",
+   "2.40",
+   "-9.09%",
+   "1.3B",
+   "铁矿生产(魁北克)",
+   4.0
+  ],
+  [
+   3,
+   "MLP.V",
+   "Millennial Potash",
+   "2.03",
+   "-7.73%",
+   "240M",
+   "钾肥开发(加蓬)",
+   1.4
+  ],
+  [
+   4,
+   "DXT.TO",
+   "Dexterra Group",
+   "16.91",
+   "-5.53%",
+   "1.1B",
+   "设施服务",
+   1.0
+  ],
+  [
+   5,
+   "TTS.V",
+   "Tintina Mines",
+   "2.79",
+   "-5.42%",
+   "791M",
+   "矽/工业矿物",
+   0.5
+  ],
+  [
+   6,
+   "EFX.TO",
+   "Enerflex",
+   "34.77",
+   "-5.13%",
+   "4.2B",
+   "油气设备/数据中心电力",
+   1.0
+  ],
+  [
+   7,
+   "ANET.TO",
+   "Arista Networks（CDR）",
+   "33.18",
+   "-4.96%",
+   "351.1B",
+   "网络设备·CDR",
+   1.7
+  ],
+  [
+   8,
+   "TWM.TO",
+   "Tidewater Midstream",
+   "24.60",
+   "-4.91%",
+   "540M",
+   "中游/炼化",
+   0.6
+  ],
+  [
+   9,
+   "ALS.TO",
+   "Altius Minerals",
+   "57.48",
+   "-4.76%",
+   "3.4B",
+   "矿业权利金",
+   0.9
+  ],
+  [
+   10,
+   "LCFS.TO",
+   "Tidewater Renewables",
+   "23.63",
+   "-4.68%",
+   "863M",
+   "可再生燃料",
+   0.7
+  ],
+  [
+   11,
+   "ASTL.TO",
+   "Algoma Steel",
+   "5.80",
+   "-4.45%",
+   "611M",
+   "钢铁",
+   2.0
+  ],
+  [
+   12,
+   "BDT.TO",
+   "Bird Construction",
+   "77.17",
+   "-4.11%",
+   "4.3B",
+   "建筑工程",
+   1.4
+  ],
+  [
+   13,
+   "VNP.TO",
+   "5N Plus",
+   "28.53",
+   "-4.07%",
+   "2.6B",
+   "特种半导体材料",
+   0.8
+  ],
+  [
+   14,
+   "HHH.V",
+   "Helius Minerals",
+   "4.03",
+   "-3.82%",
+   "217M",
+   "矿业勘探",
+   0.6
+  ],
+  [
+   15,
+   "TNZ.TO",
+   "Tenaz Energy",
+   "69.24",
+   "-3.78%",
+   "2.3B",
+   "油气(欧洲)",
+   0.6
+  ],
+  [
+   16,
+   "VRT.TO",
+   "Vertiv（CDR）",
+   "15.96",
+   "-3.68%",
+   "122.2B",
+   "数据中心电力·CDR",
+   2.0
+  ],
+  [
+   17,
+   "AMAT.TO",
+   "Applied Materials（CDR）",
+   "47.53",
+   "-3.63%",
+   "504.9B",
+   "半导体设备·CDR",
+   2.4
+  ],
+  [
+   18,
+   "HG.CN",
+   "HydroGraph Clean Power",
+   "2.85",
+   "-3.39%",
+   "1.0B",
+   "石墨烯材料",
+   2.8
+  ],
+  [
+   19,
+   "HPS-A.TO",
+   "Hammond Power",
+   "257.04",
+   "-3.38%",
+   "3.1B",
+   "变压器",
+   1.2
+  ],
+  [
+   20,
+   "TOT.TO",
+   "Total Energy Services",
+   "35.19",
+   "-3.32%",
+   "1.3B",
+   "油服",
+   0.6
+  ],
+  [
+   21,
+   "CSCO.TO",
+   "Cisco（CDR）",
+   "52.32",
+   "-3.31%",
+   "638.2B",
+   "网络设备·CDR",
+   1.0
+  ],
+  [
+   22,
+   "NGEX.TO",
+   "NGEx Minerals",
+   "21.73",
+   "-3.25%",
+   "4.7B",
+   "铜矿勘探(阿根廷)",
+   0.9
+  ],
+  [
+   23,
+   "LRCX.TO",
+   "Lam Research（CDR）",
+   "24.33",
+   "-3.14%",
+   "511.5B",
+   "半导体设备·CDR",
+   1.2
+  ],
+  [
+   24,
+   "CLS.TO",
+   "Celestica",
+   "446.70",
+   "-3.13%",
+   "56.3B",
+   "AI服务器/EMS",
+   1.4
+  ],
+  [
+   25,
+   "PNG.V",
+   "Kraken Robotics",
+   "3.98",
+   "-2.93%",
+   "1.5B",
+   "海洋机器人/国防",
+   1.3
+  ],
+  [
+   26,
+   "INTC.TO",
+   "Intel（CDR）",
+   "53.39",
+   "-2.93%",
+   "738.8B",
+   "半导体·CDR",
+   1.4
+  ],
+  [
+   27,
+   "TRP.TO",
+   "TC Energy",
+   "84.61",
+   "-2.87%",
+   "88.1B",
+   "天然气管道",
+   1.7
+  ],
+  [
+   28,
+   "BK.TO",
+   "Canadian Banc Corp",
+   "15.15",
+   "-2.76%",
+   "817M",
+   "银行分级基金",
+   5.9
+  ],
+  [
+   29,
+   "RGSI.TO",
+   "Rockpoint Gas Storage",
+   "23.97",
+   "-2.76%",
+   "3.2B",
+   "天然气储存",
+   1.4
+  ],
+  [
+   30,
+   "KLAC.TO",
+   "KLA（CDR）",
+   "23.53",
+   "-2.61%",
+   "332.4B",
+   "半导体设备·CDR",
+   0.8
+  ]
+ ],
+ "table_notes": [
+  "*CDR（NKE/NOWS/RDDT/APPS/INTU/INTC/ANET/VRT/AMAT/CSCO/LRCX/KLAC）市值为美股母公司总市值（TradingView 加元口径），非加拿大挂牌流通市值。",
+  "*NKE/NOWS/INTC 以 TSX 挂牌数据替代 Yahoo 返回的 NEO 行；RDDT/APPS/INTU 及跌幅榜 ANET/VRT/AMAT/CSCO/LRCX/KLAC 为 TradingView 补充（Yahoo screener 未返回）。",
+  "*剔除：NVDA.NE/AMD.NE/TSLA.NE 交叉挂牌去重。所有入榜行 regularMarketTime 均为 10-15 当日，无停牌僵尸数据；TV 交叉验证涨跌幅全部一致。TV 跌幅榜中 DLCG/VCM（NEO 行）最后成交为 10-13/10-08，属陈旧数据，未采纳。",
+  "*BK.TO 为分级基金（Class A），TradingView 归类 fund 不在其股票榜，Yahoo 当日数据有效，保留。"
+ ],
+ "sectors_html": "<ul><li><strong>大盘：TSX +1.55% 收 36,137，六周最大单日涨幅、三周新高</strong>：美国初请失业金高于预期压低实际收益率，金价 +2.1% 至 US$4,194/oz（收盘新高）、银价 +3.7% 至 US$57.60，材料板块 +3.3% 领涨，昨日 CPI 冲击下的抛售一日反转。美股同日仅微涨（S&P +0.33%），TSX 显著跑赢。</li><li><strong>涨幅榜主线一：贵金属全线反弹，昨日跌幅榜今日集体回榜</strong>：涨幅榜 30 只中 21 只为矿业——ITH +9.9%（昨 -11.6%）、Hemlo +9.6%、NFGC +9.4%、Equinox +7.3%、Kinross +6.9%、Snowline +6.8%、Aris +6.6%、Galiano/Orezone +6.6%、Perpetua +6.4%（昨 -10.2%）、Vista Gold +6.4%、Wesdome +6.1%、Skeena +6.1%、Allied Gold +6.0%、Agnico +5.7%、Endeavour +5.6%；银矿 New Pacific +6.3%、Highlander +5.7%、Capitan +5.7%。铜矿 Ivanhoe Electric +9.1%（昨 -11.2%）、铀矿 Denison +8.8%（昨 -7.2%）、锂矿 LAC +7.1% 同步修复，典型的超跌反弹而非新驱动。</li><li><strong>涨幅榜主线二：个股催化</strong>：Black Mammoth（BMM）+11.5% 连续第二日领涨——10/15 正式登陆纳斯达克（BMMX），两日累涨 24%；Bombardier +7.1% 刷新历史新高（欧洲盘同步 +4.6%，公务机需求/回购题材延续）；美股 CDR 科技反弹 Reddit +7.0%、AppLovin +6.5%、Intuit +6.2%（昨 +3.1% 后再度放量）、ServiceNow +6.1%、Nike +5.5%；Lumine +6.2%、Enghouse +5.9% 加拿大软件跟涨。</li><li><strong>跌幅榜主线一：财务数据/融资利空个股</strong>：Fiera Capital（FSZ）-13.0% 居榜首——Q3 初步 AUM 从 1,635 亿降至 1,514 亿（-7%），净流出 83 亿（含分销顾问账户 52 亿）叠加利率上行市值缩水 38 亿，多家券商此前已下调目标价至 C$5；Champion Iron（CIA）-9.1%——FY2027 Q2 初步业绩：实现售价 US$89.9/dmt、营收 4.04 亿，近一月累跌 21%、一年腰斩；Canadian Banc（BK）-2.8%、量比 5.9——隔夜增发 Class A（$15.40）与优先股（$10.35）共 6,000 万，折价发行压制股价；Millennial Potash（MLP）-7.7% 昨日 +15.8% 后获利回吐。</li><li><strong>跌幅榜主线二：能源/中游与基建承压</strong>：WTI +1.2% 但中游与油服走弱——Enerflex -5.1%、Tidewater Midstream -4.9%、Tidewater Renewables -4.7%、Total Energy -3.3%、TC Energy -2.9%（成交 798 万股）、Keyera -2.6%、Rockpoint -2.8%、Cenovus -2.3%；建筑/工业 Bird Construction -4.1%、Dexterra -5.5%、NOA -2.5%（量比 3.7，榜外）、Algoma Steel -4.5%、Hammond Power -3.4%、5N Plus -4.1%。市场风险偏好回归金矿与科技，昨日抗跌的现金流资产遭轮出。</li><li><strong>跌幅榜主线三：半导体/AI 硬件 CDR 回落</strong>：Arista -5.0%、Vertiv -3.7%、Applied Materials -3.6%、Cisco -3.3%、Lam Research -3.1%、Intel -2.9%、KLA -2.6%（WDC/SpaceX -2.3%/-2.5% 榜外），Celestica -3.1% 同步，AI 硬件链在昨日 CoreWeave 债务担忧后继续去风险，而软件/互联网 CDR 走强形成分化。</li></ul>",
+ "anomalies_html": "<ul><li>⚠️ <strong>BK.TO Canadian Banc Corp</strong> 量比 5.9（-2.8%）：10/14 15:16 停牌待公告，10/15 恢复交易后公告隔夜增发完成——Class A $15.40、优先股 $10.35，总额约 6,000 万，10/22 交割。全天 132 万股为均量 5.6 倍，折价发行引发套利卖压（Class A 收 $15.15 已低于发行价）。</li><li>⚠️ <strong>BMM.V Black Mammoth Metals</strong> 量比 5.3（+11.5%）：纳斯达克 BMMX 首日交易，TSXV 端 5.6 万股为均量 4.5 倍（基数仅 1.26 万股/日），两日累涨 24%。</li><li>⚠️ <strong>INTU.TO Intuit（CDR）</strong> 量比 4.5（+6.2%）：连续第二日放量上涨（昨量比 3.5），22.8 万份为均量 4.5 倍，软件 CDR 轮动买盘。</li><li>⚠️ <strong>FSZ.TO Fiera Capital</strong> 量比 4.3（-13.0%）：Q3 初步 AUM -7%、净流出 83 亿，全天 197 万股为均量 4.3 倍（公司 IR 口径 347 万股），资管费收入前景恶化引发估值重估。</li><li>⚠️ <strong>CIA.TO Champion Iron</strong> 量比 4.0（-9.1%）：FY2027 Q2 初步业绩售价/营收不及预期，ASX 同步 -9.7%，TSX 214 万股为均量 4 倍。</li><li>⚠️ <strong>VGZ.TO Vista Gold</strong> 量比 3.2（+6.4%）：无公司公告，Mt Todd 金矿开发股随金价新高放量，34 万股为均量 3.2 倍。</li></ul>",
+ "digest": "TSX +1.55% 三周新高：金价新高 US$4,194 带动矿业全线反弹（21 只矿股上涨幅榜，ITH/Hemlo/NFGC +9%+），Black Mammoth 纳斯达克首日 +11.5%，Bombardier 新高；Fiera Capital AUM 流出 -13.0%、Champion Iron 季报 -9.1%，中游/AI 硬件 CDR 走弱。"
+}
