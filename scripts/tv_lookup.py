@@ -2,7 +2,7 @@
 """TV symbol lookup for tickers missing in scan results."""
 import json, urllib.request
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/126.0 Safari/537.36"
-tickers = ["TSXV:LGC","TSXV:TTS","TSX:VGC","TSX:BBD.B","TSX:DC.A","TSX:HPS.A","TSX:DFN","TSX:DF","TSX:BK","TSX:ACX","TSX:MRE","TSX:CF.PR.A","TSXV:GORO","TSX:CADY","TSX:VMET"]
+tickers = ["TSXV:TTS","TSX:HLF"]
 body = {"symbols":{"tickers":tickers},
         "columns":["name","description","close","change","volume","market_cap_basic","sector","industry","update_mode"]}
 req = urllib.request.Request("https://scanner.tradingview.com/canada/scan",
