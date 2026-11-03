@@ -1,0 +1,620 @@
+{
+ "date": "2026-11-02",
+ "weekday": "周一",
+ "snapshot": "2026-11-02 16:00 ET 收盘（补跑：实际执行于 11-03 凌晨，取 11-02 全日数据）",
+ "market_state": "CLOSED",
+ "note": "本期为补跑：早上 7:00 PT 排程未按时执行，数据为 11 月 2 日（周一）全日收盘快照，量比按全日口径（占比 1.0）计算，与平时早盘口径不可直接比较。",
+ "vr_note": "量比 = 当日成交量 ÷ 3 个月日均量（全日收盘口径，占比 1.0）。CDR 行用 Yahoo .TO 挂牌 3 个月均量，基数小易放大。⚠️≥3，🔥≥8。",
+ "gainers": [
+  [
+   1,
+   "UCU.V",
+   "Ucore Rare Metals",
+   "2.39",
+   "+17.16%",
+   "363M",
+   "稀土精炼",
+   1.8
+  ],
+  [
+   2,
+   "PCU.V",
+   "Pecoy Copper",
+   "2.00",
+   "+9.89%",
+   "419M",
+   "铜矿勘探",
+   2.4
+  ],
+  [
+   3,
+   "GG.V",
+   "Golconda Gold",
+   "3.27",
+   "+9.73%",
+   "233M",
+   "黄金矿业",
+   3.0
+  ],
+  [
+   4,
+   "MFG.V",
+   "Mayfair Gold",
+   "3.40",
+   "+9.68%",
+   "236M",
+   "黄金勘探",
+   1.4
+  ],
+  [
+   5,
+   "CURA.TO",
+   "Curaleaf",
+   "12.83",
+   "+9.01%",
+   "3.4B",
+   "大麻（美国MSO）",
+   1.1
+  ],
+  [
+   6,
+   "FISH.V",
+   "Sailfish Royalty",
+   "6.80",
+   "+8.63%",
+   "536M",
+   "贵金属权利金",
+   1.8
+  ],
+  [
+   7,
+   "LCFS.TO",
+   "Tidewater Renewables",
+   "21.53",
+   "+8.14%",
+   "787M",
+   "可再生燃料",
+   1.3
+  ],
+  [
+   8,
+   "CIGI.TO",
+   "Colliers International",
+   "146.13",
+   "+8.01%",
+   "7.5B",
+   "商业地产服务",
+   1.8
+  ],
+  [
+   9,
+   "SBI.TO",
+   "Serabi Gold",
+   "3.50",
+   "+7.69%",
+   "267M",
+   "黄金矿业",
+   0.5
+  ],
+  [
+   10,
+   "ARE.TO",
+   "Aecon Group",
+   "53.01",
+   "+7.68%",
+   "3.6B",
+   "工程建筑",
+   2.0
+  ],
+  [
+   11,
+   "BAM.TO",
+   "Brookfield Asset Mgmt",
+   "71.96",
+   "+6.65%",
+   "114.9B",
+   "另类资产管理",
+   1.5
+  ],
+  [
+   12,
+   "BRVO.V",
+   "Bravo Mining",
+   "2.27",
+   "+6.07%",
+   "311M",
+   "铂族/铜矿勘探",
+   0.9
+  ],
+  [
+   13,
+   "BNT.TO",
+   "Brookfield Wealth Solutions",
+   "57.94",
+   "+5.81%",
+   "15.9B",
+   "保险/财富方案",
+   0.7
+  ],
+  [
+   14,
+   "STN.TO",
+   "Stantec",
+   "106.79",
+   "+5.81%",
+   "12.0B",
+   "工程咨询",
+   1.4
+  ],
+  [
+   15,
+   "PET.TO",
+   "Pet Valu",
+   "21.08",
+   "+5.66%",
+   "1.4B",
+   "宠物零售",
+   4.2
+  ],
+  [
+   16,
+   "BN.TO",
+   "Brookfield Corp",
+   "57.95",
+   "+5.61%",
+   "129.4B",
+   "综合资管/地产",
+   1.3
+  ],
+  [
+   17,
+   "PRU.TO",
+   "Perseus Mining",
+   "5.74",
+   "+5.51%",
+   "7.6B",
+   "黄金矿业",
+   1.7
+  ],
+  [
+   18,
+   "ALDE.V",
+   "Aldebaran Resources",
+   "3.49",
+   "+5.44%",
+   "647M",
+   "铜金勘探",
+   1.8
+  ],
+  [
+   19,
+   "KITS.TO",
+   "Kits Eyecare",
+   "17.90",
+   "+5.42%",
+   "609M",
+   "眼镜电商",
+   1.2
+  ],
+  [
+   20,
+   "ELD.TO",
+   "Eldorado Gold",
+   "45.01",
+   "+5.39%",
+   "11.8B",
+   "黄金矿业",
+   1.8
+  ],
+  [
+   21,
+   "WSP.TO",
+   "WSP Global",
+   "196.53",
+   "+5.37%",
+   "26.5B",
+   "工程咨询",
+   1.2
+  ],
+  [
+   22,
+   "BYD.TO",
+   "Boyd Group Services",
+   "123.52",
+   "+5.34%",
+   "3.4B",
+   "汽车碰撞维修",
+   1.2
+  ],
+  [
+   23,
+   "SYK.TO",
+   "Stryker（CDR）",
+   "20.68",
+   "+5.24%",
+   "156.5B",
+   "医疗器械·CDR",
+   1.1
+  ],
+  [
+   24,
+   "BBUC.TO",
+   "Brookfield Business",
+   "42.00",
+   "+5.21%",
+   "8.6B",
+   "私募股权/工业",
+   1.8
+  ],
+  [
+   25,
+   "VRNO.NE",
+   "Verano",
+   "7.29",
+   "+5.19%",
+   "532M",
+   "大麻（美国MSO）",
+   0.6
+  ],
+  [
+   26,
+   "BEPC.TO",
+   "Brookfield Renewable",
+   "42.70",
+   "+5.02%",
+   "7.9B",
+   "可再生电力",
+   1.7
+  ],
+  [
+   27,
+   "FSV.TO",
+   "FirstService",
+   "212.31",
+   "+4.96%",
+   "8.9B",
+   "物业服务",
+   0.8
+  ],
+  [
+   28,
+   "CJT.TO",
+   "Cargojet",
+   "90.04",
+   "+4.93%",
+   "1.3B",
+   "航空货运",
+   0.8
+  ],
+  [
+   29,
+   "GMIN.TO",
+   "G Mining Ventures",
+   "39.65",
+   "+4.76%",
+   "11.7B",
+   "黄金矿业",
+   1.0
+  ],
+  [
+   30,
+   "GE.TO",
+   "GE Aerospace（CDR）",
+   "40.89",
+   "+4.74%",
+   "436.1B",
+   "航空航天·CDR",
+   1.9
+  ]
+ ],
+ "losers": [
+  [
+   1,
+   "SGML.V",
+   "Sigma Lithium",
+   "7.20",
+   "-24.21%",
+   "810M",
+   "锂矿",
+   5.1
+  ],
+  [
+   2,
+   "LUME.TO",
+   "Lumentum（CDR）",
+   "14.52",
+   "-19.24%",
+   "106.5B",
+   "光通信器件·CDR",
+   2.1
+  ],
+  [
+   3,
+   "HELP.NE",
+   "Helus Pharma（原Cybin）",
+   "12.35",
+   "-17.00%",
+   "902M",
+   "精神健康生物科技",
+   1.5
+  ],
+  [
+   4,
+   "CBRS.TO",
+   "Cerebras（CDR）",
+   "13.58",
+   "-12.78%",
+   "34.2B",
+   "AI芯片·CDR",
+   1.1
+  ],
+  [
+   5,
+   "MRV.TO",
+   "Marvell（CDR）",
+   "27.74",
+   "-12.66%",
+   "240.8B",
+   "半导体·CDR",
+   3.5
+  ],
+  [
+   6,
+   "OBE.TO",
+   "Obsidian Energy",
+   "14.52",
+   "-12.05%",
+   "969M",
+   "油气勘探生产",
+   1.8
+  ],
+  [
+   7,
+   "JOY.TO",
+   "Journey Energy",
+   "4.96",
+   "-11.43%",
+   "335M",
+   "油气勘探生产",
+   1.9
+  ],
+  [
+   8,
+   "BTE.TO",
+   "Baytex Energy",
+   "6.69",
+   "-11.04%",
+   "4.7B",
+   "油气勘探生产",
+   1.5
+  ],
+  [
+   9,
+   "SCR.TO",
+   "Strathcona Resources",
+   "38.44",
+   "-10.33%",
+   "8.2B",
+   "油砂/综合油气",
+   2.1
+  ],
+  [
+   10,
+   "TNZ.TO",
+   "Tenaz Energy",
+   "68.42",
+   "-10.15%",
+   "2.3B",
+   "油气勘探生产",
+   1.4
+  ],
+  [
+   11,
+   "XNDU.TO",
+   "Xanadu Quantum",
+   "3.64",
+   "-10.12%",
+   "1.1B",
+   "量子计算",
+   1.3
+  ],
+  [
+   12,
+   "GORO.V",
+   "Goldgroup Mining",
+   "3.95",
+   "-10.02%",
+   "668M",
+   "黄金矿业",
+   1.1
+  ],
+  [
+   13,
+   "TOT.TO",
+   "Total Energy Services",
+   "36.28",
+   "-9.98%",
+   "1.3B",
+   "油服设备",
+   1.2
+  ],
+  [
+   14,
+   "HIVE.TO",
+   "HIVE Digital",
+   "2.39",
+   "-9.47%",
+   "656M",
+   "比特币矿机/AI算力",
+   1.6
+  ],
+  [
+   15,
+   "KEI.TO",
+   "Kolibri Global Energy",
+   "9.12",
+   "-9.43%",
+   "328M",
+   "油气勘探生产",
+   2.0
+  ],
+  [
+   16,
+   "VET.TO",
+   "Vermilion Energy",
+   "17.42",
+   "-8.94%",
+   "2.7B",
+   "油气勘探生产",
+   1.4
+  ],
+  [
+   17,
+   "GTE.TO",
+   "Gran Tierra Energy",
+   "14.42",
+   "-8.91%",
+   "510M",
+   "油气勘探生产",
+   1.4
+  ],
+  [
+   18,
+   "INTC.TO",
+   "Intel（CDR）",
+   "33.58",
+   "-8.75%",
+   "486.0B",
+   "半导体·CDR",
+   3.4
+  ],
+  [
+   19,
+   "CRWV.TO",
+   "CoreWeave（CDR）",
+   "9.43",
+   "-8.71%",
+   "42.3B",
+   "AI云算力·CDR",
+   1.7
+  ],
+  [
+   20,
+   "GFR.TO",
+   "Greenfire Resources",
+   "8.57",
+   "-8.64%",
+   "2.1B",
+   "油砂",
+   1.2
+  ],
+  [
+   21,
+   "KEEL.TO",
+   "Keel Infrastructure",
+   "2.66",
+   "-8.59%",
+   "1.6B",
+   "数据中心基础设施",
+   1.1
+  ],
+  [
+   22,
+   "ORAC.TO",
+   "Oracle（CDR）",
+   "5.87",
+   "-8.57%",
+   "552.4B",
+   "云/数据库软件·CDR",
+   2.9
+  ],
+  [
+   23,
+   "SGY.TO",
+   "Surge Energy",
+   "11.68",
+   "-8.39%",
+   "1.2B",
+   "油气勘探生产",
+   1.1
+  ],
+  [
+   24,
+   "SOIL.TO",
+   "Saturn Oil & Gas",
+   "8.66",
+   "-8.36%",
+   "1.5B",
+   "油气勘探生产",
+   1.8
+  ],
+  [
+   25,
+   "SDE.TO",
+   "Spartan Delta",
+   "13.31",
+   "-8.27%",
+   "2.7B",
+   "油气勘探生产",
+   2.1
+  ],
+  [
+   26,
+   "IPCO.TO",
+   "International Petroleum",
+   "36.91",
+   "-7.98%",
+   "4.1B",
+   "油气勘探生产",
+   3.0
+  ],
+  [
+   27,
+   "RBY.TO",
+   "Rubellite Energy",
+   "4.18",
+   "-7.93%",
+   "393M",
+   "油气勘探生产",
+   1.3
+  ],
+  [
+   28,
+   "PD.TO",
+   "Precision Drilling",
+   "136.76",
+   "-7.67%",
+   "1.7B",
+   "钻井服务",
+   2.6
+  ],
+  [
+   29,
+   "SMCI.TO",
+   "Super Micro（CDR）",
+   "9.79",
+   "-7.64%",
+   "30.3B",
+   "AI服务器·CDR",
+   0.8
+  ],
+  [
+   30,
+   "TVE.TO",
+   "Tamarack Valley Energy",
+   "13.02",
+   "-7.59%",
+   "6.1B",
+   "油气勘探生产",
+   1.3
+  ]
+ ],
+ "table_notes": [
+  "*CDR（涨幅榜 SYK/GE；跌幅榜 LUME/CBRS/MRV/INTC/CRWV/ORAC/SMCI）市值为 TradingView 美股母公司总市值（加元口径），非加拿大挂牌流通市值。",
+  "*CDR 行为 TradingView type=dr 补充（Yahoo screener 未返回），行情取 Yahoo v7 收盘快照；INTC.NE/ORAC.NE/SMCI.NE/AMD.NE 交叉挂牌去重保留 .TO。HELP 为 Cboe CA 主挂牌（原 Cybin，10 月更名 Helus Pharma）。",
+  "*所有入榜行 regularMarketTime 均为 11-02 当日，无停牌僵尸数据；TV 交叉验证 60 行涨跌幅方向与幅度全部一致（差 <0.1 个点）。TV 跌幅榜 SCHN（NEO 行，最后成交 10-22）为陈旧数据，未采纳。BAMI（Blue Ant Media +7.5%，市值 $164M）低于 $200M 门槛未入榜。"
+ ],
+ "sectors_html": "<ul><li><strong>油价暴跌打穿能源板块</strong>：伊朗—卡塔尔连续三日和谈、德黑兰授权政府谈判结束美以伊战争，WTI 单日 -7.6% 至 $96、Brent -8% 至 $104，抹掉 10 月 15% 的霍尔木兹风险溢价。TSX 能源分项 -4.4%，跌幅榜 30 席中 20 席是油气股：Obsidian -12.1%、Journey -11.4%、Baytex -11.0%、Strathcona -10.3%、Tenaz -10.2%，油服 Total Energy/Precision/PHX 同步下挫，CNQ -4.2%。</li><li><strong>AI 基建/半导体 CDR 继续失血</strong>：Marvell 宣布 $1150 亿全股票收购 Lumentum，市场嫌稀释、嫌 2028 年才交割，双双重挫（LUME -19.2%、MRV -12.7%）；Intel 继上周四 -29% 后再 -8.8%（市值较 9 月底腰斩）；Oracle 发 $100 亿债+$100 亿股融资 AI 数据中心 -8.6%；Cerebras、CoreWeave（11/10 财报前杠杆担忧）、Super Micro、HIVE、Keel、Xanadu 一起跌。芯片+存储板块 10 月 6 日以来已蒸发约 $3.5 万亿市值。</li><li><strong>金矿与地产/工程领涨</strong>：油价回落压低通胀预期，黄金反弹 +1.35% 至 $3,951，TSX 黄金分项 +2.9%——Eldorado +5.4%、Perseus +5.5%、G Mining +4.8%、B2Gold +4.2%，Golconda/Mayfair/Serabi 等中小金矿 +8~10%。地产服务 +2.8%：Colliers +8.0%（11/4 财报前）、FirstService +5.0%；工程建筑 Aecon +7.7%（10/31 创纪录 Q3 营收与积压订单、目标价上调至 $75）、Stantec +5.8%、WSP +5.4%。</li><li><strong>Brookfield 系集体反弹 + 美加贸易框架</strong>：特朗普称美加新贸易协议框架已就绪、卡尼称讨论建设性，BAM +6.7%、BN +5.6%、BNT +5.8%、BBUC +5.2%、BEPC +5.0%（11/12 财报）；Air Canada/Boyd/Cargojet 等受益油价下跌的航空、运输股同涨。</li><li><strong>其他</strong>：Ucore +17.2%（稀土精炼，上周 Louisiana SMC 项目团队更新后资金追捧，无当日公告）；Curaleaf +9.0%/Verano +5.2% 美国 MSO 大麻股反弹；Sigma Lithium -24.2% 为单一利空（见异常）。</li></ul>",
+ "anomalies_html": "<ul><li>⚠️ <strong>SGML.V</strong>（Sigma Lithium）量比 5.1、-24.2%：宣布 $1 亿美元五年期可转债（7% 票息、25% 转股溢价，用于偿还 Synergy Capital 债务）叠加 Q3 预告，纳斯达克主挂牌 -25.6% 创 52 周新低，10 月已遭 BMO/JPM 双降级。</li><li>⚠️ <strong>PET.TO</strong>（Pet Valu）量比 4.2、+5.7%：National Bank 上调评级至 Outperform（目标价 $24），称估值有吸引力、11/10 Q3 财报前预期改善；无公司公告。</li><li>⚠️ <strong>MRV.TO</strong>（Marvell CDR）量比 3.5、-12.7%：$1150 亿全股票收购 Lumentum（每股 LITE 换 4.5 股 MRVL），投资者担忧稀释与整合，两家合计单日蒸发近 $280 亿。</li><li>⚠️ <strong>INTC.TO</strong>（Intel CDR）量比 3.4、-8.8%：上周四指引暴雷后抛压延续，收盘 $59.97 逼近 9 月底市值腰斩线；芯片股集体续跌。</li><li>⚠️ <strong>GG.V</strong>（Golconda Gold）量比 3.0、+9.7%：10/15 Q3 创纪录产量后小盘金矿持续获资金追捧，金价反弹助推；无当日公告。</li><li>⚠️ <strong>IPCO.TO</strong>（International Petroleum）量比 3.0、-8.0%：油价暴跌 + 11/3 财报前减仓，从 52 周高点 $40.93 附近回落。</li></ul>",
+ "digest": "油价 -7.6% 重创能源股（跌幅榜 20 席油气）、Marvell 收购 Lumentum 双杀与 Intel/Oracle 续跌；金矿、Colliers/Aecon 等地产工程与 Brookfield 系领涨，TSX +0.51%。"
+}
