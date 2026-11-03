@@ -1,0 +1,1734 @@
+{
+"FTG.TO": [
+"Firan Technology",
+"航空电子"
+],
+"PRN.TO": [
+"Profound Medical",
+"医疗设备"
+],
+"RCH.TO": [
+"Richelieu Hardware",
+"五金分销"
+],
+"GAU.TO": [
+"Galiano Gold",
+"黄金生产(加纳)"
+],
+"ALC.TO": [
+"Algoma Central",
+"海运/五大湖航运"
+],
+"CMGS.TO": [
+"Chipotle（CDR）",
+"餐饮·CDR"
+],
+"GO-U.TO": [
+"GO Residential REIT",
+"公寓REIT(纽约)"
+],
+"AKT.TO": [
+"AKITA Drilling",
+"钻井服务"
+],
+"IPCO.TO": [
+"International Petroleum",
+"油气生产"
+],
+"FVI.TO": [
+"Fortuna Mining",
+"金银生产"
+],
+"CAD.V": [
+"Colonial Coal",
+"焦煤勘探"
+],
+"ITH.TO": [
+"Intl Tower Hill",
+"黄金开发(阿拉斯加)"
+],
+"DPM.TO": [
+"DPM Metals",
+"金铜生产(保加利亚)"
+],
+"OBE.TO": [
+"Obsidian Energy",
+"油气勘探开发"
+],
+"RBA.TO": [
+"RB Global",
+"工业资产拍卖"
+],
+"SDE.TO": [
+"Spartan Delta",
+"油气勘探开发"
+],
+"IAU.TO": [
+"i-80 Gold",
+"黄金"
+],
+"SU.TO": [
+"Suncor Energy",
+"综合油气/油砂"
+],
+"HR-UN.TO": [
+"H&R REIT",
+"多元REIT"
+],
+"BTE.TO": [
+"Baytex Energy",
+"油气生产"
+],
+"CEU.TO": [
+"CES Energy Solutions",
+"油田化学品"
+],
+"MFG.V": [
+"Mayfair Gold",
+"黄金开发"
+],
+"RBY.TO": [
+"Rubellite Energy",
+"油气生产"
+],
+"MKO.V": [
+"Mako Mining",
+"黄金(尼加拉瓜)"
+],
+"KEY.TO": [
+"Keyera",
+"中游管道/NGL"
+],
+"SCOT.V": [
+"Scottie Resources",
+"黄金勘探(BC)"
+],
+"LGD.TO": [
+"Liberty Gold",
+"黄金勘探(美国)"
+],
+"IPO.TO": [
+"InPlay Oil",
+"油气生产"
+],
+"CG.TO": [
+"Centerra Gold",
+"黄金"
+],
+"CNQ.TO": [
+"Canadian Natural Resources",
+"综合油气/油砂"
+],
+"TNZ.TO": [
+"Tenaz Energy",
+"油气生产(荷兰/加)"
+],
+"HD.TO": [
+"Home Depot（CDR）",
+"家装零售·CDR"
+],
+"TVE.TO": [
+"Tamarack Valley Energy",
+"油气"
+],
+"CJ.TO": [
+"Cardinal Energy",
+"油气"
+],
+"STZ.TO": [
+"Constellation Brands CDR",
+"酒类CDR"
+],
+"PEP.TO": [
+"PepsiCo（CDR）",
+"饮料食品·CDR"
+],
+"ADBE.TO": [
+"Adobe（CDR）",
+"创意软件·CDR"
+],
+"OXY.TO": [
+"Occidental CDR",
+"油气CDR"
+],
+"HUT.TO": [
+"Hut 8",
+"比特币矿机/算力"
+],
+"BTQ.NE": [
+"BTQ Technologies",
+"量子安全/区块链"
+],
+"ELVA.TO": [
+"Electrovaya",
+"锂电池"
+],
+"TI.TO": [
+"Titan Mining",
+"锌/石墨(纽约州)"
+],
+"XNDU.TO": [
+"Xanadu Quantum",
+"量子计算"
+],
+"NEO.TO": [
+"Neo Performance",
+"稀土磁材"
+],
+"HG.CN": [
+"HydroGraph Clean Power",
+"石墨烯材料"
+],
+"KITS.TO": [
+"Kits Eyecare",
+"眼镜电商"
+],
+"DML.TO": [
+"Denison Mines",
+"铀矿"
+],
+"HIVE.TO": [
+"HIVE Digital",
+"加密挖矿/算力"
+],
+"MSCL.TO": [
+"Satellos Bioscience",
+"生物医药"
+],
+"ZVST.NE": [
+"Vistra（CDR）",
+"电力·CDR"
+],
+"MDA.TO": [
+"MDA Space",
+"航天"
+],
+"APTX.TO": [
+"Apotex Health",
+"仿制药"
+],
+"KEEL.TO": [
+"Keel Infrastructure",
+"数据中心基础设施"
+],
+"ORAC.TO": [
+"Oracle（CDR）",
+"软件/云·CDR"
+],
+"MLP.V": [
+"Millennial Potash",
+"钾肥勘探"
+],
+"INTC.TO": [
+"Intel（CDR）",
+"半导体·CDR"
+],
+"PNG.V": [
+"Kraken Robotics",
+"海洋机器人"
+],
+"SMCI.TO": [
+"Super Micro（CDR）",
+"AI服务器·CDR"
+],
+"ISO.TO": [
+"IsoEnergy",
+"铀矿勘探"
+],
+"ABXX.TO": [
+"Abaxx Technologies",
+"大宗商品交易所/清算"
+],
+"UCU.V": [
+"Ucore Rare Metals",
+"稀土"
+],
+"MU.TO": [
+"Micron（CDR）",
+"存储芯片·CDR"
+],
+"CLS.TO": [
+"Celestica",
+"电子制造/AI服务器"
+],
+"HITI.V": [
+"High Tide",
+"大麻零售"
+],
+"AVGO.TO": [
+"Broadcom CDR",
+"半导体CDR"
+],
+"TSAT.TO": [
+"Telesat",
+"卫星通信"
+],
+"VNP.TO": [
+"5N Plus",
+"特种材料"
+],
+"TLRY.TO": [
+"Tilray Brands",
+"大麻"
+],
+"GLAS-A-U.NE": [
+"Glass House Brands",
+"大麻(加州,美元)"
+],
+"CRWV.TO": [
+"CoreWeave（CDR）",
+"AI算力云·CDR"
+],
+"SNDK.TO": [
+"SanDisk（CDR）",
+"存储芯片·CDR"
+],
+"CEGS.TO": [
+"Constellation Energy（CDR）",
+"核电/电力·CDR"
+],
+"SPCX.TO": [
+"SpaceX（CDR）",
+"航天/AI·CDR"
+],
+"RM.TO": [
+"Roxmore Resources",
+"金属勘探"
+],
+"EFX.TO": [
+"Enerflex",
+"油气设备"
+],
+"META.TO": [
+"Meta Platforms（CDR）",
+"互联网广告·CDR"
+],
+"MAXX.CN": [
+"Max Power Mining",
+"天然氢/矿业勘探"
+],
+"TOI.V": [
+"Topicus.com",
+"垂直软件(欧洲)"
+],
+"OTEX.TO": [
+"Open Text",
+"企业软件"
+],
+"DCBO.TO": [
+"Docebo",
+"企业学习软件"
+],
+"PXT.TO": [
+"Parex Resources",
+"油气(哥伦比亚)"
+],
+"POU.TO": [
+"Paramount Resources",
+"油气生产"
+],
+"SHOP.TO": [
+"Shopify",
+"电商软件"
+],
+"JOY.TO": [
+"Journey Energy",
+"油气"
+],
+"BCE.TO": [
+"BCE",
+"电信"
+],
+"T.TO": [
+"TELUS",
+"电信"
+],
+"CVE.TO": [
+"Cenovus Energy",
+"综合油气/油砂"
+],
+"DXT.TO": [
+"Dexterra Group",
+"设施管理/营地服务"
+],
+"CKG.V": [
+"Chesapeake Gold",
+"黄金开发(墨西哥)"
+],
+"AAPL.TO": [
+"Apple（CDR）",
+"消费电子·CDR"
+],
+"OVV.TO": [
+"Ovintiv",
+"油气勘探开发"
+],
+"TWM.TO": [
+"Tidewater Midstream",
+"中游/炼化"
+],
+"GFR.TO": [
+"Greenfire Resources",
+"油砂"
+],
+"CAS.TO": [
+"Cascades",
+"纸业包装"
+],
+"IMO.TO": [
+"Imperial Oil",
+"综合油气"
+],
+"CVO.TO": [
+"Coveo Solutions",
+"AI搜索软件"
+],
+"MSFT.TO": [
+"Microsoft（CDR）",
+"软件·CDR"
+],
+"DSG.TO": [
+"Descartes Systems",
+"物流软件"
+],
+"TCL-A.TO": [
+"Transcontinental",
+"印刷包装"
+],
+"SCR.TO": [
+"Strathcona Resources",
+"油气勘探开发"
+],
+"GIB-A.TO": [
+"CGI",
+"IT服务"
+],
+"WDO.TO": [
+"Wesdome Gold Mines",
+"黄金生产"
+],
+"MAI.TO": [
+"Mining Americas",
+"金矿"
+],
+"DPRO.CN": [
+"Draganfly",
+"无人机"
+],
+"EPRX.TO": [
+"Eupraxia Pharmaceuticals",
+"生物制药"
+],
+"SLI.V": [
+"Standard Lithium",
+"锂矿"
+],
+"PMET.TO": [
+"PMET Resources",
+"锂矿开发(魁北克)"
+],
+"USA.TO": [
+"Americas Gold and Silver",
+"金银矿"
+],
+"HPS-A.TO": [
+"Hammond Power A",
+"电力设备"
+],
+"BLDP.TO": [
+"Ballard Power",
+"氢燃料电池"
+],
+"SGML.V": [
+"Sigma Lithium",
+"锂矿"
+],
+"EFR.TO": [
+"Energy Fuels",
+"铀/稀土"
+],
+"GMG.V": [
+"Graphene Mfg Group",
+"石墨烯电池"
+],
+"LAR.TO": [
+"Lithium Argentina",
+"锂矿"
+],
+"SCZ.TO": [
+"Santacruz Silver",
+"银锌矿(玻利维亚/墨西哥)"
+],
+"SSRM.TO": [
+"SSR Mining",
+"贵金属生产"
+],
+"LAC.TO": [
+"Lithium Americas",
+"锂矿开发(内华达)"
+],
+"LIF.TO": [
+"Labrador Iron Ore",
+"铁矿权利金"
+],
+"TAU.V": [
+"Thesis Gold & Silver",
+"金银勘探(BC)"
+],
+"WRN.TO": [
+"Western Copper & Gold",
+"铜金开发"
+],
+"PHOS.CN": [
+"First Phosphate",
+"磷矿(LFP)"
+],
+"GSKR.V": [
+"Goldsky Resources",
+"黄金勘探"
+],
+"HSTR.TO": [
+"Heliostar Metals",
+"金矿"
+],
+"ITR.V": [
+"Integra Resources",
+"黄金生产"
+],
+"QNC.V": [
+"Quantum eMotion",
+"量子安全"
+],
+"CDE.TO": [
+"Coeur Mining",
+"金银矿"
+],
+"BMM.V": [
+"Black Mammoth Metals",
+"金银勘探(内华达)"
+],
+"RFA.TO": [
+"RFA Financial",
+"房贷金融"
+],
+"UNH.TO": [
+"UnitedHealth（CDR）",
+"医疗保险·CDR"
+],
+"LLY.TO": [
+"Eli Lilly（CDR）",
+"制药/GLP-1·CDR"
+],
+"FEC.TO": [
+"Frontera Energy",
+"油气(哥伦比亚)"
+],
+"LMT.TO": [
+"Lockheed Martin（CDR）",
+"国防·CDR"
+],
+"WMT.TO": [
+"Walmart（CDR）",
+"零售·CDR"
+],
+"ABBV.TO": [
+"AbbVie（CDR）",
+"制药·CDR"
+],
+"CU.TO": [
+"Canadian Utilities",
+"公用事业"
+],
+"INTU.TO": [
+"Intuit（CDR）",
+"财税软件·CDR"
+],
+"EMA.TO": [
+"Emera",
+"公用事业"
+],
+"ATD.TO": [
+"Couche-Tard",
+"便利店零售"
+],
+"COST.TO": [
+"Costco（CDR）",
+"仓储零售·CDR"
+],
+"L.TO": [
+"Loblaw",
+"食品零售"
+],
+"PFE.TO": [
+"Pfizer（CDR）",
+"制药·CDR"
+],
+"QTRH.TO": [
+"Quarterhill",
+"智能交通/收费系统"
+],
+"DOL.TO": [
+"Dollarama",
+"折扣零售"
+],
+"PG.TO": [
+"Procter & Gamble（CDR）",
+"日用消费品·CDR"
+],
+"WN.TO": [
+"George Weston",
+"食品零售控股"
+],
+"DTOL.TO": [
+"D2L",
+"教育软件"
+],
+"TMUS.TO": [
+"T-Mobile US（CDR）",
+"电信·CDR"
+],
+"ACO-X.TO": [
+"ATCO",
+"公用事业/结构物流"
+],
+"WCN.TO": [
+"Waste Connections",
+"固废处理"
+],
+"VZ.TO": [
+"Verizon（CDR）",
+"电信·CDR"
+],
+"SAP.TO": [
+"Saputo",
+"乳制品"
+],
+"HLF.TO": [
+"High Liner Foods",
+"冷冻海鲜食品"
+],
+"BKNG.TO": [
+"Booking（CDR）",
+"在线旅游·CDR"
+],
+"ELF.TO": [
+"E-L Financial",
+"保险控股"
+],
+"JNJ.TO": [
+"Johnson & Johnson（CDR）",
+"医药·CDR"
+],
+"QSR.TO": [
+"Restaurant Brands",
+"快餐连锁"
+],
+"VET.TO": [
+"Vermilion Energy",
+"国际油气"
+],
+"MRU.TO": [
+"Metro",
+"食品零售"
+],
+"FTS.TO": [
+"Fortis",
+"公用事业"
+],
+"H.TO": [
+"Hydro One",
+"输电公用"
+],
+"PDN.TO": [
+"Paladin Energy",
+"铀矿"
+],
+"IE.TO": [
+"Ivanhoe Electric",
+"铜矿开发(亚利桑那)"
+],
+"AUXX.V": [
+"Gold X2 Mining",
+"黄金开发"
+],
+"PDI.TO": [
+"PDI Gold",
+"黄金勘探(澳洲)"
+],
+"PPTA.TO": [
+"Perpetua Resources",
+"金锑开发(爱达荷)"
+],
+"ARA.TO": [
+"Aclara Resources",
+"稀土"
+],
+"TALA.TO": [
+"Talamore Mining",
+"黄金勘探"
+],
+"MRV.TO": [
+"Marvell（CDR）",
+"半导体·CDR"
+],
+"HOOD.TO": [
+"Robinhood（CDR）",
+"在线券商·CDR"
+],
+"PALI.V": [
+"Palisades Goldcorp",
+"矿业投资公司"
+],
+"KRY.V": [
+"Koryx Copper",
+"铜矿勘探(纳米比亚)"
+],
+"TMQ.TO": [
+"Trilogy Metals",
+"铜矿"
+],
+"NCX.V": [
+"NorthIsle Copper & Gold",
+"铜金开发(BC)"
+],
+"FDR.V": [
+"Founders Metals",
+"黄金勘探(苏里南)"
+],
+"LMCU.TO": [
+"Lumina Metals",
+"铜矿勘探"
+],
+"CTGO.TO": [
+"Contango Silver & Gold",
+"金银生产"
+],
+"FWZ.V": [
+"Fireweed Metals",
+"锌铅钨勘探(育空)"
+],
+"III.TO": [
+"Imperial Metals",
+"铜金矿(BC)"
+],
+"SGD.TO": [
+"Snowline Gold",
+"黄金勘探(育空)"
+],
+"MNO.TO": [
+"Meridian Mining",
+"铜金开发(巴西)"
+],
+"BZ.V": [
+"Benz Mining",
+"黄金勘探"
+],
+"DSV.TO": [
+"Discovery Mining",
+"银矿开发(墨西哥)"
+],
+"HMMC.TO": [
+"Hemlo Mining",
+"黄金生产"
+],
+"NFGC.TO": [
+"New Found Gold",
+"黄金勘探(纽芬兰)"
+],
+"DRX.TO": [
+"ADF Group",
+"钢结构制造"
+],
+"EQX.TO": [
+"Equinox Gold",
+"黄金生产"
+],
+"BBD-B.TO": [
+"Bombardier B",
+"商务喷气机"
+],
+"BHC.TO": [
+"Bausch Health",
+"制药"
+],
+"K.TO": [
+"Kinross Gold",
+"金矿"
+],
+"ARIS.TO": [
+"Aris Mining",
+"金矿"
+],
+"ORE.TO": [
+"Orezone Gold",
+"黄金生产(布基纳法索)"
+],
+"ELE.TO": [
+"Elemental Royalty",
+"贵金属权利金"
+],
+"VGZ.TO": [
+"Vista Gold",
+"黄金开发(澳洲)"
+],
+"FIH-U.TO": [
+"Fairfax India",
+"印度投资控股"
+],
+"NUAG.TO": [
+"New Pacific Metals",
+"银矿勘探"
+],
+"NKE.TO": [
+"NIKE（CDR）",
+"运动服饰·CDR"
+],
+"LMN.V": [
+"Lumine Group",
+"通信软件并购"
+],
+"DOO.TO": [
+"BRP",
+"动力运动车"
+],
+"SKE.TO": [
+"Skeena Resources",
+"金银开发(BC)"
+],
+"NOWS.TO": [
+"ServiceNow（CDR）",
+"企业软件·CDR"
+],
+"AAUC.TO": [
+"Allied Gold",
+"金矿"
+],
+"ENGH.TO": [
+"Enghouse Systems",
+"企业软件"
+],
+"AEM.TO": [
+"Agnico Eagle",
+"黄金生产"
+],
+"CAPT.V": [
+"Capitan Silver",
+"银矿勘探"
+],
+"HSLV.TO": [
+"Highlander Silver",
+"银矿勘探"
+],
+"EDV.TO": [
+"Endeavour Mining",
+"黄金生产(西非)"
+],
+"RDDT.TO": [
+"Reddit（CDR）",
+"社交媒体·CDR"
+],
+"APPS.TO": [
+"AppLovin（CDR）",
+"广告科技·CDR"
+],
+"FSZ.TO": [
+"Fiera Capital",
+"资产管理"
+],
+"CIA.TO": [
+"Champion Iron",
+"铁矿(魁北克)"
+],
+"TTS.V": [
+"Tintina Mines",
+"矿业勘探"
+],
+"ALS.TO": [
+"Altius Minerals",
+"矿业权利金"
+],
+"LCFS.TO": [
+"Tidewater Renewables",
+"可再生柴油"
+],
+"ASTL.TO": [
+"Algoma Steel",
+"钢铁"
+],
+"BDT.TO": [
+"Bird Construction",
+"建筑工程"
+],
+"HHH.V": [
+"Helius Minerals",
+"矿业勘探"
+],
+"TOT.TO": [
+"Total Energy Services",
+"油服"
+],
+"NGEX.TO": [
+"NGEx Minerals",
+"铜金勘探"
+],
+"TRP.TO": [
+"TC Energy",
+"天然气管道"
+],
+"BK.TO": [
+"Canadian Banc A",
+"分级基金"
+],
+"RGSI.TO": [
+"Rockpoint Gas Storage",
+"天然气储存"
+],
+"NOA.TO": [
+"North American Construction",
+"油砂/矿山工程承包"
+],
+"ZDC.V": [
+"Zedcor",
+"移动安防监控塔"
+],
+"CURA.TO": [
+"Curaleaf",
+"大麻(美国)"
+],
+"ARG.TO": [
+"Amerigo Resources",
+"铜尾矿处理(智利)"
+],
+"ACB.TO": [
+"Aurora Cannabis",
+"大麻"
+],
+"ANET.TO": [
+"Arista Networks（CDR）",
+"网络设备·CDR"
+],
+"VRT.TO": [
+"Vertiv（CDR）",
+"数据中心电力/散热·CDR"
+],
+"AMAT.TO": [
+"Applied Materials（CDR）",
+"半导体设备·CDR"
+],
+"CSCO.TO": [
+"Cisco（CDR）",
+"网络设备·CDR"
+],
+"LRCX.TO": [
+"Lam Research（CDR）",
+"半导体设备·CDR"
+],
+"KLAC.TO": [
+"KLA（CDR）",
+"半导体设备·CDR"
+],
+"SCHW.TO": [
+"Charles Schwab（CDR）",
+"券商·CDR"
+],
+"WDC.TO": [
+"Western Digital（CDR）",
+"存储硬盘·CDR"
+],
+"ESI.TO": [
+"Ensign Energy",
+"油服钻井"
+],
+"TRI.TO": [
+"Thomson Reuters",
+"信息服务"
+],
+"AIF.TO": [
+"Altus Group",
+"地产数据/软件"
+],
+"LSPD.TO": [
+"Lightspeed Commerce",
+"零售POS软件"
+],
+"CSH-UN.TO": [
+"Chartwell Retirement",
+"养老地产REIT"
+],
+"RCI-B.TO": [
+"Rogers Communications",
+"电信"
+],
+"AP-UN.TO": [
+"Allied Properties REIT",
+"办公REIT"
+],
+"REI-UN.TO": [
+"RioCan REIT",
+"零售REIT"
+],
+"BAM.TO": [
+"Brookfield Asset Mgmt",
+"另类资产管理"
+],
+"CNL.TO": [
+"Collective Mining",
+"金铜勘探(哥伦比亚)"
+],
+"PD.TO": [
+"Precision Drilling",
+"钻井服务"
+],
+"CAR-UN.TO": [
+"CAPREIT",
+"公寓REIT"
+],
+"DIR-UN.TO": [
+"Dream Industrial REIT",
+"工业REIT"
+],
+"EMP-A.TO": [
+"Empire",
+"食品零售"
+],
+"NXR-UN.TO": [
+"Nexus Industrial REIT",
+"工业REIT"
+],
+"SRU-UN.TO": [
+"SmartCentres REIT",
+"零售REIT"
+],
+"AQN.TO": [
+"Algonquin Power",
+"公用事业"
+],
+"SIA.TO": [
+"Sienna Senior Living",
+"养老服务"
+],
+"TCW.TO": [
+"Trican Well Service",
+"压裂/油服"
+],
+"VITL-UN.TO": [
+"Vital Infrastructure Property Trust",
+"医疗地产REIT"
+],
+"BN.TO": [
+"Brookfield Corp",
+"另类资产管理"
+],
+"WSP.TO": [
+"WSP Global",
+"工程咨询"
+],
+"NOC.TO": [
+"Northrop Grumman（CDR）",
+"国防·CDR"
+],
+"MMMM.TO": [
+"3M（CDR）",
+"工业集团·CDR"
+],
+"BRK.TO": [
+"Berkshire Hathaway（CDR）",
+"综合控股·CDR"
+],
+"CP.TO": [
+"CPKC",
+"铁路"
+],
+"CHP-UN.TO": [
+"Choice Properties REIT",
+"零售REIT"
+],
+"TSU.TO": [
+"Trisura Group",
+"专业保险"
+],
+"CRT-UN.TO": [
+"CT REIT",
+"零售REIT"
+],
+"X.TO": [
+"TMX Group",
+"交易所运营"
+],
+"SLG.V": [
+"San Lorenzo Gold",
+"黄金勘探"
+],
+"SVM.TO": [
+"Silvercorp Metals",
+"银矿生产(中国)"
+],
+"RIO.TO": [
+"Rio2",
+"黄金开发(智利)"
+],
+"FM.TO": [
+"First Quantum Minerals",
+"铜矿生产"
+],
+"PSI.TO": [
+"Pason Systems",
+"钻井数据技术"
+],
+"FTT.TO": [
+"Finning",
+"卡特彼勒经销"
+],
+"CS.TO": [
+"Capstone Copper",
+"铜矿生产"
+],
+"IVN.TO": [
+"Ivanhoe Mines",
+"铜矿"
+],
+"HBM.TO": [
+"Hudbay Minerals",
+"铜金矿"
+],
+"GTE.TO": [
+"Gran Tierra Energy",
+"油气生产(南美)"
+],
+"MDI.TO": [
+"Major Drilling",
+"矿业钻探服务"
+],
+"JAG.TO": [
+"Jaguar Mining",
+"黄金生产(巴西)"
+],
+"MACK.V": [
+"Mackay Gold & Silver",
+"金银勘探"
+],
+"FDY.TO": [
+"Faraday Copper",
+"铜矿"
+],
+"NICU.TO": [
+"Magna Mining",
+"镍铜矿(安大略)"
+],
+"GMIN.TO": [
+"G Mining Ventures",
+"黄金生产(巴西)"
+],
+"ERO.TO": [
+"Ero Copper",
+"铜矿生产(巴西)"
+],
+"GE.TO": [
+"GE Aerospace（CDR）",
+"航空发动机·CDR"
+],
+"LUN.TO": [
+"Lundin Mining",
+"铜矿生产"
+],
+"CVVY.TO": [
+"Cavvy Energy",
+"油气勘探开发"
+],
+"OMG.V": [
+"Omai Gold Mines",
+"黄金勘探(圭亚那)"
+],
+"ABRA.TO": [
+"AbraSilver Resource",
+"银矿勘探"
+],
+"VRNO.NE": [
+"Verano Holdings",
+"大麻(美国)"
+],
+"BB.TO": [
+"BlackBerry",
+"软件"
+],
+"GTII.CN": [
+"Green Thumb Industries",
+"大麻(美国)"
+],
+"MTL.TO": [
+"Mullen Group",
+"物流运输"
+],
+"CRWD.TO": [
+"CrowdStrike（CDR）",
+"网络安全·CDR"
+],
+"GRID.TO": [
+"Tantalus Systems",
+"智能电网"
+],
+"GORO.V": [
+"Goldgroup Mining",
+"黄金"
+],
+"WGX.TO": [
+"Westgold Resources",
+"黄金生产(澳洲)"
+],
+"IFP.TO": [
+"Interfor",
+"木材"
+],
+"ETG.TO": [
+"Entrée Resources",
+"铜金(蒙古)"
+],
+"IBM.TO": [
+"IBM（CDR）",
+"IT服务·CDR"
+],
+"AMD.TO": [
+"AMD（CDR）",
+"半导体·CDR"
+],
+"IFOS.V": [
+"Itafos",
+"磷肥"
+],
+"LUME.TO": [
+"Lumentum（CDR）",
+"光通信·CDR"
+],
+"SJ.TO": [
+"Stella-Jones",
+"木材制品"
+],
+"TSLA.TO": [
+"Tesla（CDR）",
+"电动车·CDR"
+],
+"BEP-UN.TO": [
+"Brookfield Renewable",
+"可再生能源"
+],
+"MAL.TO": [
+"Magellan Aerospace",
+"航空防务"
+],
+"HFPC-U.TO": [
+"Helios Fairfax Partners",
+"非洲投资控股(美元计价)"
+],
+"MSTR.TO": [
+"Strategy（CDR）",
+"比特币财库·CDR"
+],
+"BE.TO": [
+"Bloom Energy（CDR）",
+"燃料电池·CDR"
+],
+"PLTR.TO": [
+"Palantir（CDR）",
+"AI软件·CDR"
+],
+"GEV.TO": [
+"GE Vernova（CDR）",
+"电力设备·CDR"
+],
+"LVMH.TO": [
+"LVMH（CDR）",
+"奢侈品·CDR"
+],
+"SBI.TO": [
+"Serabi Gold",
+"黄金生产(巴西)"
+],
+"NFLX.TO": [
+"Netflix（CDR）",
+"流媒体·CDR"
+],
+"AGMR.TO": [
+"Silver Mountain Resources",
+"银矿(秘鲁)"
+],
+"MG.TO": [
+"Magna Intl",
+"汽车零部件"
+],
+"OGG.V": [
+"Osisko Gold Group",
+"黄金勘探"
+],
+"LULU.TO": [
+"lululemon（CDR）",
+"运动服饰·CDR"
+],
+"RHM.NE": [
+"Rheinmetall（CDR）",
+"国防·CDR"
+],
+"CGG.TO": [
+"China Gold International",
+"黄金/铜生产"
+],
+"GG.V": [
+"Golconda Gold",
+"黄金生产(南非)"
+],
+"LNR.TO": [
+"Linamar",
+"汽车零部件"
+],
+"TECK-B.TO": [
+"Teck Resources",
+"铜/煤"
+],
+"GFL.TO": [
+"GFL Environmental",
+"固废处理"
+],
+"BX.TO": [
+"Blackstone（CDR）",
+"另类资管·CDR"
+],
+"FSV.TO": [
+"FirstService",
+"物业服务"
+],
+"CSU.TO": [
+"Constellation Software",
+"垂直软件"
+],
+"FISV.TO": [
+"Fiserv（CDR）",
+"支付科技·CDR"
+],
+"REAL.TO": [
+"Real Matters",
+"房贷评估/产权服务"
+],
+"BYD.TO": [
+"Boyd Group",
+"汽车碰撞维修"
+],
+"CPKR.TO": [
+"Canada Packers",
+"肉类加工"
+],
+"STN.TO": [
+"Stantec",
+"工程咨询"
+],
+"WFG.TO": [
+"West Fraser Timber",
+"木材"
+],
+"BBUC.TO": [
+"Brookfield Business",
+"工业投资控股"
+],
+"ISRG.TO": [
+"Intuitive Surgical（CDR）",
+"手术机器人·CDR"
+],
+"CIGI.TO": [
+"Colliers",
+"商业地产服务"
+],
+"QBR-B.TO": [
+"Quebecor",
+"电信/媒体"
+],
+"CCA.TO": [
+"Cogeco",
+"有线/电信"
+],
+"COHR.TO": [
+"Coherent（CDR）",
+"光通信·CDR"
+],
+"CADY.TO": [
+"Cadillac Mines",
+"黄金"
+],
+"AYA.TO": [
+"Aya Gold & Silver",
+"银矿生产(摩洛哥)"
+],
+"MAU.TO": [
+"Montage Gold",
+"黄金开发(科特迪瓦)"
+],
+"APM.TO": [
+"Andean Precious Metals",
+"银金生产(玻利维亚/美国)"
+],
+"PANW.TO": [
+"Palo Alto Networks（CDR）",
+"网络安全·CDR"
+],
+"BNE.TO": [
+"Bonterra Energy",
+"油气生产(阿省)"
+],
+"KEI.TO": [
+"Kolibri Global Energy",
+"油气生产(俄克拉荷马)"
+],
+"SGY.TO": [
+"Surge Energy",
+"油气生产"
+],
+"SOIL.TO": [
+"Saturn Oil & Gas",
+"油气生产"
+],
+"MX.TO": [
+"Methanex",
+"甲醇化工"
+],
+"ACQ.TO": [
+"AutoCanada",
+"汽车经销"
+],
+"DLCG.TO": [
+"Dominion Lending Centres",
+"房贷经纪"
+],
+"ACX.TO": [
+"ACT Energy Tech",
+"油服钻井"
+],
+"ALV.V": [
+"Alvopetro Energy",
+"天然气(巴西)"
+],
+"ATZ.TO": [
+"Aritzia",
+"服装零售"
+],
+"HWX.TO": [
+"Headwater Exploration",
+"油气生产"
+],
+"SXGC.TO": [
+"Southern Cross Gold",
+"黄金勘探(澳洲)"
+],
+"BRVO.V": [
+"Bravo Mining",
+"铂族/黄金"
+],
+"AC.TO": [
+"Air Canada",
+"航空"
+],
+"DRM.TO": [
+"Dream Unlimited",
+"地产开发"
+],
+"HMM-A.TO": [
+"Hammond Manufacturing",
+"电气外壳制造"
+],
+"XTC.TO": [
+"Exco Technologies",
+"汽车零部件/模具"
+],
+"IGM.TO": [
+"IGM Financial",
+"财富管理"
+],
+"ELD.TO": [
+"Eldorado Gold",
+"黄金生产"
+],
+"NG.TO": [
+"NovaGold Resources",
+"黄金"
+],
+"GOOS.TO": [
+"Canada Goose",
+"奢侈服饰"
+],
+"TNGD.V": [
+"Tiernan Gold",
+"黄金勘探"
+],
+"AXP.TO": [
+"American Express（CDR）",
+"信用卡/支付·CDR"
+],
+"GSKR.NE": [
+"Goldsky Resources",
+"黄金勘探"
+],
+"SEA.TO": [
+"Seabridge Gold",
+"黄金"
+],
+"CAE.TO": [
+"CAE",
+"飞行模拟/培训"
+],
+"CFW.TO": [
+"Calfrac Well Services",
+"压裂/油服"
+],
+"FISH.V": [
+"Sailfish Royalty",
+"贵金属权利金"
+],
+"PLZ-UN.TO": [
+"Plaza Retail REIT",
+"零售地产REIT"
+],
+"PYPL.TO": [
+"PayPal（CDR）",
+"支付·CDR"
+],
+"MRK.TO": [
+"Merck（CDR）",
+"制药·CDR"
+],
+"VREO.CN": [
+"Vireo Growth",
+"大麻(美国)"
+],
+"EXE.TO": [
+"Extendicare",
+"养老护理"
+],
+"SVI.TO": [
+"StorageVault Canada",
+"自助仓储"
+],
+"MOON.V": [
+"Blue Moon Metals",
+"铜锌"
+],
+"TLO.TO": [
+"Talon Metals",
+"镍矿"
+],
+"LUNR.TO": [
+"LunR Royalties",
+"贵金属权利金"
+],
+"DGX.NE": [
+"Digi Power X",
+"AI数据中心/比特币挖矿"
+],
+"BA.TO": [
+"Boeing（CDR）",
+"航空制造·CDR"
+],
+"GRGD.TO": [
+"Groupe Dynamite",
+"服装零售"
+],
+"CFP.TO": [
+"Canfor",
+"木材"
+],
+"GSY.TO": [
+"goeasy",
+"次级消费贷"
+],
+"KEL.TO": [
+"Kelt Exploration",
+"油气勘探开发"
+],
+"CRM.TO": [
+"Salesforce（CDR）",
+"企业软件·CDR"
+],
+"TOY.TO": [
+"Spin Master",
+"玩具/娱乐"
+],
+"MA.TO": [
+"Mastercard（CDR）",
+"支付网络·CDR"
+],
+"F.TO": [
+"Ford（CDR）",
+"汽车制造·CDR"
+],
+"PRL.TO": [
+"Propel Holdings",
+"金融科技消费贷"
+],
+"MCD.TO": [
+"McDonald's（CDR）",
+"餐饮·CDR"
+],
+"DFY.TO": [
+"Definity Financial",
+"财产保险"
+],
+"VISA.TO": [
+"Visa（CDR）",
+"支付网络·CDR"
+],
+"APR-UN.TO": [
+"Automotive Properties REIT",
+"汽车经销地产REIT"
+],
+"MFI.TO": [
+"Maple Leaf Foods",
+"食品加工"
+],
+"ATRL.TO": [
+"AtkinsRéalis",
+"工程咨询/核电"
+],
+"DIV.TO": [
+"Diversified Royalty",
+"特许权利金"
+],
+"XLY.TO": [
+"Auxly Cannabis",
+"大麻"
+],
+"VHI.TO": [
+"Vitalhub",
+"医疗软件"
+],
+"BIP-UN.TO": [
+"Brookfield Infrastructure",
+"基础设施"
+],
+"FTNT.TO": [
+"Fortinet（CDR）",
+"网络安全·CDR"
+],
+"GOOG.TO": [
+"Alphabet（CDR）",
+"互联网/云·CDR"
+],
+"CATR.TO": [
+"Caterpillar（CDR）",
+"工程机械·CDR"
+],
+"AGI.TO": [
+"Alamos Gold",
+"黄金生产"
+],
+"EFN.TO": [
+"Element Fleet Management",
+"车队管理"
+],
+"AMX.V": [
+"Amex Gold Mining",
+"黄金勘探(魁北克)"
+],
+"GGD.TO": [
+"GoGold Resources",
+"银金开发(墨西哥)"
+],
+"BDI.TO": [
+"Black Diamond Group",
+"模块化空间租赁"
+],
+"XOM.TO": [
+"Exxon Mobil（CDR）",
+"综合油气·CDR"
+],
+"MKP.TO": [
+"MCAN Mortgage",
+"按揭投资公司"
+],
+"PEY.TO": [
+"Peyto Exploration",
+"天然气"
+],
+"AAV.TO": [
+"Advantage Energy",
+"天然气"
+],
+"TFII.TO": [
+"TFI International",
+"货运物流"
+],
+"CCO.TO": [
+"Cameco",
+"铀矿"
+],
+"ECOR.TO": [
+"Ecora Resources",
+"矿业权利金"
+],
+"QCOM.TO": [
+"Qualcomm（CDR）",
+"半导体·CDR"
+],
+"IMG.TO": [
+"IAMGOLD",
+"黄金"
+],
+"LGC.V": [
+"Lavras Gold",
+"黄金勘探"
+],
+"VGC.TO": [
+"Valor Gold",
+"黄金勘探"
+],
+"NFG.V": [
+"New Found Gold",
+"黄金勘探"
+],
+"TECT.V": [
+"Tectonic Metals",
+"黄金勘探"
+],
+"MSA.TO": [
+"Mineros S.A.",
+"黄金"
+],
+"DC-A.TO": [
+"Dundee Corp A",
+"金融控股"
+],
+"ORV.TO": [
+"Orvana Minerals",
+"黄金"
+],
+"WGO.V": [
+"White Gold",
+"黄金勘探"
+],
+"BTO.TO": [
+"B2Gold",
+"黄金"
+],
+"VMET.TO": [
+"Versamet Royalties",
+"贵金属权利金"
+],
+"ELO.TO": [
+"Eloro Resources",
+"银锡勘探"
+],
+"MU.NE": [
+"Micron（CDR）",
+"半导体·CDR"
+],
+"CRDL.TO": [
+"Cardiol Therapeutics",
+"生物科技"
+],
+"DFN.TO": [
+"Dividend 15 Split A",
+"分级基金"
+],
+"DF.TO": [
+"Dividend 15 Split II",
+"分级基金"
+],
+"MRE.TO": [
+"Martinrea",
+"汽车零部件"
+]
+}
