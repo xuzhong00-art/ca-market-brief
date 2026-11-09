@@ -2,7 +2,7 @@
 import json, re, datetime, sys
 from collections import Counter
 r = json.load(open("data/_raw.json"))
-TODAY = "2026-11-06"
+TODAY = "2026-11-09"
 def day(ts):
     return datetime.datetime.utcfromtimestamp(ts).strftime("%Y-%m-%d") if ts else None
 def norm(n):
