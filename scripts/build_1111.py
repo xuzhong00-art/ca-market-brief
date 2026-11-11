@@ -52,7 +52,7 @@ d = {
  "sectors_html": (
   "<ul>"
   "<li><strong>大盘</strong>：昨日 TSX 在美国 10 月 CPI 过热（加息预期升温、10 年美债逼近 5%）下回落，Nvidia 因 CEO 丑闻连跌两日（-5.5%）拖累 AI 链；今早风向反转——CoreWeave 财报大超预期并上调全年指引、TSMC 10 月营收同比近 6 倍、Nvidia 盘前反弹，纳指期货 +1.5~1.9%，AI 交易重新点火。美股开市但美债休市（退伍军人节），加拿大国殇纪念日 TSX 照常交易。</li>"
-  "<li><strong>涨幅榜主线一：AI 链 CDR 集体冲榜（15 席）</strong>——CoreWeave（+18.1%，量比 16.8）Q3 营收 +168% 至 $37 亿、积压订单 $1,325 亿、全年营收指引上调至 $130~133 亿；带动存储三杰 SanDisk（+11.7%）/Micron（+8.4%）/WD（+5.9%）、Bloom Energy（+10.3%）、Super Micro（+6.5%）、Marvell（+6.4%）、Intel（+6.2%）、Broadcom（+6.0%）、Oracle（+6.0%）、Vertiv（+5.3%）、Arista（+5.2%，量比 18.1）、Lam（+4.4%，量比 11.9）、AMD（+3.8%）；Rocket Lab（+6.2%）Q3 营收 +73% 创纪录、积压 $35.7 亿，昨日因亏损扩大下跌后今日反弹。CDR 早盘涨幅含对昨日美股收盘的补跌/补涨，解读需打折。本土 AI 链同步：Celestica（+4.9%）、Hut 8（+5.7%）、HIVE（+3.7%）、BlackBerry（+4.9%）。</li>"
+  "<li><strong>涨幅榜主线一：AI 链 CDR 集体冲榜（15 席）</strong>——CoreWeave（+18.5%，量比 16.9）Q3 营收 +168% 至 $37 亿、积压订单 $1,325 亿、全年营收指引上调至 $130~133 亿；带动存储三杰 SanDisk（+11.7%）/Micron（+8.4%）/WD（+5.9%）、Bloom Energy（+10.7%）、Super Micro（+6.5%）、Marvell（+6.4%）、Intel（+6.3%）、Broadcom（+6.0%）、Oracle（+6.0%）、Vertiv（+5.3%）、Arista（+5.2%，量比 18.1）、Lam（+4.4%，量比 11.9）、AMD（+3.8%）；Rocket Lab（+6.2%）Q3 营收 +73% 创纪录、积压 $35.7 亿，昨日因亏损扩大下跌后今日反弹。CDR 早盘涨幅含对昨日美股收盘的补跌/补涨，解读需打折。本土 AI 链同步：Celestica（+4.9%）、Hut 8（+5.7%）、HIVE（+3.7%）、BlackBerry（+4.9%）。</li>"
   "<li><strong>涨幅榜主线二：本土财报驱动</strong>——Magellan Aerospace（+14.0%，量比 11.7）Q3 营收 $3.006 亿同比 +18%、净利 $2,000 万同比 +57%、经营现金流 $3,640 万（去年同期 $450 万），毛利率升至 14.7%；Stingray（+7.1%，量比 20.4）FY27 Q2 营收 +51% 至 $1.714 亿、调整后 EBITDA +47.5%、自由现金流 $3,900 万，TuneIn 整合超预期；Freehold（+3.8%，量比 4.8）Q3 FFO +37%、派息率 55%，并宣布收购 West Duvernay 3% 总收益权利金；Eupraxia（+7.4%，量比 10.4）Q3 财报确认 RESOLVE 2b 期 12 月出中期数据、现金跑道至 2028 下半年，同日设 $1.25 亿 ATM。</li>"
   "<li><strong>涨幅榜其他</strong>：油气板块延续走强（Saturn +4.5%、Kelt/Strathcona/Vermilion 榜外小涨），Paladin（+3.8%，量比 3.7）铀矿随核电主题反弹，Amerigo（+4.1%）铜价企稳，CCL（+3.8%）财报后续涨，Keel（+8.1%）低价股高波动。</li>"
   "<li><strong>跌幅榜主线一：财报暴雷（量比最高集中区）</strong>——goeasy（-14.4%，量比 35.2 🔥）Q3 每股亏损 $1.03（Q2 为盈利 $0.96）、贷款余额环比 -2%、总收益率下滑，年内已跌 66% 后再创新低；Boyd Group（-12.6%，量比 13.3 🔥）Q3 调整后 EPS $0.68 远低于预期 $0.85、净利仅 $0.1 万（折旧与财务费用吞噬 28% 的营收增长）；Calfrac（-10.6%，量比 5.8）Q3 净利 $1,630 万、EPS $0.16 略低于预期 $0.17，且警示 Q4 客户排程调整致利用率下滑超预期；Superior Plus（-5.6%，量比 9.4 🔥）将 2026 调整后 EBITDA 指引从 +2% 下修至 -2%，丙烷业务拖累抵消 CNG 创纪录季度；Total Energy（-4.5%，量比 5.6）虽创纪录经营现金流 $1.126 亿但 $1,590 万股权激励费用压利润，年内大涨后获利了结；BTB REIT（-2.8%，量比 12.8 🔥）Q3 FFO 每单位 9.3¢ 同比 -19%、派息率升至 80.6%；McEwen（-3.3%，量比 6.3）昨日暴雷后续跌。</li>"
@@ -66,7 +66,7 @@ d = {
   "<li>🔥 <strong>AIM.TO Aimia</strong>（量比 22.4，-10.0%）：无当日公告，Q3 亏损（11/6）后低流动性放量下跌，绝对成交仅 6.7 万股，解读需打折。</li>"
   "<li>🔥 <strong>RAY.TO Stingray</strong>（量比 20.4，+7.1%）：FY27 Q2 营收 +51%、EBITDA +47.5%，TuneIn 整合超预期。</li>"
   "<li>🔥 <strong>ANET.TO Arista CDR</strong>（量比 18.1，+5.2%）：AI 网络需求随 CoreWeave 财报重燃，CDR 日均量小易放大。</li>"
-  "<li>🔥 <strong>CRWV.TO CoreWeave CDR</strong>（量比 16.8，+18.1%）：Q3 营收 +168%、全年指引上调，美股盘前 +15~17%。</li>"
+  "<li>🔥 <strong>CRWV.TO CoreWeave CDR</strong>（量比 16.9，+18.5%）：Q3 营收 +168%、全年指引上调，美股盘前 +15~17%。</li>"
   "<li>🔥 <strong>BYD.TO Boyd Group</strong>（量比 13.3，-12.6%）：Q3 调整后 EPS $0.68 vs 预期 $0.85，折旧与利息费用吞噬增长。</li>"
   "<li>🔥 <strong>LAC.TO Lithium Americas</strong>（量比 13.0，-7.8%）：Thacker Pass 资本估算上修 31% 至 $38.3 亿，合资股比待重谈。</li>"
   "<li>🔥 <strong>BTB-UN.TO BTB REIT</strong>（量比 12.8，-2.8%）：Q3 FFO/单位 -19%，派息率升至 80.6%。</li>"
@@ -78,7 +78,7 @@ d = {
   "<li>🔥 <strong>SPB.TO Superior Plus</strong>（量比 9.4，-5.6%）：2026 EBITDA 指引由 +2% 下修至 -2%，丙烷拖累。</li>"
   "<li>🔥 <strong>SNDK.TO SanDisk CDR</strong>（量比 8.9，+11.7%）：存储板块随 AI 链反弹，昨日美股 SanDisk +6%。</li>"
   "<li>🔥 <strong>AVGO.TO Broadcom CDR</strong>（量比 8.3，+6.0%）：AI 芯片龙头随 CoreWeave 财报反弹。</li>"
-  "<li>⚠️ MU.TO（7.6，+8.4%）、VRT.TO（6.4，+5.3%）、MUX.TO（6.3，-3.3%）、CFW.TO（5.8，-10.6%）、MRV.TO（5.7，+6.4%）、TOT.TO（5.6，-4.5%）、ORAC.TO（5.4，+6.0%）、INTC.TO（4.9，+6.2%）、FRU.TO（4.8，+3.8%）、LULU.TO（4.8，-2.1%）、CRON.TO（4.8，-1.0%）、SPCX.TO（4.7，-1.7%）、BE.TO（4.6，+10.3%）、SMCI.TO（4.5，+6.5%）、QTRH.TO（4.4，-1.2%）、BB.TO（4.3，+4.9%）、TLRY.TO（4.2，-4.0%）、CAD.V（4.0，-1.7%）、PDN.TO（3.7，+3.8%）、MSFT.TO（3.4，-1.1%）、CLS.TO（3.2，+4.9%）、WDC.TO（3.1，+5.9%）：多为 AI 链 CDR 跟随美股反弹的早盘放量，以及本土财报后的持续换手（Calfrac/Total Energy/McEwen/Quarterhill）。</li>"
+  "<li>⚠️ MU.TO（7.6，+8.4%）、VRT.TO（6.4，+5.3%）、MUX.TO（6.3，-3.3%）、CFW.TO（5.8，-10.6%）、MRV.TO（5.7，+6.4%）、TOT.TO（5.6，-4.5%）、ORAC.TO（5.4，+6.0%）、INTC.TO（5.0，+6.3%）、FRU.TO（4.8，+3.8%）、LULU.TO（4.8，-2.1%）、CRON.TO（4.8，-1.0%）、SPCX.TO（4.7，-1.7%）、BE.TO（4.9，+10.7%）、SMCI.TO（4.5，+6.5%）、QTRH.TO（4.4，-1.2%）、BB.TO（4.3，+4.9%）、TLRY.TO（4.2，-4.0%）、CAD.V（4.0，-1.7%）、PDN.TO（3.7，+3.8%）、MSFT.TO（3.4，-1.1%）、CLS.TO（3.2，+4.9%）、WDC.TO（3.1，+5.9%）：多为 AI 链 CDR 跟随美股反弹的早盘放量，以及本土财报后的持续换手（Calfrac/Total Energy/McEwen/Quarterhill）。</li>"
   "</ul>"
  ),
  "digest": "AI 交易重燃：CoreWeave 财报超预期带动 15 只 AI 链 CDR 冲榜（CRWV +18%、SNDK +12%、MU +8%）；本土 Magellan +14%/Stingray +7% 财报大超预期；跌幅榜财报暴雷集中——goeasy -14%（Q3 转亏，量比 35）、Boyd -13%（EPS 大幅不及）、Calfrac -11%、Lithium Americas -8%（Thacker Pass 资本上修 31%）。",
