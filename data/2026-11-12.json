@@ -1,0 +1,619 @@
+{
+ "date": "2026-11-12",
+ "weekday": "周四",
+ "snapshot": "2026-11-12 16:00 ET 收盘（补跑：本机 18:38 PT 执行，数据为全日收盘口径）",
+ "market_state": "CLOSED",
+ "note": "本期为补跑：电脑在排程时段未唤醒，数据于收盘后抓取，表中现价/涨跌/成交量均为 11/12 全日收盘数据，量比口径=全日成交量 ÷ 3个月日均量（开盘占比 1.0）。",
+ "vr_note": "量比 = 当日全日成交量 ÷ 3个月日均量（补跑收盘口径，占比 1.0）。⚠️≥3，🔥≥8。全日口径下量比天然低于早盘 7.7% 口径，阈值相同故触发更少。",
+ "gainers": [
+  [
+   1,
+   "LCFS.TO",
+   "Tidewater Renewables",
+   "22.78",
+   "+19.96%",
+   "832M",
+   "可再生柴油",
+   2.4
+  ],
+  [
+   2,
+   "TWM.TO",
+   "Tidewater Midstream",
+   "26.03",
+   "+18.37%",
+   "571M",
+   "中游/炼油",
+   3.3
+  ],
+  [
+   3,
+   "CJT.TO",
+   "Cargojet",
+   "108.77",
+   "+10.29%",
+   "1.6B",
+   "航空货运",
+   4.9
+  ],
+  [
+   4,
+   "GRZ.V",
+   "Gold Reserve",
+   "5.00",
+   "+9.65%",
+   "740M",
+   "仲裁索偿/Citgo",
+   0.9
+  ],
+  [
+   5,
+   "DRM.TO",
+   "Dream Unlimited",
+   "19.35",
+   "+9.20%",
+   "812M",
+   "地产开发/资管",
+   3.8
+  ],
+  [
+   6,
+   "DR.TO",
+   "Medical Facilities",
+   "16.94",
+   "+8.59%",
+   "275M",
+   "专科医院",
+   2.4
+  ],
+  [
+   7,
+   "FDR.V",
+   "Founders Metals",
+   "7.66",
+   "+8.50%",
+   "1.1B",
+   "金矿勘探(苏里南)",
+   0.8
+  ],
+  [
+   8,
+   "FEC.TO",
+   "Frontera Energy",
+   "7.58",
+   "+8.13%",
+   "536M",
+   "油气(哥伦比亚)",
+   0.5
+  ],
+  [
+   9,
+   "HHH.V",
+   "Helius Minerals",
+   "3.87",
+   "+7.80%",
+   "209M",
+   "铜金勘探(内华达)",
+   1.6
+  ],
+  [
+   10,
+   "CTC-A.TO",
+   "Canadian Tire",
+   "219.77",
+   "+7.22%",
+   "11.5B",
+   "综合零售",
+   1.5
+  ],
+  [
+   11,
+   "APTX.TO",
+   "Apotex Health",
+   "38.46",
+   "+6.83%",
+   "8.8B",
+   "仿制药",
+   2.7
+  ],
+  [
+   12,
+   "AMD.TO",
+   "AMD CDR",
+   "15.05",
+   "+5.76%",
+   "1293.0B",
+   "AI芯片(CDR)",
+   3.5
+  ],
+  [
+   13,
+   "AVGO.TO",
+   "Broadcom CDR",
+   "13.78",
+   "+5.43%",
+   "2349.9B",
+   "AI芯片(CDR)",
+   5.7
+  ],
+  [
+   14,
+   "ANET.TO",
+   "Arista Networks CDR",
+   "37.00",
+   "+5.29%",
+   "354.3B",
+   "数据中心网络(CDR)",
+   5.0
+  ],
+  [
+   15,
+   "ESI.TO",
+   "Ensign Energy Services",
+   "4.54",
+   "+5.09%",
+   "837M",
+   "钻井服务",
+   1.1
+  ],
+  [
+   16,
+   "GRID.TO",
+   "Tantalus Systems",
+   "4.77",
+   "+4.84%",
+   "272M",
+   "智能电网软件",
+   1.8
+  ],
+  [
+   17,
+   "CLS.TO",
+   "Celestica",
+   "361.92",
+   "+4.77%",
+   "45.6B",
+   "AI服务器/EMS",
+   1.3
+  ],
+  [
+   18,
+   "SCOT.V",
+   "Scottie Resources",
+   "2.42",
+   "+3.86%",
+   "205M",
+   "金矿勘探(BC)",
+   1.1
+  ],
+  [
+   19,
+   "AP-UN.TO",
+   "Allied Properties REIT",
+   "3.87",
+   "+3.75%",
+   "803M",
+   "办公REIT",
+   1.5
+  ],
+  [
+   20,
+   "GG.V",
+   "Golconda Gold",
+   "3.40",
+   "+3.66%",
+   "243M",
+   "金矿(南非)",
+   0.8
+  ],
+  [
+   21,
+   "TOT.TO",
+   "Total Energy Services",
+   "34.31",
+   "+3.59%",
+   "1.2B",
+   "油服/压缩设备",
+   1.5
+  ],
+  [
+   22,
+   "TNZ.TO",
+   "Tenaz Energy",
+   "50.98",
+   "+3.53%",
+   "1.7B",
+   "油气(荷兰/加)",
+   1.3
+  ],
+  [
+   23,
+   "CAE.TO",
+   "CAE",
+   "40.19",
+   "+3.08%",
+   "12.9B",
+   "航空模拟训练",
+   2.5
+  ],
+  [
+   24,
+   "CEGS.TO",
+   "Constellation Energy CDR",
+   "19.21",
+   "+2.95%",
+   "138.8B",
+   "核电公用事业(CDR)",
+   2.2
+  ],
+  [
+   25,
+   "AVTS.V",
+   "Aventus Capital",
+   "17.39",
+   "+2.90%",
+   "578M",
+   "金融控股",
+   1.3
+  ],
+  [
+   26,
+   "ACX.TO",
+   "ACT Energy Technologies",
+   "7.50",
+   "+2.88%",
+   "290M",
+   "定向钻井技术",
+   0.3
+  ],
+  [
+   27,
+   "GSY.TO",
+   "goeasy",
+   "38.68",
+   "+2.84%",
+   "620M",
+   "次级消费贷",
+   1.8
+  ],
+  [
+   28,
+   "PRV-UN.TO",
+   "PRO REIT",
+   "7.13",
+   "+2.74%",
+   "626M",
+   "商业地产REIT",
+   2.1
+  ],
+  [
+   29,
+   "KEI.TO",
+   "Kolibri Global Energy",
+   "7.95",
+   "+2.71%",
+   "286M",
+   "油气(俄克拉荷马)",
+   0.5
+  ],
+  [
+   30,
+   "DB.V",
+   "Decibel Cannabis",
+   "2.00",
+   "+2.56%",
+   "1.2B",
+   "大麻",
+   0.8
+  ]
+ ],
+ "losers": [
+  [
+   1,
+   "FSZ.TO",
+   "Fiera Capital",
+   "2.23",
+   "-21.75%",
+   "236M",
+   "资产管理",
+   5.1
+  ],
+  [
+   2,
+   "TF.TO",
+   "Timbercreek Financial",
+   "4.24",
+   "-17.51%",
+   "351M",
+   "商业地产抵押贷",
+   7.7
+  ],
+  [
+   3,
+   "ITR.V",
+   "Integra Resources",
+   "2.60",
+   "-13.33%",
+   "527M",
+   "金矿(内华达/爱达荷)",
+   4.2
+  ],
+  [
+   4,
+   "BTQ.NE",
+   "BTQ Technologies",
+   "2.18",
+   "-12.10%",
+   "321M",
+   "后量子加密",
+   1.1
+  ],
+  [
+   5,
+   "TLO.TO",
+   "Talon Metals",
+   "6.25",
+   "-11.22%",
+   "1.0B",
+   "镍铜勘探(明尼苏达)",
+   4.6
+  ],
+  [
+   6,
+   "SMCI.TO",
+   "Super Micro CDR",
+   "8.68",
+   "-10.97%",
+   "28.6B",
+   "AI服务器(CDR)",
+   3.4
+  ],
+  [
+   7,
+   "VRNO.NE",
+   "Verano Holdings",
+   "6.15",
+   "-8.89%",
+   "449M",
+   "美国大麻MSO",
+   1.0
+  ],
+  [
+   8,
+   "PDI.TO",
+   "PDI Gold",
+   "4.31",
+   "-8.88%",
+   "4.3B",
+   "金矿(澳)",
+   0.6
+  ],
+  [
+   9,
+   "MOON.V",
+   "Blue Moon Metals",
+   "4.46",
+   "-8.61%",
+   "483M",
+   "铜锌开发(挪威)",
+   0.8
+  ],
+  [
+   10,
+   "XNDU.TO",
+   "Xanadu Quantum",
+   "3.62",
+   "-8.35%",
+   "1.1B",
+   "量子计算",
+   1.8
+  ],
+  [
+   11,
+   "NFGC.TO",
+   "New Found Gold",
+   "2.13",
+   "-8.19%",
+   "819M",
+   "金矿勘探(纽芬兰)",
+   1.5
+  ],
+  [
+   12,
+   "ABXX.TO",
+   "Abaxx Technologies",
+   "14.69",
+   "-8.19%",
+   "570M",
+   "商品交易所/清算",
+   1.7
+  ],
+  [
+   13,
+   "EDV.TO",
+   "Endeavour Mining",
+   "70.81",
+   "-8.03%",
+   "17.1B",
+   "金矿(西非)",
+   1.2
+  ],
+  [
+   14,
+   "IE.TO",
+   "Ivanhoe Electric",
+   "9.79",
+   "-7.82%",
+   "1.6B",
+   "铜矿开发(亚利桑那)",
+   0.8
+  ],
+  [
+   15,
+   "MAXX.CN",
+   "Max Power Mining",
+   "2.02",
+   "-7.76%",
+   "391M",
+   "天然氢/铀勘探",
+   0.6
+  ],
+  [
+   16,
+   "SCRI.NE",
+   "Silver Crown Royalties",
+   "35.25",
+   "-7.24%",
+   "213M",
+   "白银权利金",
+   1.8
+  ],
+  [
+   17,
+   "PMET.TO",
+   "PMET Resources",
+   "3.03",
+   "-7.06%",
+   "563M",
+   "锂矿开发(魁北克)",
+   1.4
+  ],
+  [
+   18,
+   "AYA.TO",
+   "Aya Gold & Silver",
+   "32.48",
+   "-6.91%",
+   "4.7B",
+   "银矿(摩洛哥)",
+   1.0
+  ],
+  [
+   19,
+   "CRWV.TO",
+   "CoreWeave CDR",
+   "10.65",
+   "-6.82%",
+   "47.8B",
+   "AI云算力(CDR)",
+   4.6
+  ],
+  [
+   20,
+   "GAU.TO",
+   "Galiano Gold",
+   "3.18",
+   "-6.74%",
+   "833M",
+   "金矿(加纳)",
+   0.9
+  ],
+  [
+   21,
+   "LMCU.TO",
+   "Lumina Metals",
+   "6.78",
+   "-6.74%",
+   "739M",
+   "铜金勘探(阿根廷)",
+   0.6
+  ],
+  [
+   22,
+   "ISO.TO",
+   "IsoEnergy",
+   "10.86",
+   "-6.70%",
+   "713M",
+   "铀矿开发",
+   1.1
+  ],
+  [
+   23,
+   "CURA.TO",
+   "Curaleaf",
+   "11.85",
+   "-6.62%",
+   "3.1B",
+   "美国大麻MSO",
+   0.8
+  ],
+  [
+   24,
+   "DSV.TO",
+   "Discovery Mining",
+   "9.93",
+   "-6.59%",
+   "8.2B",
+   "银矿开发(墨西哥)",
+   0.9
+  ],
+  [
+   25,
+   "TSAT.TO",
+   "Telesat",
+   "64.58",
+   "-6.54%",
+   "3.3B",
+   "卫星通信",
+   0.7
+  ],
+  [
+   26,
+   "CS.TO",
+   "Capstone Copper",
+   "10.74",
+   "-6.53%",
+   "8.2B",
+   "铜矿",
+   1.8
+  ],
+  [
+   27,
+   "MSTR.TO",
+   "Strategy CDR",
+   "7.75",
+   "-6.51%",
+   "73.7B",
+   "比特币财库(CDR)",
+   1.3
+  ],
+  [
+   28,
+   "GMIN.TO",
+   "G Mining Ventures",
+   "42.05",
+   "-6.45%",
+   "12.5B",
+   "金矿(巴西)",
+   1.3
+  ],
+  [
+   29,
+   "HIVE.TO",
+   "HIVE Digital",
+   "2.35",
+   "-6.37%",
+   "651M",
+   "加密挖矿/算力",
+   0.9
+  ],
+  [
+   30,
+   "MAL.TO",
+   "Magellan Aerospace",
+   "36.24",
+   "-6.28%",
+   "2.1B",
+   "航空零部件",
+   1.6
+  ]
+ ],
+ "table_notes": [
+  "CDR 行（AMD/Broadcom/Arista/Constellation Energy；Super Micro/CoreWeave/Strategy）市值为美股母公司总市值（TradingView 口径），非加拿大挂牌份额；由 TradingView type=dr 查询补入，量比用 Yahoo v7 quote 补算。",
+  "Yahoo 80+80 行均为当日新鲜数据（无僵尸停牌行）；AMD.NE/TSLA.NE/GOOG.NE/NVDA.NE 为 .TO 交叉挂牌重复已去重；AVGO.NE/ANET.NE/SMCI.NE 以 .TO 主挂牌替换。TradingView 交叉验证：全部 60 行方向与幅度一致（收盘后无延迟差）；TV 独有行 PAIN（Vector Science，+16.7%）经 Yahoo 核实市值仅 $15M（TV 市值 $269M 为数据错误）不满足 ≥$200M 剔除；AVTS（Aventus Capital，+2.9%）经 Yahoo 核实有效补入；NEO:QBR.A（+105%）为 NEO 旧打印不计。HHH/SCOT/DB/BTQ/SCRI 在 TV 榜外但经 TV symbol lookup 核实为有效当日成交。"
+ ],
+ "sectors_html": "<ul><li><strong>大盘</strong>：TSX 综指收跌 274.53 点（-0.75%）至 36,137.19，接近日内低点。黄金期货 -3.1% 至 $3,878/oz（一年多新低，中东和平预期降温推高油价 +2.7% 至 $88.86、通胀与加息担忧回升、美债收益率上行），金矿/基本金属/银行领跌；Nvidia CEO 黄仁勋因涉华间谍丑闻正式辞职（CFO Kress 代理），Nvidia -5%，AI 硬件链重挫。美股三大指数午后转跌（道指 -0.36%、标普 -0.35%、纳指 -0.39%），加元跌至 70.1 美分。</li><li><strong>涨幅榜主线一：财报兑现</strong>——Tidewater 双雄霸榜：Tidewater Renewables（+20.0%）/Tidewater Midstream（+18.4%，量比 3.3 ⚠️）Q3 合并调整后 EBITDA 创纪录 $9,690 万（去年同期 $1,620 万），可再生柴油产能利用率 114%，全年 EBITDA 指引从 $2.3~2.5 亿上调至 $3.0~3.2 亿（+29%），两家合并（0.88 换股）预计 12/18 完成；Cargojet（+10.3%，量比 4.9 ⚠️）Q3 营收 +30% 至 $2.865 亿创纪录、净利 +117%、调整后 EPS $1.21 远超预期 $0.81；Canadian Tire（+7.2%）Q3 EPS $4.27 大超预期 $3.68、同店 +3.2%、第 17 年连续加息至 $7.30；Apotex（+6.8%）FY27 Q2 调整后 EBITDA +19%、全年营收增速指引上调至 9~10%；Dream Unlimited（+9.2%，量比 3.8 ⚠️）Q3 资管+收租物业驱动净利率 $3,260 万（去年 $2,410 万）、Q4 已锁定 $1 亿地块销售；Medical Facilities（+8.6%）Q3 营收 +9.8%、营业利润 +17%；CAE（+3.1%）财报后续涨；Frontera Energy（+8.1%）Q3 营收增长。</li><li><strong>涨幅榜主线二：AI 芯片 CDR 逆势</strong>——Nvidia 丑闻下资金转向替代芯片：AMD（+5.8%，量比 3.5 ⚠️）、Broadcom（+5.4%，量比 5.7 ⚠️，美股 +6%）、Arista（+5.3%，量比 5.0 ⚠️）、Celestica（+4.8%，盘中 +9.8% 领涨 TSX 成分股后收窄）；Constellation Energy CDR（+3.0%）核电受益数据中心电力需求。</li><li><strong>涨幅榜其他</strong>：油价 +2.7% 带动油服与油气（Ensign +5.1%、Total Energy +3.6%、Tenaz +3.5%、ACT +2.9%、Kolibri +2.7%）；Gold Reserve（+9.7%）Citgo 出售上诉悬而未决下薄量波动；Founders Metals（+8.5%）、Helius（+7.8%）、Scottie（+3.9%）、Golconda（+3.7%）为金价暴跌中逆势的勘探小盘；REIT 板块小涨（Allied +3.8%、PRO +2.7%）；goeasy（+2.8%）昨日 -14% 后技术反弹。</li><li><strong>跌幅榜主线一：金融股财报暴雷</strong>——Fiera Capital（-21.8%，量比 5.1 ⚠️）Q3 调整后 EPS $0.19 低于预期 $0.21，并<strong>宣布取消季度股息</strong>（原年化 $0.43、股息率 15%）以去杠杆，股价创历史新低、年内 -61%；Timbercreek Financial（-17.5%，量比 7.7 ⚠️）Q3 计提预期信用损失 $4,020 万（主要为温哥华零售/开发组合 $3,300 万）转亏 $3,210 万（每股 -$0.39），Q4 派息率将升至 ~135%。</li><li><strong>跌幅榜主线二：黄金 -3% 砸出一年新低，金银矿全线重挫（13 席）</strong>——Endeavour（-8.0%）Q3 营收 $11.1 亿不及预期 $11.6 亿、Mana 矿塌陷致产量指引下半区；Integra（-13.3%，量比 4.2 ⚠️）Q3 财报日叠加金价暴跌创 52 周新低；PDI Gold（-8.9%）、New Found Gold（-8.2%）、Aya（-6.9%）、Galiano（-6.7%）、G Mining（-6.5%）、Discovery（-6.6%）、Orezone/Jaguar（-6%）等普跌；Silver Crown（-7.2%）白银权利金联动。基本金属同步走弱：Talon Metals（-11.2%，量比 4.6 ⚠️）11/11 公布 Tamarack 追加钻探结果后放量回吐（年内 +900% 后获利盘沉重，明日财报）；Capstone（-6.5%）、Marimaca（-6.1%）、Faraday（-6.1%）、Ivanhoe Electric（-7.8%）、Lumina（-6.7%）、Blue Moon（-8.6%）铜板块；PMET（-7.1%）锂、IsoEnergy（-6.7%）铀。</li><li><strong>跌幅榜主线三：Nvidia 丑闻外溢</strong>——Super Micro CDR（-11.0%，量比 3.4 ⚠️）美股 -12%：Bloomberg 报道 DOJ 调查与 Alice Huang 关联实体是否参与将 Super Micro 产品走私至中国，叠加对 Nvidia 芯片依赖的出口管制风险；CoreWeave CDR（-6.8%，量比 4.6 ⚠️）昨日财报大涨 +18% 后随 AI 链回吐；HIVE（-6.4%）算力/挖矿；Strategy CDR（-6.5%）比特币回落至 ~$6.5 万；Xanadu（-8.4%）量子计算高波动；Magellan（-6.3%）昨日财报 +14% 后获利回吐；Telesat（-6.5%）卫星通信。</li><li><strong>跌幅榜其他</strong>：大麻股 Verano（-8.9%）、Curaleaf（-6.6%）继续走弱；BTQ（-12.1%）后量子加密小盘无新闻放量下跌；Abaxx（-8.2%）。</li></ul>",
+ "anomalies_html": "<ul><li><strong>本期为收盘口径补跑（占比 1.0），无 🔥 级（≥8）异常；⚠️ 级（≥3）12 只：</strong></li><li>⚠️ <strong>TF.TO Timbercreek Financial</strong>（量比 7.7，-17.5%）：Q3 计提 ECL $4,020 万转亏，温哥华组合减值，Q4 派息率升至 135%。</li><li>⚠️ <strong>AVGO.TO Broadcom CDR</strong>（量比 5.7，+5.4%）：Nvidia CEO 辞职后资金转向替代 AI 芯片，美股 +6%。</li><li>⚠️ <strong>FSZ.TO Fiera Capital</strong>（量比 5.1，-21.8%）：Q3 EPS 不及预期并<strong>取消季度股息</strong>去杠杆，股价历史新低。</li><li>⚠️ <strong>ANET.TO Arista CDR</strong>（量比 5.0，+5.3%）：数据中心网络随非 Nvidia AI 链走强，CDR 日均量小。</li><li>⚠️ <strong>CJT.TO Cargojet</strong>（量比 4.9，+10.3%）：Q3 营收/EBITDA 创纪录，调整后 EPS $1.21 vs 预期 $0.81。</li><li>⚠️ <strong>TLO.TO Talon Metals</strong>（量比 4.6，-11.2%）：11/11 Tamarack 钻探结果后放量回吐，年内 +900% 获利盘重，11/13 财报。</li><li>⚠️ <strong>CRWV.TO CoreWeave CDR</strong>（量比 4.6，-6.8%）：昨日财报 +18% 后随 Nvidia 丑闻 AI 链回吐。</li><li>⚠️ <strong>ITR.V Integra Resources</strong>（量比 4.2，-13.3%）：Q3 财报日叠加金价 -3%，52 周新低。</li><li>⚠️ <strong>DRM.TO Dream Unlimited</strong>（量比 3.8，+9.2%）：Q3 资管/收租业务驱动利润增长，Q4 已锁定 $1 亿销售。</li><li>⚠️ <strong>AMD.TO AMD CDR</strong>（量比 3.5，+5.8%）：Nvidia 替代逻辑，加币对冲 CDR 成交 707 万股。</li><li>⚠️ <strong>SMCI.TO Super Micro CDR</strong>（量比 3.4，-11.0%）：DOJ 调查 Alice Huang 关联实体走私 Super Micro 产品至中国，美股 -12%。</li><li>⚠️ <strong>TWM.TO Tidewater Midstream</strong>（量比 3.3，+18.4%）：Q3 EBITDA 创纪录、全年指引上调 29%，合并 Renewables 12/18 完成。</li></ul>",
+ "digest": "补跑收盘口径：黄金 -3% 砸出一年新低，金银铜矿占跌幅榜 13 席（Endeavour -8%、Integra -13%、Talon -11%）；Nvidia CEO 辞职外溢——Super Micro CDR -11%（DOJ 走私调查）、CoreWeave -7%，但 AMD/Broadcom/Arista CDR 逆势 +5~6%；金融财报暴雷：Fiera -22%（取消股息）、Timbercreek -18%（ECL $4,020 万）；涨幅榜财报兑现：Tidewater 双雄 +18~20%（EBITDA 指引 +29%）、Cargojet +10%、Canadian Tire +7%、Apotex +7%。TSX -0.75%。"
+}
