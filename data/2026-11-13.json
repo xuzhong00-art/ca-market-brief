@@ -1,0 +1,619 @@
+{
+ "date": "2026-11-13",
+ "weekday": "周五",
+ "snapshot": "2026-11-13 16:00 ET 收盘（补跑：本机 18:10 PT 执行，数据为全日收盘口径）",
+ "market_state": "CLOSED",
+ "note": "本期为补跑：电脑在排程时段未唤醒，数据于收盘后抓取，表中现价/涨跌/成交量均为 11/13 全日收盘数据，量比口径=全日成交量 ÷ 3个月日均量（开盘占比 1.0）。",
+ "vr_note": "量比 = 当日全日成交量 ÷ 3个月日均量（补跑收盘口径，占比 1.0）。⚠️≥3，🔥≥8。全日口径下量比天然低于早盘 7.7% 口径，阈值相同故触发更少。",
+ "gainers": [
+  [
+   1,
+   "ANRG.TO",
+   "Anaergia",
+   "2.14",
+   "+16.94%",
+   "369M",
+   "废弃物制能/环保工程",
+   2.4
+  ],
+  [
+   2,
+   "STN.TO",
+   "Stantec",
+   "122.20",
+   "+13.79%",
+   "14B",
+   "工程咨询",
+   1.8
+  ],
+  [
+   3,
+   "MRE.TO",
+   "Martinrea International",
+   "10.95",
+   "+13.35%",
+   "766M",
+   "汽车零部件",
+   6.3
+  ],
+  [
+   4,
+   "CBRS.TO",
+   "Cerebras CDR",
+   "15.39",
+   "+10.09%",
+   "36B",
+   "AI 芯片 CDR",
+   6.6
+  ],
+  [
+   5,
+   "GMIN.TO",
+   "G Mining Ventures",
+   "46.21",
+   "+9.89%",
+   "14B",
+   "黄金生产",
+   1.4
+  ],
+  [
+   6,
+   "KEL.TO",
+   "Kelt Exploration",
+   "11.49",
+   "+8.81%",
+   "2B",
+   "油气勘探开发",
+   2.5
+  ],
+  [
+   7,
+   "ARA.TO",
+   "Aclara Resources",
+   "2.42",
+   "+8.04%",
+   "600M",
+   "稀土",
+   2.0
+  ],
+  [
+   8,
+   "CEU.TO",
+   "CES Energy Solutions",
+   "21.54",
+   "+6.95%",
+   "5B",
+   "油服/钻井液化学品",
+   2.3
+  ],
+  [
+   9,
+   "FSZ.TO",
+   "Fiera Capital",
+   "2.37",
+   "+6.28%",
+   "251M",
+   "资产管理",
+   1.3
+  ],
+  [
+   10,
+   "SLG.V",
+   "San Lorenzo Gold",
+   "6.23",
+   "+6.13%",
+   "771M",
+   "铜金勘探",
+   1.0
+  ],
+  [
+   11,
+   "NPI.TO",
+   "Northland Power",
+   "23.86",
+   "+5.72%",
+   "6B",
+   "可再生电力/海风",
+   1.9
+  ],
+  [
+   12,
+   "SGML.V",
+   "Sigma Lithium",
+   "7.45",
+   "+5.23%",
+   "839M",
+   "锂",
+   1.5
+  ],
+  [
+   13,
+   "AP-UN.TO",
+   "Allied Properties REIT",
+   "4.06",
+   "+4.91%",
+   "843M",
+   "办公 REIT",
+   1.6
+  ],
+  [
+   14,
+   "EPRX.TO",
+   "Eupraxia Pharmaceuticals",
+   "11.65",
+   "+4.86%",
+   "784M",
+   "生物制药",
+   0.9
+  ],
+  [
+   15,
+   "UCU.V",
+   "Ucore Rare Metals",
+   "2.18",
+   "+4.81%",
+   "332M",
+   "稀土加工",
+   0.5
+  ],
+  [
+   16,
+   "TF.TO",
+   "Timbercreek Financial",
+   "4.44",
+   "+4.72%",
+   "367M",
+   "商业地产抵押贷",
+   3.8
+  ],
+  [
+   17,
+   "CERT.V",
+   "Cerrado Gold",
+   "2.22",
+   "+4.72%",
+   "308M",
+   "黄金生产",
+   1.5
+  ],
+  [
+   18,
+   "SPB.TO",
+   "Superior Plus",
+   "5.67",
+   "+4.61%",
+   "1B",
+   "丙烷分销",
+   1.7
+  ],
+  [
+   19,
+   "CADY.TO",
+   "Cadillac Mines",
+   "4.03",
+   "+4.40%",
+   "1B",
+   "黄金勘探",
+   1.0
+  ],
+  [
+   20,
+   "GSY.TO",
+   "goeasy",
+   "40.30",
+   "+4.19%",
+   "646M",
+   "非银消费信贷",
+   1.6
+  ],
+  [
+   21,
+   "HR-UN.TO",
+   "H&R REIT",
+   "9.75",
+   "+4.17%",
+   "3B",
+   "多元 REIT",
+   3.9
+  ],
+  [
+   22,
+   "KRY.V",
+   "Koryx Copper",
+   "3.50",
+   "+4.17%",
+   "425M",
+   "铜勘探",
+   1.6
+  ],
+  [
+   23,
+   "NOVO.TO",
+   "Novo Nordisk CDR",
+   "18.38",
+   "+4.14%",
+   "257B",
+   "制药 CDR",
+   1.7
+  ],
+  [
+   24,
+   "GO-U.TO",
+   "GO Residential REIT (USD)",
+   "7.83",
+   "+4.12%",
+   "333M",
+   "住宅 REIT",
+   2.8
+  ],
+  [
+   25,
+   "CPH.TO",
+   "Cipher Pharmaceuticals",
+   "14.17",
+   "+4.11%",
+   "360M",
+   "特药",
+   3.3
+  ],
+  [
+   26,
+   "PRL.TO",
+   "Propel Holdings",
+   "27.79",
+   "+4.04%",
+   "1B",
+   "线上消费信贷",
+   1.3
+  ],
+  [
+   27,
+   "RFA.TO",
+   "RFA Financial",
+   "23.60",
+   "+4.01%",
+   "1B",
+   "房贷金融",
+   1.0
+  ],
+  [
+   28,
+   "CMG.TO",
+   "Computer Modelling Group",
+   "4.32",
+   "+3.85%",
+   "318M",
+   "油藏模拟软件",
+   1.7
+  ],
+  [
+   29,
+   "APPS.TO",
+   "AppLovin CDR",
+   "12.77",
+   "+3.82%",
+   "186B",
+   "广告科技 CDR",
+   1.1
+  ],
+  [
+   30,
+   "FISV.TO",
+   "Fiserv CDR",
+   "6.39",
+   "+3.57%",
+   "47B",
+   "支付科技 CDR",
+   1.3
+  ]
+ ],
+ "losers": [
+  [
+   1,
+   "PDN.TO",
+   "Paladin Energy",
+   "6.91",
+   "-17.84%",
+   "3B",
+   "铀",
+   5.9
+  ],
+  [
+   2,
+   "MATR.TO",
+   "Mattr",
+   "18.39",
+   "-15.56%",
+   "1B",
+   "材料科技/线缆复材",
+   5.8
+  ],
+  [
+   3,
+   "VHI.TO",
+   "VitalHub",
+   "7.00",
+   "-12.50%",
+   "443M",
+   "医疗软件",
+   7.5
+  ],
+  [
+   4,
+   "USA.TO",
+   "Americas Gold and Silver",
+   "3.55",
+   "-10.80%",
+   "1B",
+   "白银生产",
+   2.2
+  ],
+  [
+   5,
+   "JAG.TO",
+   "Jaguar Mining",
+   "4.57",
+   "-10.22%",
+   "390M",
+   "黄金生产",
+   3.2
+  ],
+  [
+   6,
+   "ABXX.TO",
+   "Abaxx Technologies",
+   "13.22",
+   "-10.01%",
+   "513M",
+   "商品交易所/金融科技",
+   2.0
+  ],
+  [
+   7,
+   "KEI.TO",
+   "Kolibri Global Energy",
+   "7.19",
+   "-9.56%",
+   "258M",
+   "油气勘探开发",
+   1.4
+  ],
+  [
+   8,
+   "XNDU.TO",
+   "Xanadu Quantum",
+   "3.28",
+   "-9.39%",
+   "1B",
+   "量子计算",
+   2.5
+  ],
+  [
+   9,
+   "CTGO.TO",
+   "Contango Silver & Gold",
+   "17.01",
+   "-8.84%",
+   "569M",
+   "贵金属生产",
+   3.1
+  ],
+  [
+   10,
+   "AMD.TO",
+   "AMD CDR",
+   "13.76",
+   "-8.57%",
+   "1369B",
+   "AI 芯片 CDR",
+   2.3
+  ],
+  [
+   11,
+   "LAC.TO",
+   "Lithium Americas",
+   "2.12",
+   "-7.83%",
+   "800M",
+   "锂",
+   2.1
+  ],
+  [
+   12,
+   "HUT.TO",
+   "Hut 8",
+   "82.03",
+   "-7.21%",
+   "10B",
+   "算力/比特币挖矿",
+   1.3
+  ],
+  [
+   13,
+   "FTG.TO",
+   "Firan Technology Group",
+   "31.77",
+   "-7.19%",
+   "800M",
+   "航空电子/PCB",
+   0.9
+  ],
+  [
+   14,
+   "BNKR.TO",
+   "Bunker Hill Mining",
+   "2.60",
+   "-7.14%",
+   "218M",
+   "银铅锌",
+   1.4
+  ],
+  [
+   15,
+   "BTQ.NE",
+   "BTQ Technologies",
+   "2.03",
+   "-6.88%",
+   "299M",
+   "后量子加密",
+   0.6
+  ],
+  [
+   16,
+   "ELVA.TO",
+   "Electrovaya",
+   "6.31",
+   "-6.79%",
+   "315M",
+   "锂电池",
+   1.2
+  ],
+  [
+   17,
+   "DELL.TO",
+   "Dell Technologies CDR",
+   "14.83",
+   "-6.55%",
+   "337B",
+   "AI 服务器 CDR",
+   2.2
+  ],
+  [
+   18,
+   "GG.V",
+   "Golconda Gold",
+   "3.19",
+   "-6.18%",
+   "228M",
+   "黄金生产",
+   1.1
+  ],
+  [
+   19,
+   "CRWV.TO",
+   "CoreWeave CDR",
+   "10.00",
+   "-6.10%",
+   "44B",
+   "AI 云算力 CDR",
+   2.9
+  ],
+  [
+   20,
+   "GRID.TO",
+   "Tantalus Systems",
+   "4.48",
+   "-6.08%",
+   "255M",
+   "智能电网软件",
+   1.0
+  ],
+  [
+   21,
+   "CSCO.TO",
+   "Cisco CDR",
+   "45.51",
+   "-6.01%",
+   "573B",
+   "网络设备 CDR",
+   3.5
+  ],
+  [
+   22,
+   "MAL.TO",
+   "Magellan Aerospace",
+   "34.23",
+   "-5.55%",
+   "2B",
+   "航空零部件",
+   0.9
+  ],
+  [
+   23,
+   "VRNO.NE",
+   "Verano Holdings",
+   "5.81",
+   "-5.53%",
+   "424M",
+   "美国大麻 MSO",
+   1.3
+  ],
+  [
+   24,
+   "SNDK.TO",
+   "SanDisk CDR",
+   "21.41",
+   "-5.52%",
+   "190B",
+   "闪存 CDR",
+   1.7
+  ],
+  [
+   25,
+   "CLS.TO",
+   "Celestica",
+   "342.32",
+   "-5.42%",
+   "43B",
+   "AI 硬件制造",
+   1.2
+  ],
+  [
+   26,
+   "CURA.TO",
+   "Curaleaf",
+   "11.21",
+   "-5.40%",
+   "3B",
+   "美国大麻 MSO",
+   0.6
+  ],
+  [
+   27,
+   "TI.TO",
+   "Titan Mining",
+   "2.50",
+   "-5.30%",
+   "248M",
+   "锌/石墨",
+   0.7
+  ],
+  [
+   28,
+   "FDR.V",
+   "Founders Metals",
+   "7.26",
+   "-5.22%",
+   "1B",
+   "黄金勘探",
+   0.4
+  ],
+  [
+   29,
+   "NFGC.TO",
+   "New Found Gold",
+   "2.02",
+   "-5.16%",
+   "780M",
+   "黄金勘探",
+   1.5
+  ],
+  [
+   30,
+   "HSLV.TO",
+   "Highlander Silver",
+   "5.70",
+   "-5.16%",
+   "1B",
+   "白银勘探",
+   1.1
+  ]
+ ],
+ "table_notes": [
+  "CDR 行（Cerebras/Novo Nordisk/AppLovin/Fiserv；AMD/Dell/CoreWeave/Cisco/SanDisk）市值为美股母公司总市值（TradingView 口径），非加拿大挂牌份额；由 TradingView type=dr 查询补入，量比用 Yahoo v7 quote 补算。",
+  "Yahoo 80+80 行全部为 11/13 当日新鲜数据（无僵尸停牌行）；AMD.NE/AVGO.NE/ADBE.NE 等 Cboe 交叉挂牌已按 .TO 主挂牌去重。TradingView 交叉验证：60 行方向与幅度全部一致；TV 独有行 NEO:QBR.A（+105%）为 NEO 旧打印不计，TSXV:PAIN（Vector Science）TV 市值为数据错误（Yahoo 实为 ~$15M）剔除。"
+ ],
+ "sectors_html": "<ul><li><strong>大盘</strong>：TSX 综指微跌 31.29 点（-0.09%）收 36,105.90，周线 +0.9%；开盘高开 0.3% 后回落，公用事业/电信抵消了科技与基本金属的下跌。美股纳指 -0.91%、标普 -0.4%：Nvidia 在黄仁勋辞职后继续 -2%（HSBC 下调至持有），本周前几日的「替代芯片」交易全面回吐——AMD -10.5%、Broadcom 大跌，Cisco 财报后 -6.4%（毛利率压缩），Dell -8.4%（服务器被追溯至上海产地报道）。10 月 PPI 同比 +6.5% 为 2022 年 11 月以来最高，12 月加息预期升温。黄金 -$7.9 至 $3,877/oz（一年低位附近盘整），油价 +$0.10 至 $88.84。加元 70.07 美分。</li><li><strong>涨幅榜主线一：Q3 财报超预期兑现</strong>——Stantec（+13.8%，成交 88 万股为日均 1.8 倍）Q3 净营收 $19 亿 +9.4%、调整后 EBITDA 利润率 20.2% 创纪录、调整后 EPS $1.89 +23.5%、积压合同 $92 亿 +11.6%，并上调全年盈利指引；Martinrea（+13.4%，量比 6.3 ⚠️）11/12 盘后 Q3 营收 $11.8 亿超预期、调整后 EBITDA +3.2%、欧洲重组目标 2026 盈亏平衡，低估值汽配股获空头回补；G Mining（+9.9%）Q3 调整后 EPS $0.32 vs 预期 $0.30、自由现金流 $8,000 万、Oko Gold 建设按预算推进；Kelt（+8.8%，成交 205 万股为日均 2.5 倍）Q3 产量 47,970 BOE/d +27%、Wembley 新井 IP14 单井 1,143 BOE/d；CES Energy（+7.0%）Q3 营收 $7.85 亿 +26%、EBITDAC $1.4 亿创纪录、利润率 17.8% 超指引；Northland Power（+5.7%，成交 2 倍日均）Q3 调整后 EBITDA +9%、Hai Long 73 台风机全部并网、重申全年指引；Cipher（+4.1%，量比 3.3 ⚠️）Q3 净利 $1,090 万翻倍（含仲裁胜诉收入）、Epuris 份额 48.7%；Anaergia（+16.9%）11/12 财报日 -6.8% 后次日 V 形反转：Q3 营收 +30%、积压合同 $3.03 亿创纪录、净利转正 $1,950 万（含资产出售收益）。</li><li><strong>涨幅榜主线二：AI 替代芯片仅剩 Cerebras</strong>——Cerebras CDR（+10.1%，量比 6.6 ⚠️）Q3 意外盈利（调整后 $2,980 万 vs 预期亏 $3,840 万）、全年营收指引上调至 $9.4~9.6 亿、公布微软合作，美股早盘 +14%，为 Nvidia 丑闻中唯一走强的 AI 芯片 CDR。</li><li><strong>涨幅榜其他</strong>：昨日暴雷股技术反弹——Fiera（+6.3%，昨 -21.8% 取消股息）、Timbercreek（+4.7%，量比 3.8 ⚠️，昨 -17.5%，连续两日放量换手）；稀土/锂板块走强：Aclara（+8.0%）、Ucore（+4.8%）、Sigma Lithium（+5.2%）；REIT 板块受益加息预期降温后收益率回落：H&R REIT（+4.2%，量比 3.9 ⚠️，成交 303 万股，Q3 财报 11/17 前仓位调整）、Allied（+4.9%）、GO Residential（+4.1%）；消费信贷 goeasy（+4.2%）、Propel（+4.0%）；防御性 CDR：Novo Nordisk（+4.1%）、Fiserv（+3.6%）、AppLovin（+3.8%）。</li><li><strong>跌幅榜主线一：财报后「利好出尽」重挫</strong>——Paladin Energy（-17.8%，量比 5.9 ⚠️）11/12 宣布 A$5.25 亿全额包销配股（折价 10.3%、稀释 13%）为萨省 PLS 铀项目融资（目标 2031 投产），ASX 已 -29%，TSX 补跌；Mattr（-15.6%，量比 5.8 ⚠️）Q3 营收 $4.23 亿 +34%、EBITDA 翻倍创纪录，但 Q4 EBITDA 指引仅与 Q1 持平、2027 关税逆风 ~$2,000 万，高位获利了结；VitalHub（-12.5%，量比 7.5 ⚠️）Q3 营收同比持平 $3,190 万、有机 ARR 环比仅 +1%，增长放缓触发抛售；Kolibri（-9.6%）Q3 EPS $0.10 远低于预期 $0.16（商品合约亏损）；Abaxx（-10.0%）Q3 财报后连续第二日下跌（昨 -7.1%）。</li><li><strong>跌幅榜主线二：贵金属矿业继续承压</strong>——Americas Gold &amp; Silver（-10.8%，成交 294 万股 2.2 倍日均）Q3 白银产量创纪录但净亏 $560 万、调整后 EPS -$0.02 vs 预期 +$0.05，AISC 指向指引上限；Jaguar（-10.2%，量比 3.2 ⚠️）Q3 营收 $6,080 万 +79% 但净利环比回落；Contango（-8.8%，量比 3.1 ⚠️）Q3 净亏 $2,300 万、新设 $7,500 万 ATM 增发计划；Golconda（-6.2%）、Bunker Hill（-7.1%）、Founders（-5.2%）、New Found Gold（-5.2%）、Highlander Silver（-5.2%）随金价一年低位走弱；锂：Lithium Americas（-7.8%）、Electrovaya（-6.8%）。</li><li><strong>跌幅榜主线三：AI 芯片替代交易回吐 + 美股科技 CDR</strong>——AMD CDR（-8.6%，成交 480 万股 2.3 倍日均）本周 +30% 后回吐，美股 -10.5%；Cisco CDR（-6.0%，量比 3.5 ⚠️）FQ1 营收创纪录但毛利率 -250bp，美股 -6.4%；Dell CDR（-6.6%）服务器产地报道；SanDisk CDR（-5.5%）、CoreWeave CDR（-6.1%）、Celestica（-5.4%，昨 +4.8%）AI 硬件链同步走弱；Hut 8（-7.2%）比特币跌破 $6.9 万；Xanadu（-9.4%）量子高波动、BTQ（-6.9%）；Firan（-7.2%）、Magellan（-5.6%）航空零部件回吐；大麻 Verano（-5.5%）、Curaleaf（-5.4%）续跌。</li></ul>",
+ "anomalies_html": "<ul><li><strong>本期为收盘口径补跑（占比 1.0），无 🔥 级（≥8）异常；⚠️ 级（≥3）11 只：</strong></li><li>⚠️ <strong>VHI.TO VitalHub</strong>（量比 7.5，-12.5%）：Q3 营收同比持平、有机 ARR 环比仅 +1%，增长放缓触发放量抛售（125 万股 vs 日均 17 万）。</li><li>⚠️ <strong>CBRS.TO Cerebras CDR</strong>（量比 6.6，+10.1%）：Q3 意外盈利 + 全年指引上调 + 微软合作，Nvidia 丑闻下唯一走强的 AI 芯片。</li><li>⚠️ <strong>MRE.TO Martinrea</strong>（量比 6.3，+13.4%）：Q3 营收超预期、欧洲重组计划，低 PE 汽配股空头回补。</li><li>⚠️ <strong>PDN.TO Paladin Energy</strong>（量比 5.9，-17.8%）：A$5.25 亿折价 10.3% 配股融资 PLS 项目，ASX -29% 后 TSX 补跌。</li><li>⚠️ <strong>MATR.TO Mattr</strong>（量比 5.8，-15.6%）：Q3 创纪录但 Q4 指引回落 + 2027 关税逆风 $2,000 万，高位获利了结。</li><li>⚠️ <strong>HR-UN.TO H&amp;R REIT</strong>（量比 3.9，+4.2%）：成交 303 万股，Q3 财报（11/17）前仓位调整，REIT 板块随收益率回落走强。</li><li>⚠️ <strong>TF.TO Timbercreek Financial</strong>（量比 3.8，+4.7%）：昨日 ECL 暴雷 -17.5% 后技术反弹，连续两日放量换手。</li><li>⚠️ <strong>CSCO.TO Cisco CDR</strong>（量比 3.5，-6.0%）：FQ1 营收创纪录但毛利率压缩 250bp，美股 -6.4%。</li><li>⚠️ <strong>CPH.TO Cipher Pharmaceuticals</strong>（量比 3.3，+4.1%）：Q3 净利翻倍（含仲裁胜诉 $490 万）、Epuris 份额 48.7%。</li><li>⚠️ <strong>JAG.TO Jaguar Mining</strong>（量比 3.2，-10.2%）：Q3 营收 +79% 但利润环比回落，叠加金价一年低位。</li><li>⚠️ <strong>CTGO.TO Contango Silver &amp; Gold</strong>（量比 3.1，-8.8%）：Q3 净亏 $2,300 万 + $7,500 万 ATM 增发计划。</li></ul>",
+ "digest": "补跑收盘口径：TSX -0.09% 周线 +0.9%。财报兑现主导涨幅榜：Stantec +13.8%（EBITDA 利润率创纪录、上调指引）、Martinrea +13.4%、G Mining +9.9%、Kelt +8.8%、CES +7.0%、Northland +5.7%；Cerebras CDR +10.1% 为 AI 芯片链唯一亮点。跌幅榜：Paladin -17.8%（A$5.25 亿折价配股）、Mattr -15.6%（Q4 指引回落）、VitalHub -12.5%（增长放缓）；AI 替代芯片交易回吐——AMD CDR -8.6%、Cisco -6.0%、Dell -6.6%、CoreWeave -6.1%；贵金属矿业续跌（Americas Gold -10.8%、Jaguar -10.2%）。"
+}
