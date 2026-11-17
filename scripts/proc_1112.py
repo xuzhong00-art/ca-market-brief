@@ -6,7 +6,7 @@ from datetime import timezone, timedelta
 D = "C:/Users/Elliott/Downloads/claude/ca-market-brief/data/"
 yh = json.load(open(D+"_yh_raw.json", encoding="utf-8"))
 tv = json.load(open(D+"_tv_raw.json", encoding="utf-8"))
-TODAY = datetime.date(2026, 11, 12)
+TODAY = datetime.date(2026, 11, 16)
 FRAC = 1.0
 ET = timezone(timedelta(hours=-5))
 COLS = ["name","description","close","change","market_cap_basic","sector","volume","avg90","type","exchange","update_mode","time"]
