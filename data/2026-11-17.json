@@ -1,0 +1,619 @@
+{
+ "date": "2026-11-17",
+ "weekday": "周二",
+ "snapshot": "2026-11-17 10:51 ET 盘中（开盘约 80 分钟）",
+ "market_state": "REGULAR",
+ "vr_note": "量比 = 当日成交量 ÷（3个月日均量 × 0.21）；0.21 = 抓取时已开盘约 81 分钟 / 全日 390 分钟。⚠️≥3，🔥≥8。早盘口径下量比天然偏高，关注相对排序。",
+ "gainers": [
+  [
+   1,
+   "TC.TO",
+   "Tucows",
+   "20.00",
+   "+21.73%",
+   "224M",
+   "互联网域名/光纤(Ting出售)",
+   25.2
+  ],
+  [
+   2,
+   "SCZ.TO",
+   "Santacruz Silver",
+   "10.67",
+   "+16.10%",
+   "992M",
+   "白银生产(玻利维亚)",
+   5.0
+  ],
+  [
+   3,
+   "NUAG.TO",
+   "New Pacific Metals",
+   "6.92",
+   "+6.13%",
+   "1.3B",
+   "白银开发(玻利维亚)",
+   1.2
+  ],
+  [
+   4,
+   "JAG.TO",
+   "Jaguar Mining",
+   "4.12",
+   "+5.36%",
+   "352M",
+   "黄金生产(巴西)",
+   3.2
+  ],
+  [
+   5,
+   "CHE-UN.TO",
+   "Chemtrade Logistics",
+   "15.37",
+   "+5.10%",
+   "1.7B",
+   "工业化学品",
+   6.8
+  ],
+  [
+   6,
+   "SEA.TO",
+   "Seabridge Gold",
+   "36.82",
+   "+5.06%",
+   "4.0B",
+   "黄金开发(KSM)",
+   1.9
+  ],
+  [
+   7,
+   "VZLA.TO",
+   "Vizsla Silver",
+   "4.40",
+   "+5.01%",
+   "1.6B",
+   "白银开发(墨西哥)",
+   2.1
+  ],
+  [
+   8,
+   "LMCU.TO",
+   "Lumina Metals",
+   "7.32",
+   "+4.87%",
+   "801M",
+   "铜银开发(波兰)",
+   3.2
+  ],
+  [
+   9,
+   "FM.TO",
+   "First Quantum",
+   "31.24",
+   "+4.80%",
+   "26.1B",
+   "铜矿",
+   2.5
+  ],
+  [
+   10,
+   "MSA.TO",
+   "Mineros",
+   "8.20",
+   "+4.73%",
+   "2.4B",
+   "黄金生产(哥伦比亚)",
+   0.8
+  ],
+  [
+   11,
+   "DC-A.TO",
+   "Dundee Corp",
+   "3.75",
+   "+4.46%",
+   "338M",
+   "矿业投资控股",
+   5.1
+  ],
+  [
+   12,
+   "FWZ.TO",
+   "Fireweed Metals",
+   "2.13",
+   "+4.39%",
+   "484M",
+   "锌铅/钨开发(育空)",
+   3.1
+  ],
+  [
+   13,
+   "MAI.TO",
+   "Mining Americas",
+   "3.20",
+   "+4.23%",
+   "352M",
+   "黄金生产(内华达)",
+   1.3
+  ],
+  [
+   14,
+   "ARA.TO",
+   "Aclara Resources",
+   "2.31",
+   "+4.05%",
+   "573M",
+   "稀土开发",
+   4.7
+  ],
+  [
+   15,
+   "SLG.V",
+   "San Lorenzo Gold",
+   "6.06",
+   "+3.59%",
+   "750M",
+   "黄金勘探(智利)",
+   0.6
+  ],
+  [
+   16,
+   "MAU.TO",
+   "Montage Gold",
+   "15.23",
+   "+3.46%",
+   "6.2B",
+   "黄金开发(科特迪瓦)",
+   1.3
+  ],
+  [
+   17,
+   "FNV.TO",
+   "Franco-Nevada",
+   "355.71",
+   "+3.43%",
+   "68.6B",
+   "贵金属权利金",
+   1.7
+  ],
+  [
+   18,
+   "PPTA.TO",
+   "Perpetua Resources",
+   "25.15",
+   "+3.29%",
+   "3.1B",
+   "黄金/锑开发(爱达荷)",
+   2.5
+  ],
+  [
+   19,
+   "HSTR.TO",
+   "Heliostar Metals",
+   "2.20",
+   "+3.29%",
+   "615M",
+   "黄金生产(墨西哥)",
+   3.2
+  ],
+  [
+   20,
+   "LAR.TO",
+   "Lithium Argentina",
+   "5.13",
+   "+3.22%",
+   "842M",
+   "锂",
+   1.7
+  ],
+  [
+   21,
+   "TWM.TO",
+   "Tidewater Midstream",
+   "27.22",
+   "+3.18%",
+   "597M",
+   "中游/炼化",
+   1.9
+  ],
+  [
+   22,
+   "OR.TO",
+   "OR Royalties",
+   "49.46",
+   "+3.15%",
+   "9.2B",
+   "贵金属权利金",
+   0.6
+  ],
+  [
+   23,
+   "GMIN.TO",
+   "G Mining Ventures",
+   "46.02",
+   "+3.15%",
+   "13.6B",
+   "黄金生产(巴西)",
+   0.4
+  ],
+  [
+   24,
+   "TMQ.TO",
+   "Trilogy Metals",
+   "2.66",
+   "+3.09%",
+   "482M",
+   "铜开发(阿拉斯加)",
+   1.8
+  ],
+  [
+   25,
+   "IMG.TO",
+   "IAMGOLD",
+   "24.93",
+   "+2.97%",
+   "14.1B",
+   "黄金生产",
+   0.7
+  ],
+  [
+   26,
+   "RDDT.TO",
+   "Reddit CDR",
+   "9.11",
+   "+2.94%",
+   "26B*",
+   "社交媒体 CDR",
+   1.5
+  ],
+  [
+   27,
+   "RIO.TO",
+   "Rio2",
+   "2.49",
+   "+2.89%",
+   "1.4B",
+   "黄金开发(智利)",
+   1.3
+  ],
+  [
+   28,
+   "DGX.NE",
+   "Digi Power X",
+   "2.95",
+   "+2.79%",
+   "266M",
+   "AI数据中心/挖矿",
+   11.2
+  ],
+  [
+   29,
+   "XLY.TO",
+   "Auxly Cannabis",
+   "3.62",
+   "+2.69%",
+   "374M",
+   "大麻",
+   2.6
+  ],
+  [
+   30,
+   "RGSI.TO",
+   "Rockpoint Gas Storage",
+   "26.09",
+   "+2.64%",
+   "3.4B",
+   "天然气储运",
+   1.6
+  ]
+ ],
+ "losers": [
+  [
+   1,
+   "CRM.TO",
+   "Salesforce CDR",
+   "14.75",
+   "-9.40%",
+   "253B*",
+   "企业软件 CDR",
+   3.4
+  ],
+  [
+   2,
+   "GRGD.TO",
+   "Groupe Dynamite",
+   "51.54",
+   "-9.01%",
+   "5.6B",
+   "女装零售",
+   4.7
+  ],
+  [
+   3,
+   "SNDK.TO",
+   "SanDisk CDR",
+   "18.17",
+   "-7.28%",
+   "165B*",
+   "存储芯片 CDR",
+   3.8
+  ],
+  [
+   4,
+   "BDT.TO",
+   "Bird Construction",
+   "69.75",
+   "-7.22%",
+   "3.9B",
+   "工程建筑",
+   5.4
+  ],
+  [
+   5,
+   "BE.TO",
+   "Bloom Energy CDR",
+   "12.80",
+   "-7.18%",
+   "75B*",
+   "燃料电池 CDR",
+   2.6
+  ],
+  [
+   6,
+   "NOWS.TO",
+   "ServiceNow CDR",
+   "11.72",
+   "-7.06%",
+   "148B*",
+   "企业软件 CDR",
+   3.9
+  ],
+  [
+   7,
+   "BB.TO",
+   "BlackBerry",
+   "11.67",
+   "-7.01%",
+   "6.9B",
+   "网络安全/车载软件",
+   1.8
+  ],
+  [
+   8,
+   "EPRX.TO",
+   "Eupraxia Pharma",
+   "9.82",
+   "-7.01%",
+   "661M",
+   "生物科技",
+   2.2
+  ],
+  [
+   9,
+   "MU.TO",
+   "Micron CDR",
+   "29.29",
+   "-6.81%",
+   "1164B*",
+   "存储芯片 CDR",
+   3.0
+  ],
+  [
+   10,
+   "SMCI.TO",
+   "Super Micro CDR",
+   "7.50",
+   "-6.72%",
+   "24B*",
+   "AI服务器 CDR",
+   2.9
+  ],
+  [
+   11,
+   "ELVA.TO",
+   "Electrovaya",
+   "5.38",
+   "-6.60%",
+   "269M",
+   "锂电池",
+   1.9
+  ],
+  [
+   12,
+   "INTU.TO",
+   "Intuit CDR",
+   "19.53",
+   "-6.38%",
+   "132B*",
+   "财税软件 CDR",
+   3.6
+  ],
+  [
+   13,
+   "HOOD.TO",
+   "Robinhood CDR",
+   "10.98",
+   "-6.31%",
+   "93B*",
+   "互联网券商 CDR",
+   1.6
+  ],
+  [
+   14,
+   "APPS.TO",
+   "AppLovin CDR",
+   "12.16",
+   "-6.25%",
+   "197B*",
+   "广告科技 CDR",
+   1.3
+  ],
+  [
+   15,
+   "ARE.TO",
+   "Aecon Group",
+   "52.14",
+   "-6.11%",
+   "3.6B",
+   "工程建筑",
+   1.3
+  ],
+  [
+   16,
+   "NGEX.TO",
+   "NGEx Minerals",
+   "18.77",
+   "-5.37%",
+   "4.1B",
+   "铜金开发(阿根廷)",
+   1.0
+  ],
+  [
+   17,
+   "QBR-B.TO",
+   "Quebecor",
+   "61.85",
+   "-5.21%",
+   "13.8B",
+   "电信/媒体",
+   10.4
+  ],
+  [
+   18,
+   "XNDU.TO",
+   "Xanadu Quantum",
+   "2.77",
+   "-5.14%",
+   "874M",
+   "量子计算",
+   1.2
+  ],
+  [
+   19,
+   "CMG.TO",
+   "Computer Modelling",
+   "4.03",
+   "-4.95%",
+   "297M",
+   "油藏模拟软件",
+   1.3
+  ],
+  [
+   20,
+   "ENGH.TO",
+   "Enghouse Systems",
+   "17.23",
+   "-4.65%",
+   "929M",
+   "企业软件",
+   0.8
+  ],
+  [
+   21,
+   "RUS.TO",
+   "Russel Metals",
+   "74.82",
+   "-4.58%",
+   "4.1B",
+   "金属分销",
+   0.8
+  ],
+  [
+   22,
+   "HG.CN",
+   "HydroGraph",
+   "4.44",
+   "-4.52%",
+   "1.6B",
+   "石墨烯",
+   0.8
+  ],
+  [
+   23,
+   "ASTL.TO",
+   "Algoma Steel",
+   "7.33",
+   "-4.43%",
+   "772M",
+   "钢铁",
+   1.0
+  ],
+  [
+   24,
+   "OTEX.TO",
+   "Open Text",
+   "33.84",
+   "-4.32%",
+   "8.2B",
+   "企业软件",
+   0.5
+  ],
+  [
+   25,
+   "KNT.TO",
+   "K92 Mining",
+   "23.65",
+   "-4.29%",
+   "5.8B",
+   "黄金生产(巴新)",
+   2.6
+  ],
+  [
+   26,
+   "FSZ.TO",
+   "Fiera Capital",
+   "2.23",
+   "-4.29%",
+   "236M",
+   "资产管理",
+   1.4
+  ],
+  [
+   27,
+   "SBC.TO",
+   "Brompton Split Banc",
+   "11.89",
+   "-4.19%",
+   "485M",
+   "分级基金(银行)",
+   3.4
+  ],
+  [
+   28,
+   "KEL.TO",
+   "Kelt Exploration",
+   "12.20",
+   "-4.09%",
+   "2.5B",
+   "天然气(蒙特尼)",
+   1.4
+  ],
+  [
+   29,
+   "SHOP.TO",
+   "Shopify",
+   "202.80",
+   "-4.08%",
+   "260.9B",
+   "电商软件",
+   0.7
+  ],
+  [
+   30,
+   "SLS.TO",
+   "Solaris Resources",
+   "8.44",
+   "-3.87%",
+   "1.4B",
+   "铜金开发(厄瓜多尔)",
+   1.3
+  ]
+ ],
+ "table_notes": [
+  "带 * 的 CDR 行（Reddit；Salesforce/SanDisk/Bloom/ServiceNow/Micron/Super Micro/Intuit/Robinhood/AppLovin）市值为美股母公司总市值（TradingView 口径），非加拿大挂牌份额；CDR 现价/涨跌/量比取 Yahoo v7 quote 的 .TO 主挂牌数据。",
+  "Yahoo 80+80 行中仅 VBNK.TO（VersaBank，regularMarketTime 为 11/16 收盘）为僵尸数据已剔除；NVDA.NE 按 .TO 主挂牌去重（NVDA CDR -3.46% 列第 35 位榜外）。剔除 2 行 Yahoo/TradingView 价格分歧 >2 个百分点的行：TSXV:BZ Benz Mining（Yahoo -5.5% vs TV -1.5%）、TSX:KEEL Keel Infrastructure（Yahoo -4.0% vs TV -1.2%），疑为薄流动性下打印时点差异。TV 独有行 NEO:QBR.A（+105%）为 NEO 旧打印、NEO:AMX/TSX:RFA 为 11/16 旧 bar，均不计。",
+  "TradingView 交叉验证：60 只中 57 只方向与幅度一致（差异 <1.5pp）；TV 加股 type=stock 榜单独有的 TSX:HBM Hudbay（+2.2%，Yahoo +1.0%）未入前 30。"
+ ],
+ "sectors_html": "<ul><li><strong>大盘</strong>：TSX 综指早盘 -1.09% 报 35,334（10:54 ET），延续周一 -1.06% 的跌势，金融板块领跌（RBC -2.0%、TD -2.0%、BMO -2.5%，美国 JPMorgan 系统故障+美联储 12 月加息预期升温）。全球等待 Nvidia 今晚盘后财报——黄仁勋辞职后首份财报，叠加美国商务部新规限制中国远程访问先进 AI 芯片，周一纳指 -2.5%、费城半导体 -5.3%。商品：WTI +0.7% 至 $86.3，黄金 +0.9% 至 $3,887、白银 +2.0% 至 $47.8（自一年低点反弹），铜 -0.4% 至 $5.98。加元 ~69.9 美分。</li><li><strong>涨幅榜主线一：贵金属超跌反弹，白银矿股领涨</strong>——周一金银矿股补跌后今日随金银价反弹集体修复：Santacruz Silver（+16.1%，量比 5.0 ⚠️）11/16 盘后 Q3 财报大超预期——营收 US$1.53 亿（同比 +92%，二季度玻利维亚封路积压的精矿三季度集中出货）、调整后 EBITDA US$6,110 万（+213%）、AISC $19.73/oz（-33%）、EPS $0.40 超预期 $0.11，现金 US$1.25 亿；New Pacific（+6.1%）、Vizsla（+5.0%）白银开发同涨；黄金：Jaguar（+5.4%，量比 3.2 ⚠️，两日 -23% 后反弹）、Seabridge（+5.1%）、Mineros（+4.7%）、Mining Americas（+4.2%，周一 -17.7% 后反弹）、Montage（+3.5%）、Perpetua（+3.3%）、Heliostar（+3.3%，量比 3.2 ⚠️）、G Mining（+3.2%）、IAMGOLD（+3.0%）、Rio2（+2.9%）；权利金：Franco-Nevada（+3.4%）、OR Royalties（+3.2%）。榜外 Kinross +1.8%、Agnico +1.3%、Equinox +1.6%。</li><li><strong>涨幅榜主线二：事件驱动个股</strong>——Tucows（+21.7%，量比 25.2 🔥）：11/17 盘前宣布将 Ting 自有光纤市场出售给 GTCR/Berkshire Partners 支持的 Clearwave，证券化债务 US$3.015 亿随业务剥离出表（名义对价），结束光纤资本开支黑洞，剩余债务仅 US$1.84 亿银团贷款；Chemtrade（+5.1%，量比 6.8 ⚠️）：11/13 盘后 Q3 财报+收窄全年 EBITDA 指引至 $4.95-5.15 亿、11/16 电话会后机构重估，叠加信托转公司结构（扩大投资者基础）；Dundee Corp（+4.5%，量比 5.1 ⚠️）：矿业投资控股，持仓 Ausgold 被 OceanaGold 收购 12 月交割、Magna Mining 等随金价反弹；Fireweed（+4.4%，量比 3.1 ⚠️）：11/16 获加拿大自然资源部 Global Partnerships Initiative 最高 C$1,400 万资助推进 Mactung 钨矿 FID；Aclara（+4.1%，量比 4.7 ⚠️）：11/17 盘前宣布实现磁材级 NdPr 金属生产，稀土股受政策催化。</li><li><strong>涨幅榜其他</strong>：铜矿反弹——First Quantum（+4.8%，周一 -7.6%）、Lumina Metals（+4.9%，量比 3.2 ⚠️，连续第二日放量）、Trilogy（+3.1%）、Imperial Metals（+2.6%，榜外）；Lithium Argentina（+3.2%）；中游：Tidewater（+3.2%）、Rockpoint Gas Storage（+2.6%）；Reddit CDR（+2.9%）为美股社交媒体少数逆势；Digi Power X（+2.8%，量比 11.2 🔥）AI 数据中心转型 Q3 财报后延续。</li><li><strong>跌幅榜主线一：美股软件/AI 硬件 CDR 全线重挫</strong>——企业软件遭 AI 变现质疑+企业 IT 支出冻结双杀：Salesforce CDR（-9.4%，量比 3.4 ⚠️，美股 -7~10%）Agentforce 变现进度存疑、$57 亿收购 Braze 后并购负债/稀释担忧；ServiceNow CDR（-7.1%，量比 3.9 ⚠️）10/28 Q3 cRPO 指引不及预期后持续阴跌、今日再创新低；Intuit CDR（-6.4%，量比 3.6 ⚠️）、AppLovin CDR（-6.3%）同步；AI 硬件：SanDisk CDR（-7.3%，量比 3.8 ⚠️）、Micron CDR（-6.8%，量比 3.0 ⚠️）存储芯片连续第二日遭抛售（周一美股 -6%）、Super Micro CDR（-6.7%）、Bloom Energy CDR（-7.2%）；Robinhood CDR（-6.3%）。Nvidia CDR -3.5%（榜外第 35）、Microsoft CDR -3.4%、AMD CDR -3.8%。</li><li><strong>跌幅榜主线二：加拿大软件/科技同步受压</strong>——BlackBerry（-7.0%，成交 141 万股）、Enghouse（-4.7%）、Open Text（-4.3%）、Computer Modelling（-5.0%）、Shopify（-4.1%）、Xanadu（-5.1%）量子、Coveo（-3.6%，榜外）、Descartes（-3.3%，榜外）、Kinaxis/Lightspeed/Topicus（-2~3%，榜外）；HydroGraph（-4.5%）、Electrovaya（-6.6%）锂电。</li><li><strong>跌幅榜主线三：事件驱动个股</strong>——Groupe Dynamite（-9.0%，量比 4.7 ⚠️）：做空机构 Spruce Point 11/17 盘前发布 Strong Sell 报告，称 35%-70% 下行空间，指控孟加拉供应商 Tusuka 违反供应商准则、同店销售/毛利率口径与同业不可比、停止披露关键数据，并质疑特别股息与溢价回购；Bird Construction（-7.2%，量比 5.4 ⚠️）：11/16 盘后宣布 $2 亿收购 Kel-Gor（工业维护/检修）并同步 $2 亿 bought deal 增发（$70.70/股，较 $75.18 收盘折价 6%），股价向增发价靠拢；Aecon（-6.1%）工程建筑同业受增发压制（WSP -3.7%、Stantec -1.9% 榜外）；Quebecor（-5.2%，量比 10.4 🔥，成交 224 万股）：作为收购方连续第二日重挫（累计 -20%），RBC/Desjardins 称 TELUS 并购监管通过概率低，TELUS 持平 $13.74 仅反映一半溢价；Eupraxia（-7.0%）生物科技连跌；Kelt（-4.1%）回吐周一 +10.7% 涨幅；Brompton Split Banc（-4.2%，量比 3.4 ⚠️）分级基金 Class A 随六大行下跌杠杆放大（单位 NAV 离 $15 红线仍有距离）；K92（-4.3%）、NGEx（-5.4%）、Solaris（-3.9%）金铜开发逆势下跌；Russel Metals（-4.6%）、Algoma（-4.4%）钢铁走弱。</li></ul>",
+ "anomalies_html": "<ul><li><strong>早盘口径（占比 0.21），🔥 级（≥8）3 只，⚠️ 级（≥3）16 只：</strong></li><li>🔥 <strong>TC.TO Tucows</strong>（量比 25.2，+21.7%）：盘前宣布 Ting 自有光纤业务出售给 Clearwave，US$3.015 亿证券化债务出表——日均仅 6K 股的冷门股放量换手 3.3 万股，Nasdaq 母股 TCX +26%。</li><li>🔥 <strong>DGX.NE Digi Power X</strong>（量比 11.2，+2.8%）：NEO 挂牌日均仅 2 万股，11/13 Q3 财报（营收 +85%、AI 收入占 46%、Cerebras $10.7 亿十年合同）后延续买盘，流动性稀薄导致量比虚高。</li><li>🔥 <strong>QBR-B.TO Quebecor</strong>（量比 10.4，-5.2%）：$313 亿收购 TELUS 提议后第二日继续被抛售（两日 -20%），分析师普遍认为监管通过概率低，机构减持。</li><li>⚠️ <strong>CHE-UN.TO Chemtrade</strong>（量比 6.8，+5.1%）：Q3 财报+指引收窄+信托转公司后的机构重估，成交 27 万股。</li><li>⚠️ <strong>BDT.TO Bird Construction</strong>（量比 5.4，-7.2%）：$2 亿 bought deal 增发（$70.70）压价，成交 43 万股已超全日均量。</li><li>⚠️ <strong>DC-A.TO Dundee Corp</strong>（量比 5.1，+4.5%）：矿业投资控股随金矿持仓反弹，成交 17 万股超日均。</li><li>⚠️ <strong>SCZ.TO Santacruz Silver</strong>（量比 5.0，+16.1%）：Q3 营收 +92%、EBITDA +213%、AISC -33%，EPS 大幅超预期，叠加白银反弹。</li><li>⚠️ <strong>GRGD.TO Groupe Dynamite</strong>（量比 4.7，-9.0%）：Spruce Point 做空报告（35-70% 下行、供应商合规、KPI 口径质疑）。</li><li>⚠️ <strong>ARA.TO Aclara Resources</strong>（量比 4.7，+4.1%）：盘前宣布实现磁材级 NdPr 金属生产。</li><li>⚠️ <strong>NOWS.TO ServiceNow CDR</strong>（量比 3.9，-7.1%）、<strong>SNDK.TO SanDisk CDR</strong>（量比 3.8，-7.3%）、<strong>INTU.TO Intuit CDR</strong>（量比 3.6，-6.4%）、<strong>CRM.TO Salesforce CDR</strong>（量比 3.4，-9.4%）、<strong>MU.TO Micron CDR</strong>（量比 3.0，-6.8%）：美股软件 AI 变现质疑+AI 芯片出口新规+Nvidia 财报前风险出清，CDR 随母股放量下跌。</li><li>⚠️ <strong>SBC.TO Brompton Split Banc</strong>（量比 3.4，-4.2%）：六大行早盘 -2~2.5%，分级基金 Class A 杠杆放大跌幅，无公司层面消息。</li><li>⚠️ <strong>JAG.TO Jaguar Mining</strong>（量比 3.2，+5.4%）：两日 -23% 后空头回补反弹。</li><li>⚠️ <strong>LMCU.TO Lumina Metals</strong>（量比 3.2，+4.9%）：连续第二日放量上行，无公告，疑机构建仓延续。</li><li>⚠️ <strong>HSTR.TO Heliostar</strong>（量比 3.2，+3.3%）：11/13 Q3 创纪录矿山经营利润后随金价反弹。</li><li>⚠️ <strong>FWZ.TO Fireweed Metals</strong>（量比 3.1，+4.4%）：NRCan 最高 C$1,400 万 Mactung 钨矿资助。</li><li>榜外提示：Koryx Copper KRY.V（量比 6.7，-3.8%）、Alvopetro ALV.V（量比 6.6，-3.0%）、Orogen OGN.V（量比 6.1，-2.4%）均为小盘薄流动性放量下跌，无公告。</li></ul>",
+ "digest": "早盘 TSX -1.09% 报 35,334，金融领跌、等待 Nvidia 今晚财报。涨幅榜：贵金属反弹（银 +2%）——Santacruz Silver +16.1%（Q3 大超预期）、New Pacific/Vizsla/Jaguar/Seabridge +5~6%、First Quantum +4.8%；Tucows +21.7%（Ting 光纤出售剥离 US$3 亿债务，量比 25 🔥）、Chemtrade +5.1%、Aclara +4.1%。跌幅榜：美股软件/AI 硬件 CDR 重挫——Salesforce -9.4%、SanDisk -7.3%、ServiceNow -7.1%、Micron -6.8%；Groupe Dynamite -9.0%（Spruce Point 做空报告）、Bird -7.2%（$2 亿增发）、BlackBerry -7.0%、Quebecor -5.2%（量比 10.4 🔥）、Brompton Split Banc -4.2%。"
+}
