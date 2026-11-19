@@ -1,0 +1,620 @@
+{
+ "date": "2026-11-18",
+ "weekday": "周三",
+ "snapshot": "2026-11-18 16:00 ET 收盘（补跑：电脑早间未运行，数据为全日收盘值）",
+ "market_state": "CLOSED",
+ "note": "本期为盘后补跑：原定 10:00 ET 早盘抓取未执行，表中为 11/18 全日收盘数据，量比按全日口径（占比 1.0）计算，与往日早盘口径不可直接比较。",
+ "vr_note": "量比 = 当日成交量 ÷ 3个月日均量（收盘后补跑，已开盘时长占比取 1.0）。⚠️≥3，🔥≥8。全日口径下量比不再被早盘放大，≥3 即为实质放量。",
+ "gainers": [
+  [
+   1,
+   "PANW.TO",
+   "Palo Alto Networks CDR",
+   "39.87",
+   "+10.63%",
+   "362.3B*",
+   "网络安全 CDR",
+   1.7
+  ],
+  [
+   2,
+   "CAML.TO",
+   "Central Asia Metals",
+   "2.20",
+   "+9.45%",
+   "587M",
+   "铜/锌生产(哈萨克/北马其顿)",
+   2.4
+  ],
+  [
+   3,
+   "TJX.TO",
+   "TJX CDR",
+   "24.49",
+   "+8.51%",
+   "204.3B*",
+   "折扣零售 CDR",
+   2.1
+  ],
+  [
+   4,
+   "CRWD.TO",
+   "CrowdStrike CDR",
+   "14.63",
+   "+7.81%",
+   "321.7B*",
+   "网络安全 CDR",
+   1.3
+  ],
+  [
+   5,
+   "LULU.TO",
+   "Lululemon CDR",
+   "4.76",
+   "+6.49%",
+   "17.3B*",
+   "运动服饰 CDR",
+   1.7
+  ],
+  [
+   6,
+   "GSY.TO",
+   "goeasy",
+   "39.01",
+   "+6.18%",
+   "589M",
+   "消费金融",
+   1.4
+  ],
+  [
+   7,
+   "HUT.TO",
+   "Hut 8",
+   "81.88",
+   "+6.09%",
+   "9.3B",
+   "比特币矿机/AI数据中心",
+   1.3
+  ],
+  [
+   8,
+   "BB.TO",
+   "BlackBerry",
+   "12.25",
+   "+5.33%",
+   "6.8B",
+   "网络安全/车载软件",
+   0.8
+  ],
+  [
+   9,
+   "AMD.TO",
+   "AMD CDR",
+   "13.62",
+   "+5.17%",
+   "1181.2B*",
+   "半导体 CDR",
+   1.5
+  ],
+  [
+   10,
+   "BIP-UN.TO",
+   "Brookfield Infra Partners",
+   "60.28",
+   "+4.83%",
+   "37.3B",
+   "基础设施(合伙单位)",
+   19.2
+  ],
+  [
+   11,
+   "DIS.TO",
+   "Disney CDR",
+   "13.56",
+   "+4.71%",
+   "288.9B*",
+   "媒体娱乐 CDR",
+   1.9
+  ],
+  [
+   12,
+   "BIPC.TO",
+   "Brookfield Infra Corp",
+   "60.06",
+   "+4.65%",
+   "7.1B",
+   "基础设施(公司股)",
+   11.2
+  ],
+  [
+   13,
+   "GRZ.V",
+   "Gold Reserve",
+   "4.95",
+   "+4.21%",
+   "703M",
+   "法律索偿(Citgo)",
+   4.7
+  ],
+  [
+   14,
+   "FSZ.TO",
+   "Fiera Capital",
+   "2.27",
+   "+4.13%",
+   "231M",
+   "资产管理",
+   1.3
+  ],
+  [
+   15,
+   "ANET.TO",
+   "Arista Networks CDR",
+   "34.66",
+   "+4.02%",
+   "336.9B*",
+   "网络设备 CDR",
+   1.2
+  ],
+  [
+   16,
+   "AMZN.TO",
+   "Amazon CDR",
+   "30.41",
+   "+3.97%",
+   "3989.4B*",
+   "电商/云 CDR",
+   1.1
+  ],
+  [
+   17,
+   "BYD.TO",
+   "Boyd Group",
+   "100.74",
+   "+3.74%",
+   "2.7B",
+   "汽车碰撞维修",
+   1.3
+  ],
+  [
+   18,
+   "DCBO.TO",
+   "Docebo",
+   "43.38",
+   "+3.71%",
+   "1.0B",
+   "企业学习SaaS",
+   1.0
+  ],
+  [
+   19,
+   "SIS.TO",
+   "Savaria",
+   "31.25",
+   "+3.61%",
+   "2.2B",
+   "无障碍设备",
+   1.4
+  ],
+  [
+   20,
+   "AVGO.TO",
+   "Broadcom CDR",
+   "13.39",
+   "+3.48%",
+   "2332.9B*",
+   "半导体 CDR",
+   1.9
+  ],
+  [
+   21,
+   "BHC.TO",
+   "Bausch Health",
+   "12.52",
+   "+3.47%",
+   "4.5B",
+   "制药",
+   1.3
+  ],
+  [
+   22,
+   "HG.CN",
+   "HydroGraph Clean Power",
+   "4.48",
+   "+3.46%",
+   "1.6B",
+   "石墨烯材料",
+   0.4
+  ],
+  [
+   23,
+   "CLS.TO",
+   "Celestica",
+   "349.29",
+   "+3.40%",
+   "42.6B",
+   "AI服务器/电子制造",
+   1.1
+  ],
+  [
+   24,
+   "APTX.TO",
+   "Apotex Health",
+   "41.17",
+   "+3.11%",
+   "9.1B",
+   "仿制药",
+   1.7
+  ],
+  [
+   25,
+   "KITS.TO",
+   "Kits Eyecare",
+   "19.13",
+   "+3.07%",
+   "630M",
+   "眼镜电商",
+   1.0
+  ],
+  [
+   26,
+   "VNP.TO",
+   "5N Plus",
+   "32.30",
+   "+3.00%",
+   "2.8B",
+   "特种半导体材料",
+   0.6
+  ],
+  [
+   27,
+   "STCK.TO",
+   "Stack Capital",
+   "13.23",
+   "+2.96%",
+   "201M",
+   "私募股权投资",
+   0.7
+  ],
+  [
+   28,
+   "T.TO",
+   "TELUS",
+   "13.63",
+   "+2.87%",
+   "21.1B",
+   "电信",
+   1.2
+  ],
+  [
+   29,
+   "EFN.TO",
+   "Element Fleet",
+   "20.17",
+   "+2.75%",
+   "7.6B",
+   "车队管理",
+   1.9
+  ],
+  [
+   30,
+   "GORO.V",
+   "Goldgroup Mining",
+   "4.71",
+   "+2.73%",
+   "730M",
+   "黄金生产(墨西哥)",
+   1.0
+  ]
+ ],
+ "losers": [
+  [
+   1,
+   "PAIN.V",
+   "Vector Science & Therapeutics",
+   "2.56",
+   "-16.61%",
+   "403M",
+   "生物科技(镇痛)",
+   1.2
+  ],
+  [
+   2,
+   "ARG.TO",
+   "Amerigo Resources",
+   "6.53",
+   "-12.35%",
+   "1.2B",
+   "铜尾矿加工(智利)",
+   1.7
+  ],
+  [
+   3,
+   "ABXX.TO",
+   "Abaxx Technologies",
+   "11.15",
+   "-11.58%",
+   "489M",
+   "商品交易所/清算",
+   2.6
+  ],
+  [
+   4,
+   "ERO.TO",
+   "Ero Copper",
+   "34.24",
+   "-11.34%",
+   "4.0B",
+   "铜生产(巴西)",
+   1.8
+  ],
+  [
+   5,
+   "BZ.V",
+   "Benz Mining",
+   "3.42",
+   "-11.17%",
+   "1.5B",
+   "黄金勘探(魁北克)",
+   0.4
+  ],
+  [
+   6,
+   "GAU.TO",
+   "Galiano Gold",
+   "2.72",
+   "-11.11%",
+   "802M",
+   "黄金生产(加纳)",
+   1.3
+  ],
+  [
+   7,
+   "ACT.TO",
+   "Aduro Clean Tech",
+   "11.72",
+   "-10.53%",
+   "469M",
+   "化学回收技术",
+   2.2
+  ],
+  [
+   8,
+   "PALI.V",
+   "Palisades Goldcorp",
+   "3.20",
+   "-10.36%",
+   "246M",
+   "矿业投资控股",
+   1.4
+  ],
+  [
+   9,
+   "UNH.TO",
+   "UnitedHealth CDR",
+   "15.94",
+   "-10.10%",
+   "499.5B*",
+   "健康保险 CDR",
+   4.1
+  ],
+  [
+   10,
+   "TKO.TO",
+   "Trekor Metals",
+   "7.98",
+   "-10.03%",
+   "3.3B",
+   "铜开发(Gibraltar)",
+   1.6
+  ],
+  [
+   11,
+   "LUN.TO",
+   "Lundin Mining",
+   "24.65",
+   "-9.90%",
+   "23.4B",
+   "铜生产(智利/阿根廷)",
+   3.0
+  ],
+  [
+   12,
+   "SBI.TO",
+   "Serabi Gold",
+   "2.95",
+   "-9.79%",
+   "259M",
+   "黄金生产(巴西)",
+   2.2
+  ],
+  [
+   13,
+   "AMX.V",
+   "Amex Gold Mining",
+   "2.94",
+   "-9.54%",
+   "506M",
+   "黄金开发(魁北克Perron)",
+   3.8
+  ],
+  [
+   14,
+   "AUXX.V",
+   "Gold X2 Mining",
+   "4.23",
+   "-8.84%",
+   "469M",
+   "黄金勘探",
+   0.5
+  ],
+  [
+   15,
+   "CBRS.TO",
+   "Cerebras CDR",
+   "13.29",
+   "-8.72%",
+   "28.4B*",
+   "AI芯片 CDR",
+   1.0
+  ],
+  [
+   16,
+   "PDI.TO",
+   "PDI Gold",
+   "3.80",
+   "-8.65%",
+   "4.2B",
+   "黄金生产",
+   2.5
+  ],
+  [
+   17,
+   "HMMC.TO",
+   "Hemlo Mining",
+   "4.41",
+   "-8.51%",
+   "1.4B",
+   "黄金生产(Hemlo)",
+   0.9
+  ],
+  [
+   18,
+   "JAG.TO",
+   "Jaguar Mining",
+   "3.71",
+   "-8.40%",
+   "346M",
+   "黄金生产(巴西)",
+   2.8
+  ],
+  [
+   19,
+   "TLO.TO",
+   "Talon Metals",
+   "4.88",
+   "-8.27%",
+   "862M",
+   "镍开发(明尼苏达)",
+   2.2
+  ],
+  [
+   20,
+   "III.TO",
+   "Imperial Metals",
+   "5.04",
+   "-8.20%",
+   "978M",
+   "铜生产(BC)",
+   1.7
+  ],
+  [
+   21,
+   "HBM.TO",
+   "Hudbay Minerals",
+   "25.87",
+   "-8.16%",
+   "12.5B",
+   "铜/黄金生产",
+   1.5
+  ],
+  [
+   22,
+   "ITR.V",
+   "Integra Resources",
+   "2.26",
+   "-8.13%",
+   "499M",
+   "黄金生产(美国)",
+   4.3
+  ],
+  [
+   23,
+   "FM.TO",
+   "First Quantum",
+   "28.43",
+   "-7.99%",
+   "25.8B",
+   "铜生产(赞比亚/巴拿马)",
+   1.9
+  ],
+  [
+   24,
+   "SCZ.TO",
+   "Santacruz Silver",
+   "9.72",
+   "-7.95%",
+   "982M",
+   "白银生产(玻利维亚)",
+   3.0
+  ],
+  [
+   25,
+   "EDR.TO",
+   "Endeavour Silver",
+   "9.40",
+   "-7.84%",
+   "3.0B",
+   "白银生产(墨西哥)",
+   2.2
+  ],
+  [
+   26,
+   "TNZ.TO",
+   "Tenaz Energy",
+   "40.85",
+   "-7.50%",
+   "1.5B",
+   "油气(荷兰北海/阿尔伯塔)",
+   3.5
+  ],
+  [
+   27,
+   "HSTR.TO",
+   "Heliostar Metals",
+   "2.01",
+   "-7.37%",
+   "619M",
+   "黄金生产(墨西哥)",
+   1.2
+  ],
+  [
+   28,
+   "DC-A.TO",
+   "Dundee Corp",
+   "3.40",
+   "-7.36%",
+   "330M",
+   "矿业投资控股",
+   2.5
+  ],
+  [
+   29,
+   "OBE.TO",
+   "Obsidian Energy",
+   "12.30",
+   "-7.24%",
+   "872M",
+   "油气生产",
+   1.0
+  ],
+  [
+   30,
+   "SSRM.TO",
+   "SSR Mining",
+   "34.65",
+   "-7.23%",
+   "7.5B",
+   "黄金生产",
+   1.2
+  ]
+ ],
+ "table_notes": [
+  "带 * 的 CDR 行（Palo Alto/TJX/CrowdStrike/Lululemon/AMD/Disney/Arista/Amazon/Broadcom/UnitedHealth/Cerebras）市值为美股母公司总市值的加元换算（TradingView 口径），非加拿大挂牌份额；CDR 现价/涨跌/成交量取 Yahoo v7 quote 的 .TO 主挂牌数据（Yahoo screener 返回的 .NE 行成交量仅为 Cboe 份额，已替换）。",
+  "Yahoo 80+80 行中仅 VBNK.TO（VersaBank，regularMarketTime 仍为 11/16 收盘，连续两日未成交）为僵尸数据已剔除。TradingView type=dr 补查补入 5 只 Yahoo screener 漏掉的 CDR：涨幅榜 PANW/TJX/DIS/ANET，跌幅榜 CBRS（Cerebras，日均量按 Yahoo 2.7 万股）。TV type=stock 榜单独有的 TSXV:PAIN（Vector Science，-16.6%）系 Yahoo 市值字段错误（1,400 万）被筛掉，按 TMX 1.57 亿股×$2.56≈4.03 亿加元补入并列跌幅榜首。",
+  "TradingView 交叉验证：60 只中全部方向一致、幅度差异 <1.5pp（NEO 行与 TSX 行偶有 0.3~0.8pp 打印差异，以 TSX 主挂牌为准）。Benz Mining（BZ.V -11.2%）今日 Yahoo/TV 一致，不再是昨日那种分歧行。"
+ ],
+ "sectors_html": "<ul><li><strong>大盘</strong>：TSX 综指重挫 -2.1%（-737 点）收 34,578，四个多月新低，连续第三日下跌；黄金分项 -5.4%、材料 -5.3%、能源 -3.7% 领跌，12 个分项中 7 个收涨（可选消费 +0.9%、地产/医疗 +0.8%）。TSXV -2.8% 至 743.66。驱动：伦铜单日 -5.5% 至 $12,502/吨（19 个月最大跌幅、七个月新低、连跌五日，AI/关税多头平仓 + 美元走强 + 美联储加息预期）；黄金 -3.5% 至 $3,744 一年多新低；WTI -3.6% 至 $82.93。美股：Nvidia 财报超预期并上调指引但高开低走 -2%，道指 -1.1%、标普 -0.2%、纳指 +0.4%；网络安全板块大涨。加元 69.81 美分。</li><li><strong>涨幅榜主线一：网络安全/美股 CDR 补涨</strong>——国土安全部长 Mullin 国会作证称近期银行/航空/科技业大面积宕机系 AI 驱动的入侵，叠加 Palo Alto 盘后财报（Q1 营收 $34.4 亿 +39%、上调全年指引、$45 亿全股收购 AI 初创 Applied Compute），Palo Alto CDR +10.6%、CrowdStrike CDR +7.8%、BlackBerry +5.3%（唯一加拿大本土网安标的）。TJX CDR +8.5%（Q3 同店 +4%、EPS $1.39 超预期并上调全年）、Lululemon CDR +6.5%（跟随 TJX 零售情绪）、Disney CDR +4.7%、AMD/Broadcom/Arista/Amazon CDR +3.5~5.2%（Nvidia 财报超预期带动 AI 链早盘反弹，纳指收涨）。</li><li><strong>涨幅榜主线二：Brookfield 基础设施简化重组前最后交易日</strong>——BIP.UN +4.8%（量比 19.2 🔥）、BIPC +4.7%（量比 11.2 🔥）：合伙单位与公司股 1:1 合并为 BIP Inc. 于 11/19 完成，新股 11/23 以 BIP 代码挂牌，指数基金/套利盘在最后交易日集中调仓，成交分别 912 万/331 万股（日均 47 万/30 万）。</li><li><strong>涨幅榜主线三：防御与错杀反弹</strong>——goeasy +6.2%（上周 Q3 后单日 -9.9% 的超跌反弹，年内 -70%）；Hut 8 +6.1%（Nasdaq 母股 +6%，Nvidia 财报后 AI 数据中心叙事回暖）；Central Asia Metals +9.5%（10/27 收购 Cygnus 后新挂牌 TSX、11/13 敲钟，日均仅 1.6 万股的新挂牌流动性稀薄，铜股普跌中逆势）；Gold Reserve +4.2%（量比 4.7 ⚠️，Citgo 拍卖第三巡回法院上诉程序中，与金价无关）；Canadian Tire +2.4%、Choice REIT +2.0%、Colliers +1.9%、Bausch +3.5%、Boyd +3.7%、Savaria +3.6% 等可选消费/地产/医疗防御性板块获资金避险。</li><li><strong>跌幅榜主线一：铜股崩跌</strong>——伦铜 -5.5% 创 19 个月最大单日跌幅，Mercuria 在上海世界铜业大会称\"铜需求接近衰退环境\"：Amerigo -12.3%（铜尾矿加工，纯铜价杠杆，无公司新闻）、Ero Copper -11.3%（NYSE 母股 -10.7%）、Trekor -10.0%、Lundin -9.9%（量比 3.0 ⚠️，三周累跌 18%、年内转负）、Hudbay -8.2%、Imperial -8.2%、First Quantum -8.0%、Capstone -6.9%、Ivanhoe -6.5%、Marimaca -7.1%、Talon（镍）-8.3%、Freeport CDR -6.7%。</li><li><strong>跌幅榜主线二：金银股随金价破位</strong>——黄金 -3.5% 至 $3,744 跌破一年低点，白银同步：Galiano -11.1%、Serabi -9.8%、Amex Gold -9.5%（量比 3.8 ⚠️）、Gold X2 -8.8%、PDI -8.7%、Hemlo -8.5%、Jaguar -8.4%（昨日 +5.4% 全数回吐）、Integra -8.1%（量比 4.3 ⚠️，11/11 下调 Florida Canyon 全年产量指引后持续被卖）、Santacruz -8.0%（量比 3.0，昨日财报 +16% 后回落）、Endeavour -7.8%、Heliostar -7.4%、SSR -7.2%、OceanaGold -7.2%、IAMGOLD -7.1%、Aris -7.0%、Coeur -6.9%、Equinox -6.7%、First Majestic -6.4%、Agnico Eagle -6.3%（龙头 1,170 亿市值单日蒸发 ~$78 亿）。Benz Mining -11.2%、Palisades -10.4%、Dundee -7.4% 为勘探/矿业投资标的的高贝塔跟跌。</li><li><strong>跌幅榜主线三：能源与个股</strong>——WTI -3.6%：Tenaz -7.5%（量比 3.5 ⚠️，Q3 后两周累跌 ~17%，Simply Wall St 11/16 质疑其盈利质量/负 FCF）、Obsidian -7.2%、Journey -6.7%、Valeura -6.2%。个股：Vector Science（PAIN.V）-16.6%——一年涨 480% 的 TSXV 镇痛生物科技妖股无新闻获利了结；Abaxx -11.6%（11/11 Q3 营收 $8.9 万 vs 预期 $497 万后持续下跌，年内 -80%）；UnitedHealth CDR -10.1%（量比 4.1 ⚠️，CMS 拟推 CRUSH 规则扩大 Medicare Advantage 审计并追溯至 2018 年，NYSE 母股 -10.2%，管理式医疗板块全线下挫）；Aduro -10.5%（化学回收小盘股无新闻）；Cerebras CDR -8.7%（11/13 Nasdaq IPO 后第二周回落）。</li></ul>",
+ "anomalies_html": "<ul><li><strong>全日口径（占比 1.0），🔥 级（≥8）2 只，⚠️ 级（≥3）7 只：</strong></li><li>🔥 <strong>BIP-UN.TO Brookfield Infra Partners</strong>（量比 19.2，+4.8%）：合伙单位与 BIPC 1:1 合并为 BIP Inc. 于 11/19 完成，今日为旧单位最后交易日，指数/套利资金集中换仓，成交 912 万单位（日均 47 万）。</li><li>🔥 <strong>BIPC.TO Brookfield Infra Corp</strong>（量比 11.2，+4.7%）：同一事件的公司股端，成交 331 万股（日均 30 万）。两者价差已收敛至 $0.22，重组后 11/23 以新代码 BIP 挂牌。</li><li>⚠️ <strong>GRZ.V Gold Reserve</strong>（量比 4.7，+4.2%）：Citgo（PDV Holding）司法拍卖第三巡回法院上诉进行中，Dalinar 财团 $73.8 亿竞标 vs Elliott/Amber 方案，法律事件驱动与金价无关。</li><li>⚠️ <strong>ITR.V Integra Resources</strong>（量比 4.3，-8.1%）：11/11 将 Florida Canyon 全年产量指引从 7.0~7.5 万盎司下调至 5.9~6.2 万盎司，叠加金价破位，连续被抛售。</li><li>⚠️ <strong>UNH.TO UnitedHealth CDR</strong>（量比 4.1，-10.1%）：CMS 拟议 CRUSH 反欺诈规则扩大 Medicare Advantage 审计并追溯至 2018 年付款年度（业内年追回约 $90 亿），NYSE 母股两日 -15%。</li><li>⚠️ <strong>AMX.V Amex Gold Mining</strong>（量比 3.8，-9.5%）：无公司新闻，Perron 开发阶段金股在金价暴跌中高贝塔跟跌，TSXV 流动性稀薄放大量比。</li><li>⚠️ <strong>TNZ.TO Tenaz Energy</strong>（量比 3.5，-7.5%）：WTI -3.6% 叠加 Q3 后盈利质量质疑（TTM 自由现金流 -$4.4 亿、净债 $3.66 亿），两周累跌约 17%。</li><li>⚠️ <strong>LUN.TO Lundin Mining</strong>（量比 3.0，-9.9%）：伦铜 -5.5% 创 19 个月最大跌幅，成交 740 万股（日均 244 万），三周累跌 18%、年内转负。</li><li>⚠️ <strong>SCZ.TO Santacruz Silver</strong>（量比 3.0，-8.0%）：昨日 Q3 超预期 +16% 后，白银随金价下挫，获利盘兑现。</li></ul>",
+ "digest": "收盘补跑：TSX -2.1% 收 34,578 四个月新低，铜 -5.5%（19 个月最大跌幅）、金 -3.5% 一年新低引发矿业全面崩跌——Amerigo -12.3%、Ero -11.3%、Lundin -9.9%、Galiano -11.1%、Agnico -6.3%；UnitedHealth CDR -10.1%（CMS 审计规则）、Vector Science -16.6%、Abaxx -11.6%。涨幅榜：网安 CDR 领涨——Palo Alto +10.6%（财报+$45 亿收购）、CrowdStrike +7.8%、BlackBerry +5.3%；TJX CDR +8.5%、Lululemon +6.5%；Brookfield 基础设施重组前最后交易日 BIP.UN/BIPC +4.8%/+4.7%（量比 19/11 🔥）；goeasy +6.2%、Hut 8 +6.1%。"
+}
