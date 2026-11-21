@@ -5,7 +5,7 @@ import urllib.parse
 from _fetch import quotes
 from _proc import dedupe, day  # noqa
 r = json.load(open("data/_raw.json"))
-TODAY = "2026-11-09"
+TODAY = "2026-11-20"
 # Yahoo rows
 rows = {}
 for side in ("yg", "yl"):
@@ -56,5 +56,5 @@ for name, lst in (("GAINERS", g), ("LOSERS", l)):
     print("==", name)
     for i, v in enumerate(lst, 1):
         fmt(v)
-        print(i, v["sym"], v["name"][:28], v["price"], round(v["chg"], 2), "tv=%s" % v.get("tvchg"), "%.1fB" % (v["cap"] / 1e9), v.get("tvsector"), v.get("tvind", ""), v["vol"], v["avg"], v["vr"], "CDR" if v["cdr"] else "")
+        print(i, v["sym"], v["name"][:28], v["price"], round(v["chg"], 2), "tv=%s" % v.get("tvchg"), ("%.1fB" % (v["cap"] / 1e9) if v.get("cap") else "?"), v.get("tvsector"), v.get("tvind", ""), v["vol"], v["avg"], v["vr"], "CDR" if v["cdr"] else "")
 json.dump({"g": g, "l": l}, open("data/_merged.json", "w"), indent=1, ensure_ascii=False)

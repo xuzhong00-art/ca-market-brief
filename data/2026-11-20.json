@@ -1,0 +1,620 @@
+{
+ "date": "2026-11-20",
+ "weekday": "周五",
+ "snapshot": "2026-11-20 16:00 ET 收盘（补跑：电脑早间未运行，数据为全日收盘值）",
+ "market_state": "CLOSED",
+ "vr_note": "量比 = 当日成交量 ÷ 3个月日均量（收盘后补跑，已开盘时长占比取 1.0）。⚠️≥3，🔥≥8。全日口径下 ≥3 即为实质放量。",
+ "gainers": [
+  [
+   1,
+   "BIPC.TO",
+   "Brookfield Infrastructure",
+   "65.40",
+   "+10.62%",
+   "8.0B",
+   "基础设施(并入BIP Inc.前最后交易日)",
+   103.3
+  ],
+  [
+   2,
+   "TNZ.TO",
+   "Tenaz Energy",
+   "43.26",
+   "+7.08%",
+   "1.4B",
+   "油气(荷兰/加拿大)",
+   3.0
+  ],
+  [
+   3,
+   "CDR.TO",
+   "Condor Energies",
+   "3.21",
+   "+5.94%",
+   "278M",
+   "天然气(乌兹别克)",
+   1.1
+  ],
+  [
+   4,
+   "QBR-B.TO",
+   "Quebecor",
+   "61.26",
+   "+5.71%",
+   "13.7B",
+   "电信/媒体",
+   2.1
+  ],
+  [
+   5,
+   "BIP-UN.TO",
+   "Brookfield Infrastructure Partners L.P.",
+   "61.66",
+   "+4.60%",
+   "48.8B",
+   "基础设施",
+   6.8
+  ],
+  [
+   6,
+   "BYD.TO",
+   "Boyd Group Services",
+   "105.81",
+   "+4.41%",
+   "2.9B",
+   "汽车碰撞维修",
+   1.5
+  ],
+  [
+   7,
+   "DRX.TO",
+   "ADF Group",
+   "21.67",
+   "+4.28%",
+   "619M",
+   "钢结构制造(魁北克)",
+   2.6
+  ],
+  [
+   8,
+   "RCI-A.TO",
+   "Rogers Communications",
+   "51.05",
+   "+3.54%",
+   "27.6B",
+   "电信(A类薄流通股)",
+   17.3
+  ],
+  [
+   9,
+   "CGO.TO",
+   "Cogeco",
+   "49.71",
+   "+3.45%",
+   "471M",
+   "电信控股",
+   1.9
+  ],
+  [
+   10,
+   "CCA.TO",
+   "Cogeco Communications",
+   "55.40",
+   "+3.01%",
+   "2.3B",
+   "有线电信",
+   0.9
+  ],
+  [
+   11,
+   "UNH.TO",
+   "UnitedHealth Group CDR",
+   "15.47",
+   "+2.86%",
+   "424.8B*",
+   "医疗保险 CDR",
+   1.8
+  ],
+  [
+   12,
+   "TLO.TO",
+   "Talon Metals",
+   "4.70",
+   "+2.84%",
+   "766M",
+   "镍矿开发(明尼苏达)",
+   1.5
+  ],
+  [
+   13,
+   "BCE.TO",
+   "BCE",
+   "31.36",
+   "+2.48%",
+   "29.2B",
+   "电信",
+   1.4
+  ],
+  [
+   14,
+   "T.TO",
+   "TELUS",
+   "15.86",
+   "+2.32%",
+   "25.2B",
+   "电信",
+   2.5
+  ],
+  [
+   15,
+   "GORO.V",
+   "Goldgroup Mining",
+   "4.16",
+   "+2.21%",
+   "715M",
+   "黄金生产(墨西哥)",
+   0.3
+  ],
+  [
+   16,
+   "HMM-A.TO",
+   "Hammond Manufacturing",
+   "24.91",
+   "+2.17%",
+   "282M",
+   "电气外壳制造",
+   0.8
+  ],
+  [
+   17,
+   "VREO.CN",
+   "Vireo Growth",
+   "7.75",
+   "+1.97%",
+   "449M",
+   "大麻(美国)",
+   2.4
+  ],
+  [
+   18,
+   "ATD.TO",
+   "Alimentation Couche-Tard",
+   "81.72",
+   "+1.97%",
+   "75.0B",
+   "便利店零售",
+   1.5
+  ],
+  [
+   19,
+   "TF.TO",
+   "Timbercreek Financial",
+   "4.19",
+   "+1.95%",
+   "347M",
+   "商业地产贷款",
+   1.6
+  ],
+  [
+   20,
+   "MRU.TO",
+   "Metro",
+   "98.48",
+   "+1.82%",
+   "20.4B",
+   "食品零售",
+   1.6
+  ],
+  [
+   21,
+   "DHI.TO",
+   "D.R. Horton, CDR",
+   "23.42",
+   "+1.74%",
+   "54.8B*",
+   "住宅建筑 CDR",
+   18.5
+  ],
+  [
+   22,
+   "WMT.TO",
+   "Walmart CDR",
+   "53.21",
+   "+1.70%",
+   "1434.7B*",
+   "大型零售 CDR",
+   3.5
+  ],
+  [
+   23,
+   "VZ.TO",
+   "Verizon Communications CDR",
+   "19.43",
+   "+1.67%",
+   "272.0B*",
+   "电信 CDR",
+   0.9
+  ],
+  [
+   24,
+   "SNY.TO",
+   "Sanofi SA CDR",
+   "22.01",
+   "+1.66%",
+   "158.1B*",
+   "制药 CDR",
+   14.2
+  ],
+  [
+   25,
+   "PVF-UN.V",
+   "Partners Value Investments LP",
+   "15.50",
+   "+1.64%",
+   "10.7B",
+   "投资控股(Brookfield系)",
+   7.4
+  ],
+  [
+   26,
+   "LNF.TO",
+   "Leon's Furniture",
+   "26.98",
+   "+1.54%",
+   "1.9B",
+   "家具零售",
+   1.6
+  ],
+  [
+   27,
+   "GRT-UN.TO",
+   "Granite Real Estate Investment Trust",
+   "88.50",
+   "+1.54%",
+   "5.5B",
+   "工业地产REIT",
+   2.9
+  ],
+  [
+   28,
+   "BTB-UN.TO",
+   "BTB Real Estate Investment Trust",
+   "3.55",
+   "+1.43%",
+   "318M",
+   "商业地产REIT",
+   1.3
+  ],
+  [
+   29,
+   "XTC.TO",
+   "Exco Technologies",
+   "7.84",
+   "+1.42%",
+   "294M",
+   "汽车零部件",
+   2.9
+  ],
+  [
+   30,
+   "WN.TO",
+   "George Weston",
+   "113.38",
+   "+1.38%",
+   "42.4B",
+   "食品零售控股",
+   1.1
+  ]
+ ],
+ "losers": [
+  [
+   1,
+   "HUT.TO",
+   "Hut 8",
+   "65.88",
+   "-17.73%",
+   "7.9B",
+   "比特币矿机/AI数据中心",
+   1.4
+  ],
+  [
+   2,
+   "SNDK.TO",
+   "SanDisk CDR",
+   "15.27",
+   "-16.78%",
+   "19.3B*",
+   "存储芯片 CDR",
+   2.5
+  ],
+  [
+   3,
+   "CLS.TO",
+   "Celestica",
+   "288.00",
+   "-16.38%",
+   "36.3B",
+   "AI服务器/电子制造",
+   2.0
+  ],
+  [
+   4,
+   "NBIS.TO",
+   "Nebius Group CDR",
+   "11.59",
+   "-16.32%",
+   "40.7B*",
+   "AI云算力 CDR",
+   10.9
+  ],
+  [
+   5,
+   "BE.TO",
+   "Bloom Energy CDR",
+   "11.09",
+   "-15.41%",
+   "71.3B*",
+   "燃料电池 CDR",
+   6.0
+  ],
+  [
+   6,
+   "HG.CN",
+   "HydroGraph Clean Power",
+   "3.81",
+   "-14.77%",
+   "1.4B",
+   "石墨烯",
+   1.4
+  ],
+  [
+   7,
+   "SGML.V",
+   "Sigma Lithium",
+   "5.00",
+   "-14.68%",
+   "563M",
+   "锂",
+   1.4
+  ],
+  [
+   8,
+   "KRY.V",
+   "Koryx Copper S.A.",
+   "2.70",
+   "-14.29%",
+   "328M",
+   "铜开发(纳米比亚)",
+   6.9
+  ],
+  [
+   9,
+   "AUXX.V",
+   "Gold X2 Mining",
+   "3.50",
+   "-14.00%",
+   "354M",
+   "黄金生产(多米尼加)",
+   0.4
+  ],
+  [
+   10,
+   "LUME.TO",
+   "Lumentum Holdings CDR",
+   "9.78",
+   "-13.91%",
+   "69.6B*",
+   "光通信 CDR",
+   12.8
+  ],
+  [
+   11,
+   "NVDA.TO",
+   "NVIDIA CDR",
+   "27.91",
+   "-13.88%",
+   "5047.5B*",
+   "AI芯片 CDR",
+   7.3
+  ],
+  [
+   12,
+   "MU.TO",
+   "Micron Technology, CDR",
+   "25.97",
+   "-13.81%",
+   "1120.8B*",
+   "存储芯片 CDR",
+   3.1
+  ],
+  [
+   13,
+   "AMD.TO",
+   "Advanced Micro Devices, CDR",
+   "10.93",
+   "-13.19%",
+   "1151.1B*",
+   "芯片 CDR",
+   2.2
+  ],
+  [
+   14,
+   "INTU.TO",
+   "Intuit CDR",
+   "16.32",
+   "-12.87%",
+   "118.9B*",
+   "财税软件 CDR",
+   3.9
+  ],
+  [
+   15,
+   "COHR.TO",
+   "Coherent Corp CDR",
+   "13.29",
+   "-12.85%",
+   "60.7B*",
+   "光通信 CDR",
+   3.9
+  ],
+  [
+   16,
+   "CRWV.TO",
+   "CoreWeave, CDR",
+   "7.41",
+   "-12.51%",
+   "35.8B*",
+   "AI云算力 CDR",
+   1.6
+  ],
+  [
+   17,
+   "MRV.TO",
+   "Marvell Technology CDR",
+   "19.63",
+   "-12.33%",
+   "174.2B*",
+   "数据中心芯片 CDR",
+   1.6
+  ],
+  [
+   18,
+   "ABXX.TO",
+   "Abaxx Technologies",
+   "9.07",
+   "-12.28%",
+   "352M",
+   "商品交易所/科技",
+   1.6
+  ],
+  [
+   19,
+   "AVGO.TO",
+   "Broadcom CDR",
+   "11.53",
+   "-12.19%",
+   "2374.1B*",
+   "AI芯片 CDR",
+   3.2
+  ],
+  [
+   20,
+   "TMQ.TO",
+   "Trilogy Metals",
+   "2.20",
+   "-12.00%",
+   "399M",
+   "铜开发(阿拉斯加)",
+   2.2
+  ],
+  [
+   21,
+   "WDC.TO",
+   "Western Digital CDR",
+   "15.83",
+   "-11.96%",
+   "159.4B*",
+   "存储 CDR",
+   2.3
+  ],
+  [
+   22,
+   "ANET.TO",
+   "Arista Networks CDR",
+   "29.87",
+   "-11.89%",
+   "343.7B*",
+   "网络设备 CDR",
+   3.8
+  ],
+  [
+   23,
+   "SICO.V",
+   "Silverco Mining",
+   "6.72",
+   "-11.70%",
+   "374M",
+   "白银勘探",
+   0.9
+  ],
+  [
+   24,
+   "DELL.TO",
+   "Dell Technologies CDR",
+   "11.81",
+   "-11.54%",
+   "285.1B*",
+   "AI服务器 CDR",
+   8.0
+  ],
+  [
+   25,
+   "ABRA.TO",
+   "AbraSilver Resource",
+   "8.19",
+   "-11.46%",
+   "1.4B",
+   "白银开发(阿根廷)",
+   7.4
+  ],
+  [
+   26,
+   "ELVA.TO",
+   "Electrovaya",
+   "4.72",
+   "-11.44%",
+   "236M",
+   "锂电池",
+   2.5
+  ],
+  [
+   27,
+   "CAML.TO",
+   "Central Asia Metals plc",
+   "2.00",
+   "-11.11%",
+   "550M",
+   "铜锌生产(哈萨克/马其顿)",
+   1.4
+  ],
+  [
+   28,
+   "RKLB.TO",
+   "Rocket Lab CDR",
+   "13.56",
+   "-11.08%",
+   "46.2B*",
+   "航天 CDR",
+   5.2
+  ],
+  [
+   29,
+   "ZDC.V",
+   "Zedcor",
+   "4.16",
+   "-10.92%",
+   "469M",
+   "安防/移动监控塔",
+   1.7
+  ],
+  [
+   30,
+   "ASTL.TO",
+   "Algoma Steel Group",
+   "6.15",
+   "-10.87%",
+   "648M",
+   "钢铁",
+   1.0
+  ]
+ ],
+ "table_notes": [
+  "带 * 的 CDR 行市值为美股母公司总市值的加元换算（TradingView 口径），非加拿大挂牌份额；CDR 现价/涨跌/成交量取 .TO 主挂牌（Yahoo v7 quote）。NVIDIA/Broadcom 的 Cboe 非赞助线 ZNVD.NE/ZAVG.NE 与 NVDA.TO/AVGO.TO 重复，已去重。",
+  "BIPC.TO +10.6%：11/19 Brookfield Infrastructure 完成公司简化，BIPC 与 BIP.UN 1:1 换成 BIP Inc. A 股，11/23 起以 BIP 代码交易——11/20 为 BIPC 最后交易日，收盘集合竞价 4,030 万股换仓（量比 103）把收盘价推到 $65.40（午间仍为 $59.37），属结构性换仓价差而非基本面行情，BIP.UN 同日 +4.6% 收 $61.66。",
+  "RCI-A.TO（Rogers A 类）、DHI.TO、SNY.TO 为薄流通线（3 个月日均量仅 1.5K–3.4K 股），量比 14–18 为小基数效应，无独立消息；Rogers 主流通 B 类 RCI-B +3.3%。Partners Value（PVF-UN.V）Yahoo 无市值，取 TradingView 10.7B。",
+  "Yahoo 80+80 行中 VBNK.TO（VersaBank 旧代码，regularMarketTime 仍为 11/16，已更名 VRSA.TO）为僵尸行已剔除；其余时间戳均为 11/20。TradingView 交叉验证涨跌幅一致（KRY.V Yahoo -14.3% vs TV -11.7%、HG.CN -14.8% vs -14.3% 为延迟报价差异，取 Yahoo 收盘值）。"
+ ],
+ "sectors_html": "<ul><li><strong>大盘：</strong>TSX -2.47% 收 33,189.85（-838.88 点），连跌七日、自 11/11 累跌 8.8%，较 8 月底历史高点回撤逾 10% 进入技术性调整；周跌 8.1% 为年内最惨一周。纳指 -5.28%、标普 -3.70%，VIX 跳升至 35.9。TSX 创业板 -3.9% 收 688。</li><li><strong>跌幅榜主线一：AI 算力链崩塌。</strong>Nvidia 财报后次日 AI 交易全面出清，Celestica -16.4%（TSX 科技板块 -6%，权重最大拖累）、Hut 8 -17.7%（比特币四个月低点 + AI 数据中心叙事双杀，无公司消息）。CDR 跌幅榜 17 只：SanDisk -16.8%、Nebius -16.3%、Bloom -15.4%、Lumentum -13.9%、Nvidia -13.9%、Micron -13.8%、AMD -13.2%、Intuit -12.9%、Coherent -12.9%、CoreWeave -12.5%、Marvell -12.3%、Broadcom -12.2%、Western Digital -12.0%、Arista -11.9%、Dell -11.5%、Rocket Lab -11.1%。本土 AI 周边 Abaxx -12.3%、Electrovaya -11.4%、HydroGraph -14.8%。</li><li><strong>跌幅榜主线二：金属全线重挫。</strong>美元指数 19 个月新高 + 美联储 12 月加息预期 + 中国数据疲弱，黄金 -3.7%（12 月合约 -$170 至 $3,515，14 个月低点）、白银 -7%、铜 -2.5%，TSX 黄金分项 -5%、材料 -4.8%：Sigma Lithium -14.7%、Koryx -14.3%（Haib PFS 后利好出尽）、Gold X2 -14.0%、Trilogy -12.0%、Silverco -11.7%、AbraSilver -11.5%（量比 7.4，全日 623 万股）、Central Asia Metals -11.1%，榜外 Vizsla -10.6%、Skeena -9.3%、Ero -8.3% 等批量 -8~-10%。</li><li><strong>涨幅榜主线：防御性板块抱团。</strong>全市场仅 185 涨 / 830 跌，TSX 仅 5 个分项收涨——电信 +3.2%（Quebecor +5.7%、Rogers +3.3~3.5%、Cogeco +3.0~3.5%、BCE +2.5%、TELUS +2.3%，BCE 入局 TELUS 传闻延续、估值洼地资金避险）、必需消费 +1.3%（Metro +1.8%、Couche-Tard +2.0%、George Weston +1.4%、Leon's +1.5%）、公用事业 +0.4%（BIP.UN +4.6%，BIPC +10.6% 为换仓价差）。个股：Tenaz +7.1%（油价 WTI ~$91 高位，Q3 后反弹）、Condor +5.9%（乌兹别克产量创纪录延续）、Boyd +4.4%、ADF +4.3%（史上最大合同后第二日续涨）。CDR 涨幅榜仅防御性 4 只：UnitedHealth +2.9%、D.R. Horton +1.7%、Walmart +1.7%、Verizon +1.7%。</li></ul>",
+ "anomalies_html": "<ul><li>🔥 <strong>BIPC.TO 量比 103</strong>（+10.6%）：最后交易日换仓，收盘集合竞价 4,030 万股（日均 39 万），非基本面行情，11/23 起并入 BIP。</li><li>🔥 <strong>RCI-A.TO 量比 17.3</strong>（+3.5%）、<strong>DHI.TO 量比 18.5</strong>（+1.7%）、<strong>SNY.TO 量比 14.2</strong>（+1.7%）：薄流通线小基数效应，无独立消息。</li><li>🔥 <strong>LUME.TO 量比 12.8</strong>（-13.9%）、<strong>NBIS.TO 量比 10.9</strong>（-16.3%）、<strong>ZAVG.NE 量比 8.9</strong>（已去重）、<strong>DELL.TO 量比 8.0</strong>（-11.5%）：AI 光通信/云算力/服务器 CDR 恐慌抛售，散户加元渠道集中出逃。</li><li>⚠️ <strong>ABRA.TO 量比 7.4</strong>（-11.5%）：白银 -7% 单日暴跌下的高贝塔白银开发股，623 万股为 7 月以来最大量。</li><li>⚠️ <strong>NVDA.TO 量比 7.3</strong>（-13.9%，1,458 万股）、<strong>KRY.V 量比 6.9</strong>（-14.3%，PFS 后第三日放量回吐）、<strong>BIP-UN.TO 量比 6.8</strong>（+4.6%，同为换仓最后日）、<strong>BE.TO 量比 6.0</strong>、<strong>RKLB.TO 量比 5.2</strong>、<strong>INTU.TO 3.9</strong>、<strong>COHR.TO 3.9</strong>、<strong>ANET.TO 3.8</strong>、<strong>WMT.TO 3.5</strong>（+1.7%，财报后避险买盘）、<strong>AVGO.TO 3.2</strong>、<strong>MU.TO 3.1</strong>、<strong>TNZ.TO 3.0</strong>。</li></ul>",
+ "digest": "收盘补跑：TSX -2.47% 收 33,190 连跌七日进入技术性调整（周跌 8.1%，年内最惨一周），纳指 -5.3%——AI 算力链崩塌：Hut 8 -17.7%、Celestica -16.4%，CDR 跌幅榜 17 只（SanDisk -16.8%、Nebius -16.3%、Nvidia -13.9%、Micron -13.8%、AMD -13.2%）；金属全线重挫（金 -3.7% 14 个月低、银 -7%）：Sigma -14.7%、Koryx -14.3%、AbraSilver -11.5%。涨幅榜仅剩防御抱团：电信 +3.2%（Quebecor +5.7%、Rogers +3.3%、BCE/TELUS +2.3~2.5%）、必需消费 +1.3%；BIPC +10.6% 为并入 BIP Inc. 最后交易日的换仓价差（量比 103）。"
+}
