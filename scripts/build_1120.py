@@ -34,6 +34,7 @@ def row(i, v):
     name = v["name"]
     for cut in (" Shs", " SHS", " Inc.", " Inc", " Corp.", " Corporation", " Limited", " Ltd.", " Company", " N.V", ", "):
         if cut in name: name = name.split(cut)[0]
+    name = name.rstrip(", ")
     if cdr: name += " CDR"
     chg = v["chg"]
     return [i, sym, name.strip(), f"{v['price']:.2f}", f"{chg:+.2f}%", fmtcap(cap, cdr), SEC.get(sym, v.get("tvsector") or "?"), vr]
