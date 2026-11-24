@@ -65,8 +65,8 @@ D = {
   "</ul>"),
  "anomalies_html": (
   "<ul>"
-  "<li>🔥 <strong>DELL.TO 量比 15.6</strong>（+21.0%，44.7 万股 vs 日均 2.9 万）、<strong>KLAC.TO 量比 12.9</strong>（+14.8%，47.3 万股 vs 日均 3.7 万）：AI 服务器/半导体设备 CDR 新上线不久、三个月基数低，黄仁勋回归引发的加元渠道散户追买放大量比；Dell 为 Nvidia 最大服务器合作伙伴。</li>"
-  "<li>⚠️ <strong>NVDA.TO 量比 6.3</strong>（+31.0%，1,399 万股，CDR 史上最大单日成交）、<strong>DR.TO 量比 6.5</strong>（-5.5%，16.2 万股 vs 日均 2.5 万，出售阿肯色医院后抛售）、<strong>XLY.TO 量比 5.7</strong>（+13.0%，71.5 万股，Q3 创纪录业绩后第二波拉升，无新消息）、<strong>CRWD.TO 量比 4.1</strong>（-9.0%，Zscaler 并购）、<strong>VRT.TO 3.7</strong>（+12.1%）、<strong>APH.TO 3.6</strong>（+11.5%）、<strong>SEA.TO 3.4</strong>（+11.5%，金价反弹 + 11/20 收购 Orogen 的 Slaughterhouse 铜金项目）、<strong>AMAT.TO 3.3</strong>（+13.9%）、<strong>XOM.TO 3.3</strong>（-2.0%，油价跌破 $80）。</li>"
+  "<li>🔥 <strong>DELL.TO 量比 15.6</strong>（+21.0%，44.7 万股 vs 日均 2.9 万）、<strong>KLAC.TO 量比 12.9</strong>（+14.8%，47.3 万股 vs 日均 3.7 万）：AI 服务器/半导体设备 CDR 三个月日均量基数低，黄仁勋回归引发的加元渠道散户追买放大量比；Dell 为 Nvidia 最大服务器合作伙伴。</li>"
+  "<li>⚠️ <strong>NVDA.TO 量比 6.3</strong>（+31.0%，1,399 万股，为日均 6.3 倍）、<strong>DR.TO 量比 6.5</strong>（-5.5%，16.2 万股 vs 日均 2.5 万，出售阿肯色医院后抛售）、<strong>XLY.TO 量比 5.7</strong>（+13.0%，71.5 万股，Q3 创纪录业绩后第二波拉升，无新消息）、<strong>CRWD.TO 量比 4.1</strong>（-9.0%，Zscaler 并购）、<strong>VRT.TO 3.7</strong>（+12.1%）、<strong>APH.TO 3.6</strong>（+11.5%）、<strong>SEA.TO 3.4</strong>（+11.5%，金价反弹 + 近期协议收购 Orogen 的 Slaughterhouse 铜金项目）、<strong>AMAT.TO 3.3</strong>（+13.9%）、<strong>XOM.TO 3.3</strong>（-2.0%，油价跌破 $80）。</li>"
   "<li>其余涨跌幅榜量比均 <3：Nvidia 复辟是情绪驱动的全面反弹而非个股消息，本土矿业/能源成交量基本在正常区间（Hudbay 360 万股为日均 1.7 倍、Baytex 732 万股 1.5 倍）。</li>"
   "</ul>"),
  "digest": "收盘补跑：TSX +2.69% 收 34,081 终结七连跌、创 2025-04 以来最大单日涨幅，纳指 +6.5%——Nvidia 复辟黄仁勋出任 CEO，NVDA +31%，AI 算力链报复性反弹，CDR 占涨幅榜 20/30 席（CoreWeave +22.4%、Dell +21.0%、Nebius +20.1%、Marvell +19.2%、Micron +19.0%）；金价自 14 个月低点反弹 1.5%，矿业跟涨（Montage +12.5%、Seabridge/Santacruz/AbraSilver/Hudbay +11%、Sigma Lithium +20%）。跌幅榜 24/30 为能源：WTI 跌破 $80，Saturn -10.2%、Strathcona -5.5%、Parex -3.9%、Baytex -3.2%；CrowdStrike CDR -9.0%（439 亿美元收购 Zscaler）、TELUS -4.9%（Quebecor 会谈但成交概率低）。",
