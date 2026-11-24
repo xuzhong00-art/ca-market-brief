@@ -5,7 +5,7 @@ import urllib.parse
 from _fetch import quotes
 from _proc import dedupe, day  # noqa
 r = json.load(open("data/_raw.json"))
-TODAY = "2026-11-20"
+TODAY = "2026-11-23"
 # Yahoo rows
 rows = {}
 for side in ("yg", "yl"):
@@ -47,8 +47,8 @@ for s, v in rows.items():
     if base in tvsec and not v["cdr"]:
         v["tvsector"], v["tvind"], v["tvchg"] = tvsec[base]
 allr = list(rows.values())
-g = sorted(allr, key=lambda x: -x["chg"])[:30]
-l = sorted(allr, key=lambda x: x["chg"])[:30]
+g = sorted(allr, key=lambda x: -x["chg"])[:36]
+l = sorted(allr, key=lambda x: x["chg"])[:36]
 def fmt(v):
     v["vr"] = round(v["vol"] / v["avg"], 1) if v.get("avg") else None
     return v

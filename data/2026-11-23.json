@@ -1,0 +1,619 @@
+{
+ "date": "2026-11-23",
+ "weekday": "周一",
+ "snapshot": "2026-11-23 16:00 ET 收盘（补跑：电脑早间未运行，数据为全日收盘值）",
+ "market_state": "CLOSED",
+ "vr_note": "量比 = 当日成交量 ÷ 3个月日均量（收盘后补跑，已开盘时长占比取 1.0）。⚠️≥3，🔥≥8。全日口径下 ≥3 即为实质放量。",
+ "gainers": [
+  [
+   1,
+   "NVDA.TO",
+   "NVIDIA CDR",
+   "36.55",
+   "+30.96%",
+   "4341.7B*",
+   "AI芯片 CDR",
+   6.3
+  ],
+  [
+   2,
+   "CRWV.TO",
+   "CoreWeave CDR",
+   "9.07",
+   "+22.40%",
+   "31.5B*",
+   "AI云算力 CDR",
+   2.4
+  ],
+  [
+   3,
+   "DELL.TO",
+   "Dell Technologies CDR",
+   "14.29",
+   "+21.00%",
+   "253.7B*",
+   "AI服务器 CDR",
+   15.6
+  ],
+  [
+   4,
+   "NBIS.TO",
+   "Nebius Group CDR",
+   "13.92",
+   "+20.10%",
+   "34.2B*",
+   "AI云算力 CDR",
+   0.9
+  ],
+  [
+   5,
+   "SGML.V",
+   "Sigma Lithium",
+   "6.00",
+   "+20.00%",
+   "676M",
+   "锂",
+   1.2
+  ],
+  [
+   6,
+   "OGN.V",
+   "Orogen Royalties",
+   "4.09",
+   "+19.24%",
+   "243M",
+   "贵金属权利金",
+   1.2
+  ],
+  [
+   7,
+   "MRV.TO",
+   "Marvell Technology CDR",
+   "23.39",
+   "+19.15%",
+   "153.9B*",
+   "数据中心芯片 CDR",
+   1.3
+  ],
+  [
+   8,
+   "MU.TO",
+   "Micron Technology CDR",
+   "30.90",
+   "+18.98%",
+   "965.3B*",
+   "存储芯片 CDR",
+   2.6
+  ],
+  [
+   9,
+   "CBRS.TO",
+   "Cerebras Systems CDR",
+   "13.88",
+   "+18.63%",
+   "27.2B*",
+   "AI芯片 CDR",
+   0.9
+  ],
+  [
+   10,
+   "LUME.TO",
+   "Lumentum Holdings CDR",
+   "11.59",
+   "+18.51%",
+   "59.9B*",
+   "光通信 CDR",
+   2.0
+  ],
+  [
+   11,
+   "BE.TO",
+   "Bloom Energy CDR",
+   "13.10",
+   "+18.12%",
+   "60.4B*",
+   "燃料电池 CDR",
+   2.2
+  ],
+  [
+   12,
+   "XNDU.TO",
+   "Xanadu Quantum Technologies",
+   "2.87",
+   "+16.67%",
+   "905M",
+   "量子计算",
+   2.0
+  ],
+  [
+   13,
+   "INTC.TO",
+   "Intel CDR",
+   "33.36",
+   "+16.24%",
+   "391.1B*",
+   "芯片 CDR",
+   2.5
+  ],
+  [
+   14,
+   "KEEL.TO",
+   "Keel Infrastructure",
+   "2.31",
+   "+16.08%",
+   "1.4B",
+   "AI数据中心/电力",
+   1.5
+  ],
+  [
+   15,
+   "COHR.TO",
+   "Coherent Corp CDR",
+   "15.30",
+   "+15.12%",
+   "52.9B*",
+   "光通信 CDR",
+   1.5
+  ],
+  [
+   16,
+   "FISH.V",
+   "Sailfish Royalty",
+   "6.74",
+   "+15.02%",
+   "532M",
+   "贵金属权利金",
+   2.6
+  ],
+  [
+   17,
+   "KLAC.TO",
+   "KLA CDR",
+   "19.60",
+   "+14.75%",
+   "237.2B*",
+   "半导体设备 CDR",
+   12.9
+  ],
+  [
+   18,
+   "BMM.V",
+   "Black Mammoth Metals",
+   "4.00",
+   "+14.61%",
+   "216M",
+   "黄金勘探(内华达)",
+   1.8
+  ],
+  [
+   19,
+   "VRNO.NE",
+   "Verano Holdings",
+   "5.15",
+   "+14.44%",
+   "376M",
+   "大麻(美国)",
+   1.4
+  ],
+  [
+   20,
+   "LRCX.TO",
+   "Lam Research Corp CDR",
+   "18.31",
+   "+14.01%",
+   "328.6B*",
+   "半导体设备 CDR",
+   2.6
+  ],
+  [
+   21,
+   "AMAT.TO",
+   "Applied Materials CDR",
+   "38.30",
+   "+13.85%",
+   "344.7B*",
+   "半导体设备 CDR",
+   3.3
+  ],
+  [
+   22,
+   "WDC.TO",
+   "Western Digital CDR",
+   "17.97",
+   "+13.52%",
+   "140.3B*",
+   "存储 CDR",
+   1.3
+  ],
+  [
+   23,
+   "SMCI.TO",
+   "Super Micro Computer CDR",
+   "7.85",
+   "+13.28%",
+   "20.5B*",
+   "AI服务器 CDR",
+   1.3
+  ],
+  [
+   24,
+   "XLY.TO",
+   "Auxly Cannabis Group",
+   "3.92",
+   "+12.97%",
+   "405M",
+   "大麻(加拿大)",
+   5.7
+  ],
+  [
+   25,
+   "MAU.TO",
+   "Montage Gold",
+   "13.81",
+   "+12.46%",
+   "5.6B",
+   "黄金开发(科特迪瓦)",
+   2.2
+  ],
+  [
+   26,
+   "ORAC.TO",
+   "Oracle CDR",
+   "5.57",
+   "+12.30%",
+   "439.1B*",
+   "云/数据库 CDR",
+   1.3
+  ],
+  [
+   27,
+   "VRT.TO",
+   "Vertiv Holdings Co. CDR",
+   "13.80",
+   "+12.10%",
+   "91.9B*",
+   "数据中心电力/散热 CDR",
+   3.7
+  ],
+  [
+   28,
+   "HUT.TO",
+   "Hut 8",
+   "73.83",
+   "+12.07%",
+   "8.9B",
+   "比特币矿机/AI数据中心",
+   1.1
+  ],
+  [
+   29,
+   "BZ.V",
+   "Benz Mining",
+   "3.53",
+   "+12.06%",
+   "1.3B",
+   "黄金勘探(澳洲)",
+   0.4
+  ],
+  [
+   30,
+   "NG.TO",
+   "NovaGold Resources",
+   "7.46",
+   "+12.01%",
+   "3.3B",
+   "黄金开发(阿拉斯加)",
+   1.4
+  ]
+ ],
+ "losers": [
+  [
+   1,
+   "SOIL.TO",
+   "Saturn Oil & Gas",
+   "7.06",
+   "-10.18%",
+   "1.3B",
+   "油气(萨省/阿省轻油)",
+   1.7
+  ],
+  [
+   2,
+   "CRWD.TO",
+   "CrowdStrike Holdings CDR",
+   "12.92",
+   "-8.95%",
+   "337.2B*",
+   "网络安全 CDR",
+   4.1
+  ],
+  [
+   3,
+   "DR.TO",
+   "Medical Facilities",
+   "16.52",
+   "-5.55%",
+   "268M",
+   "美国专科外科医院",
+   6.5
+  ],
+  [
+   4,
+   "SCR.TO",
+   "Strathcona Resources",
+   "35.99",
+   "-5.46%",
+   "7.7B",
+   "油气/油砂",
+   1.9
+  ],
+  [
+   5,
+   "T.TO",
+   "TELUS",
+   "15.09",
+   "-4.85%",
+   "24.0B",
+   "电信",
+   1.0
+  ],
+  [
+   6,
+   "KEI.TO",
+   "Kolibri Global Energy",
+   "6.14",
+   "-4.06%",
+   "221M",
+   "油气(俄克拉荷马)",
+   0.9
+  ],
+  [
+   7,
+   "PXT.TO",
+   "Parex Resources",
+   "17.99",
+   "-3.85%",
+   "1.7B",
+   "油气(哥伦比亚)",
+   1.3
+  ],
+  [
+   8,
+   "KEL.TO",
+   "Kelt Exploration",
+   "11.58",
+   "-3.50%",
+   "2.4B",
+   "油气(蒙尼)",
+   1.5
+  ],
+  [
+   9,
+   "VET.TO",
+   "Vermilion Energy",
+   "14.25",
+   "-3.32%",
+   "2.2B",
+   "油气(国际)",
+   0.7
+  ],
+  [
+   10,
+   "BTE.TO",
+   "Baytex Energy",
+   "5.49",
+   "-3.17%",
+   "3.7B",
+   "油气(鹰滩/重油)",
+   1.5
+  ],
+  [
+   11,
+   "STZ.TO",
+   "Constellation Brands CDR",
+   "10.81",
+   "-3.05%",
+   "34.5B*",
+   "酒类 CDR",
+   2.1
+  ],
+  [
+   12,
+   "IPCO.TO",
+   "International Petroleum",
+   "34.70",
+   "-2.94%",
+   "3.9B",
+   "油气(国际)",
+   0.9
+  ],
+  [
+   13,
+   "RBY.TO",
+   "Rubellite Energy",
+   "3.05",
+   "-2.87%",
+   "288M",
+   "重油(克利尔沃特)",
+   1.2
+  ],
+  [
+   14,
+   "TOU.TO",
+   "Tourmaline Oil",
+   "61.07",
+   "-2.86%",
+   "23.7B",
+   "天然气",
+   1.4
+  ],
+  [
+   15,
+   "VLE.TO",
+   "Valeura Energy",
+   "12.28",
+   "-2.85%",
+   "1.3B",
+   "油气(泰国)",
+   1.2
+  ],
+  [
+   16,
+   "LCFS.TO",
+   "Tidewater Renewables",
+   "19.78",
+   "-2.71%",
+   "723M",
+   "可再生柴油",
+   1.5
+  ],
+  [
+   17,
+   "IPO.TO",
+   "InPlay Oil",
+   "15.54",
+   "-2.57%",
+   "427M",
+   "油气(卡迪姆)",
+   1.0
+  ],
+  [
+   18,
+   "SGY.TO",
+   "Surge Energy",
+   "9.53",
+   "-2.56%",
+   "938M",
+   "油气(轻油)",
+   0.7
+  ],
+  [
+   19,
+   "GTE.TO",
+   "Gran Tierra Energy",
+   "12.43",
+   "-2.51%",
+   "440M",
+   "油气(哥伦比亚/厄瓜多尔)",
+   1.3
+  ],
+  [
+   20,
+   "POU.TO",
+   "Paramount Resources",
+   "29.96",
+   "-2.47%",
+   "4.4B",
+   "油气(蒙尼)",
+   1.8
+  ],
+  [
+   21,
+   "TNZ.TO",
+   "Tenaz Energy",
+   "42.20",
+   "-2.45%",
+   "1.4B",
+   "油气(荷兰/加拿大)",
+   1.2
+  ],
+  [
+   22,
+   "PEY.TO",
+   "Peyto Exploration & Development",
+   "23.86",
+   "-2.41%",
+   "4.9B",
+   "天然气",
+   1.1
+  ],
+  [
+   23,
+   "ALA.TO",
+   "AltaGas",
+   "53.89",
+   "-2.37%",
+   "16.8B",
+   "燃气公用事业/中游",
+   1.6
+  ],
+  [
+   24,
+   "AIM.TO",
+   "Aimia",
+   "2.52",
+   "-2.33%",
+   "222M",
+   "投资控股",
+   1.0
+  ],
+  [
+   25,
+   "CU.TO",
+   "Canadian Utilities",
+   "53.76",
+   "-2.22%",
+   "14.6B",
+   "公用事业",
+   1.1
+  ],
+  [
+   26,
+   "MX.TO",
+   "Methanex",
+   "85.96",
+   "-2.15%",
+   "6.7B",
+   "甲醇",
+   1.3
+  ],
+  [
+   27,
+   "PSK.TO",
+   "PrairieSky Royalty",
+   "33.23",
+   "-2.09%",
+   "7.7B",
+   "油气权利金",
+   0.6
+  ],
+  [
+   28,
+   "CVE.TO",
+   "Cenovus Energy",
+   "38.07",
+   "-2.06%",
+   "68.8B",
+   "油砂/炼化",
+   1.2
+  ],
+  [
+   29,
+   "TPZ.TO",
+   "Topaz Energy",
+   "27.33",
+   "-1.97%",
+   "4.2B",
+   "油气权利金/基础设施",
+   1.3
+  ],
+  [
+   30,
+   "XOM.TO",
+   "Exxonmobil Holdings CDR",
+   "28.06",
+   "-1.96%",
+   "936.6B*",
+   "综合油气 CDR",
+   3.3
+  ]
+ ],
+ "table_notes": [
+  "带 * 的 CDR 行市值为美股母公司总市值的加元换算（TradingView 口径），非加拿大挂牌份额；CDR 现价/涨跌/成交量取 .TO 主挂牌（Yahoo v7 quote）。NVIDIA 的 Cboe 非赞助线 ZNVD.NE（+28.7%）与 NVDA.TO 重复，已去重。",
+  "Yahoo 80+80 行中 BIPC.TO（regularMarketTime 仍为 11/20，已并入 BIP Inc. 停止交易）为僵尸行已剔除；其余时间戳均为 11/23。TradingView 交叉验证涨跌幅一致（BTE.TO Yahoo -3.2% vs TV -3.0%、VET.TO -3.3% vs -3.1% 为收盘前延迟差异，取 Yahoo 收盘值）。",
+  "美股 CDR 占涨幅榜 20/30 席，为本简报开栏以来最高；CDR 三个月日均量多为低基数，量比解读需结合绝对成交额。"
+ ],
+ "sectors_html": "<ul><li><strong>大盘：</strong>TSX +2.69% 收 34,081.44（+891.59 点），终结七连跌、创 2025-04-09 以来最大单日涨幅，基本收复上周五 -839 点的失地；TSX 创业板 +3.7% 收 712.63。美股更猛：纳指 +6.51%（历史第二大点数涨幅）、标普 +4.73%、道指 +1,448 点，均为 2025 年 4 月以来最佳单日。</li><li><strong>涨幅榜主线一：Nvidia 复辟黄仁勋，AI 算力链全面报复性反弹。</strong>Nvidia 董事会周一早间宣布黄仁勋重新出任总裁兼 CEO（上周因私生活丑闻辞职引发 AI 板块崩塌），NVDA +31% 单日增加约 9,760 亿美元市值，费城半导体指数 +13%。加元渠道 CDR 跟涨：Nvidia +31.0%、CoreWeave +22.4%、Dell +21.0%、Nebius +20.1%、Marvell +19.2%、Micron +19.0%、Cerebras +18.6%、Lumentum +18.5%、Bloom +18.1%、Intel +16.2%、Coherent +15.1%、KLA +14.8%（新加坡新厂 + 47 亿美元指引）、Lam +14.0%、Applied Materials +13.9%、Western Digital +13.5%、SuperMicro +13.3%、Oracle +12.3%、Vertiv +12.1%、Amphenol +11.5%、Tesla +11.2%、Palantir +11.0%、SanDisk +10.7%。本土 AI 周边同步：Xanadu +16.7%、Keel Infrastructure +16.1%（纳斯达克 +19%）、Hut 8 +12.1%、Hammond Power +11.8%、Kraken +11.5%、Electrovaya +10.0%。</li><li><strong>涨幅榜主线二：贵金属与矿业超跌反弹。</strong>金价自上周五 14 个月低点反弹 1.5% 至 ~$3,636、白银回到 $43 上方、铜反弹，TSX 材料板块领涨：Montage +12.5%、Seabridge +11.5%（量比 3.4）、Santacruz Silver +11.2%、AbraSilver +11.1%、G Mining +10.9%、Hudbay +10.9%、NovaGold +12.0%、Benz +12.1%、Skeena +9.9%、Amex +10.3%；权利金股 Orogen +19.2%、Sailfish +15.0%、Elemental +10.1%、Metalla +9.7%。Sigma Lithium +20.0%（上周 -14.7% 后反弹，11/16 完成 1.25 亿美元可转债再融资）。</li><li><strong>跌幅榜主线：能源单边出清——30 席中 24 席为油气/能源基础设施。</strong>WTI 跌破 $80 至 ~$79.97（-3.4%，8 月以来最低）、Brent ~$92，三周连跌：资金从上周避险的能源/防御板块轮出，回流 AI 风险资产。Saturn -10.2%（11/18 IDEAS 大会后连跌，无公司新消息，本月第四次单日跌幅 >5%）、Strathcona -5.5%（Greenfire 收购联合通函刊发、特别会议定于 2027-01-12，股东稀释预期）、Kolibri -4.1%、Parex -3.9%、Kelt -3.5%、Vermilion -3.3%、Baytex -3.2%、IPC -2.9%、Tourmaline -2.9%、Valeura -2.9%、Paramount -2.5%、Peyto -2.4%、Cenovus -2.1%，公用事业 AltaGas -2.4%、Canadian Utilities -2.2%，权利金 PrairieSky -2.1%、Topaz -2.0%、Freehold -1.9%；CDR 仅 Exxon -2.0%。</li><li><strong>跌幅榜个股：</strong>CrowdStrike CDR -9.0%（量比 4.1）：Q3 营收 +28.3% 超预期并上调全年指引，但同日宣布 439 亿美元全股票收购 Zscaler（溢价 34%），市场质疑稀释与整合，为当日纳指少数逆势下跌的科技股。TELUS -4.9%（885 万股）：Quebecor 与 TELUS CEO 周一在渥太华会面讨论收购提议，但分析师普遍认为按现条款达成并获批概率低，自提议公开以来 TELUS +24%、Quebecor -21%，溢价空间已收窄至 11%，获利盘回吐。Medical Facilities -5.5%（量比 6.5）：完成出售阿肯色外科医院 51% 权益（6,300 万美元），资产缩表引发抛售。Constellation Brands CDR -3.1%、Tidewater Renewables -2.7%、Methanex -2.2%、Aimia -2.3%。</li></ul>",
+ "anomalies_html": "<ul><li>🔥 <strong>DELL.TO 量比 15.6</strong>（+21.0%，44.7 万股 vs 日均 2.9 万）、<strong>KLAC.TO 量比 12.9</strong>（+14.8%，47.3 万股 vs 日均 3.7 万）：AI 服务器/半导体设备 CDR 新上线不久、三个月基数低，黄仁勋回归引发的加元渠道散户追买放大量比；Dell 为 Nvidia 最大服务器合作伙伴。</li><li>⚠️ <strong>NVDA.TO 量比 6.3</strong>（+31.0%，1,399 万股，CDR 史上最大单日成交）、<strong>DR.TO 量比 6.5</strong>（-5.5%，16.2 万股 vs 日均 2.5 万，出售阿肯色医院后抛售）、<strong>XLY.TO 量比 5.7</strong>（+13.0%，71.5 万股，Q3 创纪录业绩后第二波拉升，无新消息）、<strong>CRWD.TO 量比 4.1</strong>（-9.0%，Zscaler 并购）、<strong>VRT.TO 3.7</strong>（+12.1%）、<strong>APH.TO 3.6</strong>（+11.5%）、<strong>SEA.TO 3.4</strong>（+11.5%，金价反弹 + 11/20 收购 Orogen 的 Slaughterhouse 铜金项目）、<strong>AMAT.TO 3.3</strong>（+13.9%）、<strong>XOM.TO 3.3</strong>（-2.0%，油价跌破 $80）。</li><li>其余涨跌幅榜量比均 <3：Nvidia 复辟是情绪驱动的全面反弹而非个股消息，本土矿业/能源成交量基本在正常区间（Hudbay 360 万股为日均 1.7 倍、Baytex 732 万股 1.5 倍）。</li></ul>",
+ "digest": "收盘补跑：TSX +2.69% 收 34,081 终结七连跌、创 2025-04 以来最大单日涨幅，纳指 +6.5%——Nvidia 复辟黄仁勋出任 CEO，NVDA +31%，AI 算力链报复性反弹，CDR 占涨幅榜 20/30 席（CoreWeave +22.4%、Dell +21.0%、Nebius +20.1%、Marvell +19.2%、Micron +19.0%）；金价自 14 个月低点反弹 1.5%，矿业跟涨（Montage +12.5%、Seabridge/Santacruz/AbraSilver/Hudbay +11%、Sigma Lithium +20%）。跌幅榜 24/30 为能源：WTI 跌破 $80，Saturn -10.2%、Strathcona -5.5%、Parex -3.9%、Baytex -3.2%；CrowdStrike CDR -9.0%（439 亿美元收购 Zscaler）、TELUS -4.9%（Quebecor 会谈但成交概率低）。"
+}
