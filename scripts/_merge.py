@@ -5,7 +5,7 @@ import urllib.parse
 from _fetch import quotes
 from _proc import dedupe, day  # noqa
 r = json.load(open("data/_raw.json"))
-TODAY = "2026-11-25"
+TODAY = "2026-11-26"
 # Yahoo rows
 rows = {}
 for side in ("yg", "yl"):
